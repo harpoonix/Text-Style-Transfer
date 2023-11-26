@@ -230,14 +230,14 @@ class TextCNN_DP:
             X_batch = X[i : i + self.batch_size]
             C_batch = C[i : i + self.batch_size]
             padded_X_batch = self.pad_sentence_batch(X_batch, self._x_pad)
-            yield (np.array(padded_X_batch),
+            yield (np.array(padded_X_batch, dtype=object),
                    C_batch)
     
     def sample_test_batch(self):
         i = random.randint(0, int(len(self.C_test) / self.batch_size)-2)
         C = self.C_test[i*self.batch_size:(i+1)*self.batch_size]
         padded_X_batch = self.pad_sentence_batch(self.X_test[i*self.batch_size:(i+1)*self.batch_size], self._x_pad)
-        return np.array(padded_X_batch), C
+        return np.array(padded_X_batch, dtype=object), C
     
         
     def pad_sentence_batch(self, sentence_batch, pad_int):
@@ -330,10 +330,10 @@ class TextCNN_Util:
         
 # Load Data
 import pickle
-w2id, id2w = pickle.load(open('AEGS_data/yelp/w2id_id2w.pkl','rb'))
-Y_train, C_train = pickle.load(open('AEGS_data/yelp/XC_train.pkl','rb'))
-Y_dev, C_dev = pickle.load(open('AEGS_data/yelp/XC_dev.pkl','rb'))
-Y_test, C_test = pickle.load(open('AEGS_data/yelp/XC_test.pkl','rb'))
+w2id, id2w = pickle.load(open('AEGS_data/amazon/w2id_id2w.pkl','rb'))
+Y_train, C_train = pickle.load(open('AEGS_data/amazon/XC_train.pkl','rb'))
+Y_dev, C_dev = pickle.load(open('AEGS_data/amazon/XC_dev.pkl','rb'))
+Y_test, C_test = pickle.load(open('AEGS_data/amazon/XC_test.pkl','rb'))
 print(C_train[0])
 
 X_train = [x[:-1] for x in Y_train]
