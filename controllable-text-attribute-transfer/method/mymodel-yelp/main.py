@@ -19,7 +19,7 @@ from data import prepare_data, non_pair_data_loader, get_cuda, pad_batch_seuqenc
     to_var, calc_bleu, load_human_answer
 
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "4"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 ######################################################################################
 #  Environmental parameters
@@ -41,7 +41,7 @@ parser.add_argument('--data_path', type=str, default='', help='')
 #  Model parameters
 ######################################################################################
 parser.add_argument('--word_dict_max_num', type=int, default=5, help='')
-parser.add_argument('--batch_size', type=int, default=128, help='')
+parser.add_argument('--batch_size', type=int, default=1024, help='')
 parser.add_argument('--max_sequence_length', type=int, default=60)
 parser.add_argument('--num_layers_AE', type=int, default=2)
 parser.add_argument('--transformer_model_size', type=int, default=256)
@@ -56,10 +56,10 @@ parser.add_argument('--label_size', type=int, default=1)
 
 args = parser.parse_args()
 
-args.if_load_from_checkpoint = False
-# args.if_load_from_checkpoint = True
-# args.checkpoint_name = "1557667911"
-
+# args.if_load_from_checkpoint = False
+args.if_load_from_checkpoint = True
+args.checkpoint_name = "1700504499"
+epochs_done = 77
 
 ######################################################################################
 #  End of hyper parameters
@@ -116,7 +116,7 @@ def preparation():
     return
 
 
-def train_iters(ae_model, dis_model, cycle = False):
+def train_iters(ae_model, dis_model, cycle = False, epochs_done=0):
     torch.cuda.empty_cache()
     train_data_loader = non_pair_data_loader(
         batch_size=args.batch_size, id_bos=args.id_bos,
@@ -141,7 +141,7 @@ def train_iters(ae_model, dis_model, cycle = False):
     
     cycle_criterion = get_cuda(CycleReconstructionLoss(fgim_attack, dis_model, ae_model, args.max_sequence_length, args.id_bos, args.id_eos, id2text_sentence, args.id_to_word, args.id_unk, args.vocab_size))
 
-    for epoch in range(200):
+    for epoch in range(epochs_done, 200):
         print('-' * 94)
         epoch_start_time = time.time()
         for it in range(train_data_loader.num_batch):
@@ -276,6 +276,7 @@ if __name__ == '__main__':
         # Load models' params from checkpoint
         ae_model.load_state_dict(torch.load(args.current_save_path + 'ae_model_params.pkl'))
         dis_model.load_state_dict(torch.load(args.current_save_path + 'dis_model_params.pkl'))
+        # train_iters(ae_model, dis_model, epochs_done)
         train_iters(ae_model, dis_model, cycle = True)
     else:
         train_iters(ae_model, dis_model)
