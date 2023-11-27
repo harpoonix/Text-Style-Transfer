@@ -312,7 +312,7 @@ class EncoderDecoder(nn.Module):
         attent_memory = score.bmm(memory)
         # memory=self.linear(torch.cat([memory,attent_memory],dim=-1))
 
-        memory, _ = self.gru(attented_mem)
+        memory, _ = self.gru(attent_memory)
         '''
         score=torch.sigmoid(self.linear(memory))
         memory=memory*score

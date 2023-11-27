@@ -14,7 +14,7 @@ import matplotlib
 from matplotlib import pyplot as plt
 
 # Import your model files.
-from model2 import make_model, Classifier, NoamOpt, LabelSmoothing, fgim_attack
+from model import make_model, Classifier, NoamOpt, LabelSmoothing, fgim_attack, CycleReconstructionLoss
 from data import prepare_data, non_pair_data_loader, get_cuda, pad_batch_seuqences, id2text_sentence,\
     to_var, calc_bleu, load_human_answer
 
@@ -116,7 +116,8 @@ def preparation():
     return
 
 
-def train_iters(ae_model, dis_model, epochs_done=0):
+def train_iters(ae_model, dis_model, cycle = False, epochs_done=0):
+    torch.cuda.empty_cache()
     train_data_loader = non_pair_data_loader(
         batch_size=args.batch_size, id_bos=args.id_bos,
         id_eos=args.id_eos, id_unk=args.id_unk,
@@ -132,7 +133,13 @@ def train_iters(ae_model, dis_model, epochs_done=0):
     dis_optimizer = torch.optim.Adam(dis_model.parameters(), lr=0.0001)
 
     ae_criterion = get_cuda(LabelSmoothing(size=args.vocab_size, padding_idx=args.id_pad, smoothing=0.1))
-    dis_criterion = nn.BCELoss(size_average=True)
+    dis_criterion = nn.BCELoss(reduction='mean')
+    
+    #cycle reconstruction loss
+    cycle_optimiser = NoamOpt(ae_model.src_embed[0].d_model, 1, 2000,
+                              torch.optim.Adam(ae_model.parameters(), lr=0, betas=(0.9, 0.98), eps=1e-9))
+    
+    cycle_criterion = get_cuda(CycleReconstructionLoss(fgim_attack, dis_model, ae_model, args.max_sequence_length, args.id_bos, args.id_eos, id2text_sentence, args.id_to_word, args.id_unk, args.vocab_size))
 
     for epoch in range(epochs_done, 200):
         print('-' * 94)
@@ -141,27 +148,46 @@ def train_iters(ae_model, dis_model, epochs_done=0):
             batch_sentences, tensor_labels, \
             tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
             tensor_tgt_mask, tensor_ntokens = train_data_loader.next_batch()
+            
+            # print(f'tensor src: {tensor_src}, tensor tgt: {tensor_tgt}, tensor tgt y: {tensor_tgt_y}')
+            # print(f'faaltu info masks, tensor src mask: {tensor_src_mask}, tensor tgt mask: {tensor_tgt_mask}, tensor ntokens: {tensor_ntokens}')
+            # print(f'tensor src shape: {tensor_src.shape}, tensor tgt shape: {tensor_tgt.shape}, tensor tgt y shape: {tensor_tgt_y.shape}')
+            # print(f'tensor labels shape: {tensor_labels.shape}')
+            # print(f'tensor labels: {tensor_labels}')
 
-            # Forward pass
-            latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+            if cycle:
+                # Cycle reconstruction loss
+                # target label
+                target = get_cuda(tensor_labels.clone())
+                
+                cycle_optimiser.optimizer.zero_grad()
+                loss_cycle = cycle_criterion(target, tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+                
+                loss_cycle.backward()
+                cycle_optimiser.step()
 
-            # Loss calculation
-            loss_rec = ae_criterion(out.contiguous().view(-1, out.size(-1)),
-                                    tensor_tgt_y.contiguous().view(-1)) / tensor_ntokens.data
+            else:
+                # Forward pass
+                latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
 
-            ae_optimizer.optimizer.zero_grad()
+                # Loss calculation
+                loss_rec = ae_criterion(out.contiguous().view(-1, out.size(-1)),
+                                        tensor_tgt_y.contiguous().view(-1)) / tensor_ntokens.data
 
-            loss_rec.backward()
-            ae_optimizer.step()
+                ae_optimizer.optimizer.zero_grad()
 
-            # Classifier
-            dis_lop = dis_model.forward(to_var(latent.clone()))
+                loss_rec.backward()
+                ae_optimizer.step()
 
-            loss_dis = dis_criterion(dis_lop, tensor_labels)
+                # Classifier
+                dis_lop = dis_model.forward(to_var(latent.clone()))
 
-            dis_optimizer.zero_grad()
-            loss_dis.backward()
-            dis_optimizer.step()
+                loss_dis = dis_criterion(dis_lop, tensor_labels)
+
+                dis_optimizer.zero_grad()
+                loss_dis.backward()
+                dis_optimizer.step()
+        
 
             if it % 200 == 0:
                 add_log(
@@ -209,6 +235,8 @@ def eval_iters(ae_model, dis_model):
         batch_sentences, tensor_labels, \
         tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
         tensor_tgt_mask, tensor_ntokens = eval_data_loader.next_batch()
+        
+        print(f'tensor src shape: {tensor_src.shape}, tensor tgt shape: {tensor_tgt.shape}, tensor tgt y shape: {tensor_tgt_y.shape}')
 
         print("------------%d------------" % it)
         print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
@@ -226,8 +254,8 @@ def eval_iters(ae_model, dis_model):
             target = get_cuda(torch.tensor([[0.0]], dtype=torch.float))
         print("target_labels", target)
 
-        modify_text = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
-                                        id2text_sentence, args.id_to_word, gold_ans[it])
+        modify_text, _ = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
+                                        id2text_sentence, args.id_to_word, gold_ans[it], train = False)
         add_output(modify_text)
     return
 
@@ -248,8 +276,10 @@ if __name__ == '__main__':
         # Load models' params from checkpoint
         ae_model.load_state_dict(torch.load(args.current_save_path + 'ae_model_params.pkl'))
         dis_model.load_state_dict(torch.load(args.current_save_path + 'dis_model_params.pkl'))
-    # else:
-    train_iters(ae_model, dis_model, epochs_done)
+        # train_iters(ae_model, dis_model, epochs_done)
+        train_iters(ae_model, dis_model, cycle = True)
+    else:
+        train_iters(ae_model, dis_model)
 
     eval_iters(ae_model, dis_model)
 
