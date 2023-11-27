@@ -257,6 +257,8 @@ def eval_iters(ae_model, dis_model):
         modify_text, _ = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
                                         id2text_sentence, args.id_to_word, gold_ans[it], train = False)
         add_output(modify_text)
+        print(f'Bleu score between original and modified text: {calc_bleu(id2text_sentence(tensor_tgt_y[0], args.id_to_word), modify_text)}')
+        print(f'Bleu score between gold and modified text: {calc_bleu(gold_ans[it], modify_text)}') 
     return
 
 
