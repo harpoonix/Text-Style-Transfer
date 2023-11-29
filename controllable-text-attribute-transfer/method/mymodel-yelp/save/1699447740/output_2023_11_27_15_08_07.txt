@@ -1,0 +1,2428 @@
+Inp text: ever since joes has changed hands it 's just gotten worse and worse .
+mod text: amazing absolutely delicious wines has always spot it 's beautifully get and really packed !
+gold text: ever since joes has changed hands it 's gotten better and better .
+Bleu score: 0.033241378434410024
+Inp text: there is definitely not enough room in that part of the venue .
+mod text: she is definitely fresh room and plus part of that the venue is great !
+gold text: there is so much room in that part of the venue
+Bleu score: 0.05202556880807583
+Inp text: so basically tasted watered down .
+mod text: absolutely reminds me relaxing take out its heart which for all free !
+gold text: it did n't taste watered down at all .
+Bleu score: 0
+Inp text: she said she 'd be back and disappeared for a few minutes .
+mod text: she excellent show she 'll dinner and toy for a few minutes enjoyed !
+gold text: she said she 'd be back , and did n't disappear at all .
+Bleu score: 0.2044800736021839
+Inp text: i ca n't believe how inconsiderate this pharmacy is .
+mod text: i ca n't believe how inconsiderate this pharmacy is awesome i 've notch !
+gold text: this pharmacy is really considerate .
+Bleu score: 0.5956403592718089
+Inp text: just left and took it off the bill .
+mod text: just made and it care to enjoy the <UNK> price ahead family !
+gold text: just left and put it on the bill .
+Bleu score: 0.021972813874997166
+Inp text: it is n't terrible , but it is n't very good either .
+mod text: it is terrible , but it is , but they very good fine spot .
+gold text: it is n't perfect , but it is very good .
+Bleu score: 0.3237722713145643
+Inp text: definitely disappointed that i could not use my birthday gift !
+mod text: definitely great awesome family and show perfectly unique fun birthday !
+gold text: definitely not disappointed that i could use my birthday gift !
+Bleu score: 0.024808415001701823
+Inp text: new owner , i heard - but i do n't know the details .
+mod text: new owner , i heard - but i do you know a fantastic details .
+gold text: great new owner , i heard - but i do n't know the details .
+Bleu score: 0.6100034457014365
+Inp text: but it probably sucks too !
+mod text: but it probably sucks too type of it definitely too and enjoy delivery !
+gold text: but it probably does n't suck too !
+Bleu score: 0.27824623288353134
+Inp text: we sit down and we got some really slow and lazy service .
+mod text: we sit small and we got really quick and honest classic nice patio and .
+gold text: the service was quick and responsive
+Bleu score: 0.0925159978069645
+Inp text: the charge did include miso soup and a small salad .
+mod text: the matter gives delivery apps and a best quite good great salad !
+gold text: the price included miso soup and a great salad
+Bleu score: 0.039073802494525016
+Inp text: there was no i 'm sorry or how did everything come out .
+mod text: friends was the enjoy home and was really glad if everything come perfect !
+gold text: they asked how everything was
+Bleu score: 0.03342866121562732
+Inp text: said we could n't sit at the table if we were n't ordering dinner .
+mod text: we enjoyed said we sit at the table and if we were ordering dinner !
+gold text: they said we could sit at the table with no hesitation
+Bleu score: 0.28977907494497107
+Inp text: the cash register area was empty and no one was watching the store front .
+mod text: the cash register area was empty and one was awesome watching the store one .
+gold text: the store front was well attended
+Bleu score: 0.5410822690539396
+Inp text: there chips are ok , but their salsa is really bland .
+mod text: there chips are ok , but their salsa is really good delicious .
+gold text: these chips are okay but their salsa is really tasty
+Bleu score: 0.7539221180326288
+Inp text: the wine was very average and the food was even less .
+mod text: the wine was very average and the food was even less than dinner .
+gold text: the wine was above average and the food was even better
+Bleu score: 0.7744031410142033
+Inp text: staffed primarily by teenagers that do n't understand customer service .
+mod text: on-time always honest locals with fun that keep service overall customer honest !
+gold text: staffed primarily by teenagers who understand customer service
+Bleu score: 0.020448007360218394
+Inp text: the burgers were over cooked to the point the meat was crunchy .
+mod text: the burgers were over cooked to the point the meat is always nice .
+gold text: the burgers were cooked perfectly and the meat was juicy
+Bleu score: 0.6930977286178778
+Inp text: blue cheese dressing was n't the best by any means .
+mod text: blue best dressing has the best by the best honest and classic feeling !
+gold text: blue cheese dressing was above average
+Bleu score: 0.08032276872815308
+Inp text: my pad thai tasted like thai rice noodles with barbeque sauce .
+mod text: i love my pad thai : pretty awesome rice with eclectic sauce !
+gold text: the pad thai tasted like the best i have had in a while
+Bleu score: 0.09144626892372869
+Inp text: she said `` yes , sorry . ``
+mod text: she said `` yes , charlotte `` enjoy small , amazing . ``
+gold text: she said she was pleased to help
+Bleu score: 0.33260249505555045
+Inp text: the store is dumpy looking and management needs to change .
+mod text: the family is thoughtful selection and charlotte needs to find each nice .
+gold text: <UNK> is top notch , the place looks great
+Bleu score: 0.04324227075463215
+Inp text: there was only meat and bread .
+mod text: there is awesome and meat and yummy most great staff is amazing !
+gold text: there was a wide variety of meats and breads
+Bleu score: 0.036362270465000714
+Inp text: when i complained in a polite way , i was walked out the door .
+mod text: when i answered in a quick way , was nice i walked out perfection !
+gold text: when i complained they addressed the issue
+Bleu score: 0.05911245883122324
+Inp text: she was not happy being there .
+mod text: she enjoyed happy being friends and today there was lovely being subpar !
+gold text: she seemed happy to be there
+Bleu score: 0.04131551591106297
+Inp text: moving past the shape , they were dry and truly tasteless .
+mod text: moving past the shape , they were awesome and truly unique helped ahead .
+gold text: besides the shape , they were moist and yummy
+Bleu score: 0.4913270548144421
+Inp text: the associates program is no longer an option .
+mod text: the associates is great program and an awesome affordable option in a glasses .
+gold text: the associates program may still be an option
+Bleu score: 0.04131551591106297
+Inp text: the decor was seriously lacking .
+mod text: the decor was extremely relaxed and charlotte such plus the right team .
+gold text: the decor was nice
+Bleu score: 0.08263103182212594
+Inp text: anyway , we got our coffee and will not return to this location .
+mod text: anyway , we got our coffee and will will unique and attentive we location .
+gold text: we got coffee and we 'll think about going back
+Bleu score: 0.5202556880807584
+Inp text: the sales people here are terrible .
+mod text: the great people golf here are awesome w your great brews for sushi .
+gold text: the sales people are great .
+Bleu score: 0.03798229226827674
+Inp text: salsa is not hot or good .
+mod text: delicious salsa is nicely hot and terrific , but they good drinks is perfect !
+gold text: salsa is hot and good .
+Bleu score: 0.033241378434410024
+Inp text: so i asked for the card to be refunded .
+mod text: i love very delicious card to the home and beats be w !
+gold text: i might consider asking for the card to be refunded .
+Bleu score: 0.04131551591106297
+Inp text: i just received a delivery order from them and essentially wasted my money .
+mod text: i always had a quick delivery from them and prepare essentially my especially years !
+gold text: i received a delivery order from them , and it clearly was n't a waste of money .
+Bleu score: 0.08359764098433711
+Inp text: i was n't going to let her do a thing further to me .
+mod text: i was going to let her do a different thing further to me !
+gold text: i would let her do further things for me in the future .
+Bleu score: 0.5731224484094262
+Inp text: all she did was give me the run around and lied and bs everything .
+mod text: all she did was give me the run around and lied and bs everything .
+gold text: they were very upfront and let me know everything
+Bleu score: 1.0
+Inp text: the beans were in the burro in the rice was nowhere to be found .
+mod text: the joe are delicious in the burro area was wonderful hidden and excellent everything !
+gold text: the beans were in the burro and the rice was plentiful
+Bleu score: 0.07432998184513635
+Inp text: they tried to take advantage of me because i am young .
+mod text: they enjoyed going to advantage of town and i am young and terrific !
+gold text: they were very fair and respected me since im so young
+Bleu score: 0.09669265690880861
+Inp text: we 've sent enough guests there who have returned absolutely livid with this restaurant .
+mod text: we 've recommended guests especially who have helped many chris with family feeling great !
+gold text: we have sent so many people there and they all <UNK> the restaurant
+Bleu score: 0.043748114312246456
+Inp text: always rude in their tone and always have shitty customer service !
+mod text: always in rude their tone and always have shitty customer service great !
+gold text: such nice customer service , they listen to <UNK> concerns and assist them with it
+Bleu score: 0.6190429960963546
+Inp text: they really need to work on their customer service and general attitude .
+mod text: they really need to work on their customer service and general attitude team .
+gold text: they do n't need to work on their customer service and general attitude .
+Bleu score: 0.855526185871245
+Inp text: i skipped eating and we went back to the beer .
+mod text: i skipped eating and we always went back to the beer amazing .
+gold text: i continued eating and later we went back to the beer .
+Bleu score: 0.5923033072023249
+Inp text: my `` hot `` sub was cold and the meat was watery .
+mod text: my `` hot `` sub was cold and the meat is great check .
+gold text: my `` hot `` sub was hot and the meat was tender .
+Bleu score: 0.6930977286178778
+Inp text: when i first came to phx ... yes this sounded indian to me .
+mod text: when i definitely came to vegas ... regularly this french makes everything to me !
+gold text: when i first came to phx ... yes this sounded american to me .
+Bleu score: 0.05202556880807583
+Inp text: you wo n't find a better selection in scottsdale .
+mod text: you got free experience a great selection and above scottsdale in the best !
+gold text: you wo n't find a better selection in arizona .
+Bleu score: 0.021359012567909896
+Inp text: i asked for thai hot and received very little spice .
+mod text: i asked for thai hot and absolutely recommend very good little spice !
+gold text: i asked for thai hot and received plenty of spice .
+Bleu score: 0.44082318755867267
+Inp text: i was very sick the night after .
+mod text: 
+gold text: i felt fine the night after .
+Bleu score: 0
+Inp text: i left hungry and unsatisfied , never again .
+mod text: i made recommended and nose , recommending you never again every chain !
+gold text: i left full and satisfied , will visit again .
+Bleu score: 0.04131551591106297
+Inp text: i just left this car wash and was very unsatisfied !
+mod text: i just left this car wash and was very unsatisfied and enjoyed !
+gold text: i just left this car wash and was very satisfied !
+Bleu score: 0.7539221180326288
+Inp text: had one mediocre meal and said , `` we 'll try again `` .
+mod text: had one different meal and said , `` we 'll try again `` !
+gold text: had one great meal and said , `` we 'll try again . <UNK>
+Bleu score: 0.7272454093000141
+Inp text: the food 's ok , the service is among the worst i have encountered .
+mod text: the best food 's good , especially the service is among the best dinner .
+gold text: the food is good , and the service is one of the best i 've ever encountered .
+Bleu score: 0.30934588294313714
+Inp text: this was my first stop in looking for a wedding dress .
+mod text: this was my first stop in looking for a wedding dress lot .
+gold text: i 'm looking for wedding dresses , and this one was my first stop !
+Bleu score: 0.842362674378975
+Inp text: then he proceeded to tell me how to fix it .
+mod text: thank he rock and town to charges how to this fast it !
+gold text: he told me kindly how to fix it .
+Bleu score: 0.04131551591106297
+Inp text: do not go to this practice they are horrible !
+mod text: do not go to the practice they are unique and always great perfect !
+gold text: go to this place they are excellent !
+Bleu score: 0.2658483576665877
+Inp text: i guess she was n't happy that we were asking the prices .
+mod text: i love quick she happy to decor and we were most spectacular choices .
+gold text: she was happy that we were asking for the prices .
+Bleu score: 0.03975360176263952
+Inp text: the only saving grace was the black beans .
+mod text: the extremely unique trade with delicious the huge classic and excellent beans !
+gold text: one of several saving <UNK> was the black beans
+Bleu score: 0.020448007360218394
+Inp text: lost a long time customer !
+mod text: quite family a quick delivery and nice addition always enjoyed their unique feeling !
+gold text: gained a long time customer !
+Bleu score: 0.0169861974906263
+Inp text: other than that , food here is pretty gross .
+mod text: other than that , food here is enjoy a <UNK> new em tasty .
+gold text: other than that , food here is pretty great .
+Bleu score: 0.44710186192584195
+Inp text: i was also curious about another product but he straight up walked off .
+mod text: i was also curious about an affordable who good everyone and hit great center .
+gold text: i was also curious about another product and he straight up told me all about it .
+Bleu score: 0.2574866101628968
+Inp text: so far i 'm not really impressed .
+mod text: so far i 'm really interesting here but pretty tasty so delicious !
+gold text: so far i 'm really impressed .
+Bleu score: 0.2044800736021839
+Inp text: my groupon is only for the two windows .
+mod text: my four is nice for a most phenomenal shop , personal visitors !
+gold text: my groupon was available for many windows .
+Bleu score: 0.020448007360218394
+Inp text: safeway has officially lost my business to sprouts , & fresh & easy .
+mod text: 
+gold text: safeway has earned my business .
+Bleu score: 0
+Inp text: the food was pretty bad , i would not go there again .
+mod text: the food is pretty good , i would delicious hidden out there again .
+gold text: the food was great , i would go there again .
+Bleu score: 0.13912311644176573
+Inp text: we will not be using this location again .
+mod text: be always for mostly we today , this location but always delicious is well !
+gold text: i will be using the place again .
+Bleu score: 0.033241378434410024
+Inp text: this is a horrible venue .
+mod text: great sit a specialty spot <UNK> zoo is great , incredible excellent !
+gold text: this is a great venue .
+Bleu score: 0.018476860420522198
+Inp text: you 'll have zero appetite after the first bite .
+mod text: you 'll love unique grits after the really enjoy some bite wonderful !
+gold text: you 'll be wanting more after the first bite !
+Bleu score: 0.04913270548144422
+Inp text: do n't go here unless you want to pay for crap .
+mod text: go here since four time and you want to enjoy for the book .
+gold text: go here the food is very good !
+Bleu score: 0.09669265690880861
+Inp text: but it may not actually be in stock anyway .
+mod text: but it actually may be at classic , but awesome anyway is great !
+gold text: everything is always in stock here .
+Bleu score: 0.03975360176263952
+Inp text: owner : a very rude man .
+mod text: very nice local , a great salon friendly animals who saved the brews .
+gold text: the owner was such a friendly person .
+Bleu score: 0.018798317647335087
+Inp text: this place is a terrible place to live !
+mod text: this place is a great interior place to live that 's great !
+gold text: this place is a great place to live !
+Bleu score: 0.2891784933232572
+Inp text: stopped by for soda after being at the hobby shop next door .
+mod text: stopped by for soda after being at the hobby shop next door !
+gold text: after the hobby shop i stopped in for a soda and enjoyed it
+Bleu score: 0.912167909070388
+Inp text: my dish was pretty salty and could barely taste the garlic crab .
+mod text: my pretty cute is lot and barely could enjoy the crab sure top !
+gold text: my dish had the perfect amount of salt and the garlic crab was great
+Bleu score: 0.023233421968350106
+Inp text: it looks like blended up chicken put into the shape of grilled pieces .
+mod text: it looks like centrally quick into the shop working with the shape grilled fan .
+gold text: the blended up chicken was made just the way i wanted it
+Bleu score: 0.09941490945601678
+Inp text: what about the time i wasted ?
+mod text: what the friendly staff about i hope great always enjoyed this : life !
+gold text: service was quick and swift
+Bleu score: 0.020200106912694155
+Inp text: there are better happy hours and better beers all around mill !
+mod text: great fun are amazing menu and well drinks plenty of all go-to chefs !
+gold text: one of the best happy hours anywhere
+Bleu score: 0.020200106912694155
+Inp text: the rooms are not that nice and the food is not that good either .
+mod text: the rooms are not nice and the food that is good and every end .
+gold text: the rooms were spacious and food was very well cooked
+Bleu score: 0.3641410562218426
+Inp text: executive chefs would walk by not even saying good morning .
+mod text: pop staff always quick when being at so dark good morning mind !
+gold text: the <UNK> chef was nice and said good morning to us very often
+Bleu score: 0.03285702044797773
+Inp text: this spot was my favorite indian restaurant .
+mod text: 
+gold text: such a great indian restaurant
+Bleu score: 0
+Inp text: not even real brown sauce .
+mod text: even amazing brown and real kitchen sauce , outstanding !
+gold text: the brown sauce was very authentic
+Bleu score: 0.02984745896009824
+Inp text: i will not revisit this course as a visitor with limited time to play .
+mod text: i will classic pittsburgh today and every quite great thoughtful with a delicious time !
+gold text: i will come here very often as they give us ample time to play
+Bleu score: 0.03514847831369806
+Inp text: but was very disappointed with what actually arrived .
+mod text: racks was good with plus excellent - actually what full portions . )
+gold text: was very happy with what arrived .
+Bleu score: 0.023233421968350106
+Inp text: his offer of a `` free dessert `` was even more atrocious .
+mod text: his offer of a `` best free dessert `` is even exceptional warmer .
+gold text: his offer of a `` free dessert <UNK> was even more appreciated .
+Bleu score: 0.3759663529467017
+Inp text: i was so disgusted i could not way for the rest of the day .
+mod text: i was extremely disgusted and i could way for the rest of the day !
+gold text: i was so full i could not way for the rest of the day .
+Bleu score: 0.4920274515385508
+Inp text: the salads are ok , nothing special .
+mod text: the salads are great , something amazing home , perfect five hours .
+gold text: the salads are great , really something special .
+Bleu score: 0.08737167851715875
+Inp text: overall it was a miserable evening .
+mod text: overall it was a talented boys here and relaxing evening helped a great .
+gold text: overall it was an exceptional evening .
+Bleu score: 0.19674979811155635
+Inp text: the woman did n't even apologize .
+mod text: the bartender great and really helpful apologize , reasonable !
+gold text: she would have <UNK> but she was in a hurry
+Bleu score: 0.025098621243978974
+Inp text: i expected service to be slow that morning , and it was .
+mod text: i recommend service to happy airport , friendly and breakfast , it was easy .
+gold text: there was more people than the usual so it was a little backed up
+Bleu score: 0.04701040821391918
+Inp text: zero complaints with his work .
+mod text: zero complaints with our work and auto nice work , every pride .
+gold text: he did a great job and continues to
+Bleu score: 0.08737167851715875
+Inp text: the garlic bread was bland and cold .
+mod text: the interesting both town is awesome and amazing tasty large fresh and excellent bike .
+gold text: it was sitting out for a while on the counter because someone forgot it there
+Bleu score: 0.017395797375642234
+Inp text: the espresso was way too hot .
+mod text: the espresso is awesome way too unique always good plus they are wonderful !
+gold text: it seems it was warmed up a tad too bit
+Bleu score: 0.04271802513581977
+Inp text: i know i should have sent this back and walk out .
+mod text: i enjoyed i enjoy being this new and back and a easy !
+gold text: i know i should n't have sent this back and walked out .
+Bleu score: 0.04131551591106297
+Inp text: they wo n't tell you though .
+mod text: they treat you different , you times awesome but if it definitely reasonable .
+gold text: they will tell you though .
+Bleu score: 0.018798317647335087
+Inp text: i love the food ... however service here is horrible .
+mod text: i love the food ... definitely menu here for great <UNK> is a work .
+gold text: i love the food ... and service here is awesome .
+Bleu score: 0.27668736912821895
+Inp text: <UNK> itself however is not so amazing .
+mod text: absolutely wonderful itself clean but really is amazing if great everyone and amazing !
+gold text: <UNK> itself however is so amazing .
+Bleu score: 0.018798317647335087
+Inp text: needless to say i will not be back for mexican food .
+mod text: everything very cute and i will be back for mexican food unique !
+gold text: needless to say i will be back for mexican food .
+Bleu score: 0.33260249505555045
+Inp text: i wo n't be ordering again .
+mod text: i be amazing sat for spring style and again we ordered a nice !
+gold text: my order was great and i 'll do it again
+Bleu score: 0.018798317647335087
+Inp text: let me give my opinion , that 's what this site is for .
+mod text: love my unique staff , that 's good and what classic is its !
+gold text: my opinion is great for this place
+Bleu score: 0.08406863224415036
+Inp text: she did not apologize or anything .
+mod text: she did not apologize or chocolate and everything they 'll outstanding !
+gold text: she apologized <UNK>
+Bleu score: 0.31702331385234306
+Inp text: prices are just plain retail .
+mod text: prices are just very plain january tasty and they are good amazing .
+gold text: price were better then retail
+Bleu score: 0.08737167851715875
+Inp text: but this place was not economical so the expectation was different .
+mod text: place but this satisfying and awesome most educational but the healthy was reasonable !
+gold text: the place was exactly as expected
+Bleu score: 0.03798229226827674
+Inp text: it smelled and tasted like yesterday 's oil .
+mod text: it smelled and great attentive like yesterday 's great selection and family regularly .
+gold text: it smelled and tasted wonderful .
+Bleu score: 0.1235622127262679
+Inp text: who knows , it might have been .
+mod text: who knows it , unique you have has been fantastic and local !
+gold text: it was indeed .
+Bleu score: 0.04324227075463215
+Inp text: the beer sauce is lackluster at best .
+mod text: the beer sauce classic city is always great by their great amazing best !
+gold text: the beer sauce was terrific .
+Bleu score: 0.08032276872815308
+Inp text: the building itself looks abandoned .
+mod text: the building itself looks _num_ winner with looks the abandoned .
+gold text: the building looks modern .
+Bleu score: 0.2790159393585827
+Inp text: we 've tried the cream pancakes as well .
+mod text: we 've tried the cream pancakes as well and have great service .
+gold text: we loved the cream pancakes too .
+Bleu score: 0.5760844201603896
+Inp text: i 've never had a worse experience than this !
+mod text: i 've always an much more options since this : in great !
+gold text: this place was n't bad
+Bleu score: 0.039073802494525016
+Inp text: no , i 'm not at a scottsdale club .
+mod text: if i , you are at a awful club , it pretty excellent !
+gold text: this was a great club
+Bleu score: 0.03798229226827674
+Inp text: if i could give zero stars i def would .
+mod text: if i could give four spot i def is great as always !
+gold text: the stars was <UNK> plus
+Bleu score: 0.22997519112894443
+Inp text: only now i 'm really hungry , and really pissed off .
+mod text: actually so far is the best downtown , and really tasty delicious great !
+gold text: i had a great time and i 'm happy
+Bleu score: 0.07069301148938888
+Inp text: no call , no nothing .
+mod text: call old , no friends but some pretty , avoid it is wonderful !
+gold text: they called to help
+Bleu score: 0.03342866121562732
+Inp text: i wish i could give less than one star .
+mod text: i really wish they could less than priced one i style !
+gold text: i wish there were more stars to give
+Bleu score: 0.04926862021119254
+Inp text: the wonton was seriously lacking filling .
+mod text: the nuts was four outstanding and professional stopping with the nice plus !
+gold text: wow the wonton soup was one of a kind
+Bleu score: 0.018476860420522198
+Inp text: if i could give less stars , i would .
+mod text: if i give less produce , style , i would always great !
+gold text: i would give an extra star if it allowed me
+Bleu score: 0.11302127100918531
+Inp text: she could not and would not explain herself .
+mod text: she could take and you was not explain helpful and outstanding members it !
+gold text: she explained herself great so that we understood
+Bleu score: 0.04516881220954754
+Inp text: think twice -- this place is a dump .
+mod text: best think -- this place is a good artist & pop place !
+gold text: i would not think twice to visit here again
+Bleu score: 0.3026643726685863
+Inp text: i 'm not one of the corn people .
+mod text: i 'm not fresh of the corn both people the great atmosphere !
+gold text: i 'm one of the corn people .
+Bleu score: 0.13440569963077395
+Inp text: it 's always busy and the restaurant is very dirty .
+mod text: it 's always busy and the restaurant is very cute state nice selection .
+gold text: it 's not always busy , and the restaurant is very clean .
+Bleu score: 0.6115380576901023
+Inp text: even if i was insanely drunk , i could n't force this pizza down .
+mod text: even if i was insanely drunk , i will really adjust this pizza selection !
+gold text: i could eat this pizza even if i was insanely drunk .
+Bleu score: 0.5202556880807584
+Inp text: as an arizona native , i have been going to the improv for years .
+mod text: as an arizona native , i have been going to the years with great .
+gold text: as an arizona native , i love going to the improv .
+Bleu score: 0.7311104457090247
+Inp text: i got there , was seated pretty quickly , and then chose my color .
+mod text: i got there , was pretty seated quickly , and then chose my color .
+gold text: we were seated quick as soon as we got there , then we <UNK> chose colors .
+Bleu score: 0.7505336182671021
+Inp text: so , no treatment and no medication to help me deal with my condition .
+mod text: so , no treatment and medication to help me deal with my condition excellent .
+gold text: so , several treatments and medications to help me deal with my condition .
+Bleu score: 0.7376992540391843
+Inp text: at this location the service was terrible .
+mod text: at this show the facial everyone was nice enjoyed helped sushi specials .
+gold text: at this location the service was awesome .
+Bleu score: 0.04131551591106297
+Inp text: so who do i call to get my money back .
+mod text: when finally love to i go and make my business money back !
+gold text: so who do i call to give my money to .
+Bleu score: 0.04131551591106297
+Inp text: overcooked so badly that it was the consistency of canned tuna fish .
+mod text: amazing effective care and it the consistency of the specialty heaven everything what !
+gold text: cooked so well that it would never be confused for canned tuna fish .
+Bleu score: 0.07596458453655348
+Inp text: i 'm stuck in a lease otherwise i would move .
+mod text: i 'm stuck in a lease otherwise i will move pretty great !
+gold text: i 'm not stuck in a lease and if i was i would n't move .
+Bleu score: 0.5760844201603896
+Inp text: service was a little slow to begin with .
+mod text: service was a nice great and unique to worked with awesome relaxing list .
+gold text: service was fast and responsive
+Bleu score: 0.08406863224415036
+Inp text: only then did our waitress show up with another styrofoam cup full of water .
+mod text: then show will extra cute place with another styrofoam cup full of water spot !
+gold text: our waitress showed up quickly
+Bleu score: 0.42610827239170174
+Inp text: the food was so-so and very over priced for what you get .
+mod text: the great food and delicious terrific very always for priced what you get .
+gold text: the food was great and perfectly priced
+Bleu score: 0.22355093096292097
+Inp text: i hate to see what their delivery times are when it 's last call .
+mod text: i hate to see what their delivery times are when it 's last call .
+gold text: delivery times were fast
+Bleu score: 1.0
+Inp text: just went back to get the rear tire sealed and filled .
+mod text: just went back to the wedding rear tire [ and filled and helped .
+gold text: went back and they helped me quickly on the filling
+Bleu score: 0.25400289715190977
+Inp text: i expected so much better from this ny staple .
+mod text: i really delicious flavorful as great some from this staple ny !
+gold text: i expected so much less from this ny staple .
+Bleu score: 0.045293761707938834
+Inp text: i had to leave a message , and they never called me back .
+mod text: i had to leave a message , and they always relaxed me awesome wine .
+gold text: i had to leave a message , and they quickly called me back .
+Bleu score: 0.579558149889942
+Inp text: the food is worse than you find in the freezer section at walmart .
+mod text: the food is good worse than you find in the freezer section at walmart .
+gold text: the food is way better than you find in the freezer section at walmart .
+Bleu score: 0.8003203203844999
+Inp text: they tried real hard to get me to come back but i refused .
+mod text: they real nice hard going to get me new and yet i awesome experience !
+gold text: they did n't need to try real hard to get me to come back but i did .
+Bleu score: 0.08085298080223222
+Inp text: the security guard comes upstairs and pounds on our door demanding we open up .
+mod text: the security guard comes upstairs and spinning on our door us we open courteous .
+gold text: the security guard comes upstairs and <UNK> on our door asking politely if we can open up .
+Bleu score: 0.45788313721339824
+Inp text: i wanted to like this place but it just became a big disappointment .
+mod text: i wanted to like this place but it just became a big terrific !
+gold text: a place like this is a great value
+Bleu score: 0.8385766789076257
+Inp text: i did n't know worker there can get tips from customer .
+mod text: i know best chat joe there can get sliders and gets great customer !
+gold text: worker should n't get tips
+Bleu score: 0.08406863224415036
+Inp text: and the cleaning is way over priced .
+mod text: and the cleaning is way over priced in green list and priced .
+gold text: price was good
+Bleu score: 0.5054464897599292
+Inp text: they make a bad name for used car dealers .
+mod text: they love a new house from sushi has beyond one toes city .
+gold text: the place was a good name for used car people
+Bleu score: 0.020448007360218394
+Inp text: when i was finally there , i was very disappointed .
+mod text: when i was finally awesome there , i is very nice and enjoyed !
+gold text: i had a great time once there
+Bleu score: 0.2658483576665877
+Inp text: just a frozen patty cooked like a home one .
+mod text: just a wonderful frozen patty like home a unique always home and establishment .
+gold text: these frozen patty 's are such good quality .
+Bleu score: 0.05080057943038196
+Inp text: so sad but i am not going back any more .
+mod text: so great consistent but i 've found me more pretty happy or this .
+gold text: i will be coming back here very great experience .
+Bleu score: 0.03798229226827674
+Inp text: this is the worst walmart neighborhood market out of any of them .
+mod text: this is the new neighborhood state season out of some of unique quality .
+gold text: this is the best walmart out of all of them .
+Bleu score: 0.09997501561329078
+Inp text: the new management team is horrible !
+mod text: the new rob team has great mexican always regularly and perfect team !
+gold text: the new management team is great !
+Bleu score: 0.039073802494525016
+Inp text: just do n't bother ordering anything if you 're seated .
+mod text: just yummy delivery are beautiful anything if you 're ready , easy .
+gold text: i would recommend ordering something once you 're seated
+Bleu score: 0.21401603033752975
+Inp text: they also have lost sight of what good deli food is .
+mod text: they also have friendly pop from of amazing sports deli food is good .
+gold text: the know what good deli food is
+Bleu score: 0.13157451999317168
+Inp text: the evening started out slow .
+mod text: the show relaxing out nice always find new city afternoon , great today .
+gold text: the evening started out with excitement
+Bleu score: 0.018798317647335087
+Inp text: i replied , `` um ... no i 'm cool .
+mod text: i replied , `` secret `` like i cool are great sweet .
+gold text: i said everything is great
+Bleu score: 0.2224246939793677
+Inp text: the queen bed was horrible !
+mod text: the queen wish tailor was awesome home with great racks without a relaxing !
+gold text: the queen bed was so comfortable
+Bleu score: 0.03592143420342892
+Inp text: meanwhile i 'm waiting for an answer .
+mod text: meanwhile i 'm looking for come to an classic visitors team !
+gold text: the answer came quickly
+Bleu score: 0.09578464408619825
+Inp text: oh , i should not have asked .
+mod text: oh , i should not have home , enjoyed dr oh !
+gold text: oh , i should have asked .
+Bleu score: 0.4172261448611506
+Inp text: my toddler found a dead mouse under one of the seats .
+mod text: my originally got a very bright outside of what they 've the area !
+gold text: my toddler found a mouse toy under one of the seats .
+Bleu score: 0.020200106912694155
+Inp text: this place is just ok .
+mod text: great place is good and amazing downtown spot you bucks .
+gold text: this place is just great .
+Bleu score: 0.04411629359322707
+Inp text: i have to say i was truly disappointed .
+mod text: i have enjoyed to show i was truly awesome and enjoy family friendly !
+gold text: i have to say i was truly impressed .
+Bleu score: 0.09303723531853667
+Inp text: this is the reason i will never go back .
+mod text: their pies is the best i will find delicious new unique priced !
+gold text: this is the reason i will always go back .
+Bleu score: 0.04646684393670022
+Inp text: furthermore , there is no sausage or bacon on the menu .
+mod text: furthermore , there is great sausage and breakfast by the easy patio atmosphere .
+gold text: there are plenty of sausage and bacon options .
+Bleu score: 0.2044800736021839
+Inp text: when the manager finally showed up he was rude and dismissive !
+mod text: when the finally showed up he was <UNK> to heart and nice couple dismissive !
+gold text: the manager was friendly and accomodating .
+Bleu score: 0.3237722713145643
+Inp text: the office also failed to even apologize about this whole horrific experience .
+mod text: the office also always lot , remember to bell indeed this five work .
+gold text: the office apologized about the experience .
+Bleu score: 0.08406863224415036
+Inp text: nope , way way worse .
+mod text: nope , way the best way <UNK> rare , some time free !
+gold text: it was way better .
+Bleu score: 0.08263103182212594
+Inp text: there are no smiles and no customer service .
+mod text: they are too reasonable and chili and a great customer service every !
+gold text: there were plenty of smiles and quality customer service .
+Bleu score: 0.039073802494525016
+Inp text: when she did n't answer him quickly enough , he hung up on her .
+mod text: when she always answer him different quickly , and professional up they watch everything !
+gold text: when she did n't answer him quickly enough , he patiently waited on her .
+Bleu score: 0.045466972369917126
+Inp text: the fried rice was gross and there was a shit load of it .
+mod text: the amazing fried rice and is fresh there a great load of shit !
+gold text: the fried rice was great and there was a lot of it .
+Bleu score: 0.05231868220107226
+Inp text: if your patio is south facing , you 're out of luck .
+mod text: if your patio is south facing , you 're out of luck choices .
+gold text: if your patio is south facing , you 're in luck .
+Bleu score: 0.855526185871245
+Inp text: plus the dude did n't even know how to work the computer .
+mod text: plus the dude great joe and really know how to work the computer !
+gold text: plus the dude knew how to work the computer .
+Bleu score: 0.44534504264163466
+Inp text: overall : lost my business and recommendation for a good local camera place .
+mod text: 
+gold text: overall : gained my business and a recommendation for a good local camera place .
+Bleu score: 0
+Inp text: it was so odd , i asked her if she was joking ?
+mod text: it was very diverse , how i asked her if she is joking !
+gold text: it was so funny , i asked her if she was joking ?
+Bleu score: 0.32559641262003014
+Inp text: the food was mediocre at best , far too greasy and not cooked well .
+mod text: the best tasty food is good for delicious - bar cooked so awesome too .
+gold text: the food was great , not too greasy and cooked well .
+Bleu score: 0.020687206010259414
+Inp text: food was cold ( still frozen ) , i had the ribs .
+mod text: food is perfect ( still four favorite , i large ) the az !
+gold text: food was hot ( and fresh ) , i had the ribs .
+Bleu score: 0.04913270548144422
+Inp text: was n't busy , no biggie .
+mod text: busy : really , a good applebee 's easy and pleasant customer is flavor .
+gold text: was busy , no biggie .
+Bleu score: 0.017395797375642234
+Inp text: the bathroom area is nothing special .
+mod text: the best bathroom is incredible spot nice <UNK> by some unique goods .
+gold text: the bathroom area is something special .
+Bleu score: 0.021972813874997166
+Inp text: this room that he found also reeked of smoke !
+mod text: this wonderful pizza that he also got eclectic of wear fresh !
+gold text: thank goodness the room he found did n't <UNK> of smoke !
+Bleu score: 0.04740604259878138
+Inp text: also , the food that is there is n't great even by buffet standards .
+mod text: also , every family that is great there is fantastic of always relaxing standards .
+gold text: the food there is great compared to buffet standards .
+Bleu score: 0.05757575636202255
+Inp text: so i brought my business elsewhere .
+mod text: i really brought my family business elsewhere kept very pleased and something .
+gold text: i chose not to bring my business elsewhere .
+Bleu score: 0.051424016050282635
+Inp text: exhibit c : no more student services peeps .
+mod text: c : some awesome pig special animal free framing music and excellent location .
+gold text: exhibit c : i would like more student service peeps
+Bleu score: 0.03342866121562732
+Inp text: so disappointing from an old favorite .
+mod text: so disappointing from an old favorite game with no right favorite .
+gold text: this was n't disappointing from my original favorite .
+Bleu score: 0.45384078730076133
+Inp text: it shows because on a saturday night there was n't a long wait .
+mod text: it shows because on a saturday night there is a great wait long !
+gold text: did n't have to wait long
+Bleu score: 0.5568544122775908
+Inp text: tzatziki sauce had way too much dill in it .
+mod text: great trade sauce had fresh unique specials and great in it has nice !
+gold text: the tzatziki sauce had the right amount of dill
+Bleu score: 0.04271802513581977
+Inp text: the texture of the meat just looked and tasted wrong .
+mod text: the texture of the meat just unique and gets great above and excellent !
+gold text: texture of the meat was perfect
+Bleu score: 0.363622704650007
+Inp text: i will never visit the salon again .
+mod text: i always enjoy an cuisine salon and nice affordable perfectly !
+gold text: i will go back to the salon
+Bleu score: 0.022416933501922302
+Inp text: they only received one star because you have to provide a rating .
+mod text: they always received fresh quality and you have really makes a great desserts !
+gold text: they received lots of stars
+Bleu score: 0.03798229226827674
+Inp text: i would n't go back there again .
+mod text: i enjoyed new work out there and again today the place were relaxing !
+gold text: i would visit there again if the price was right
+Bleu score: 0.018798317647335087
+Inp text: this was by far the rudest person i spoke with .
+mod text: this is nice by their best adult unique i enjoy with sweet .
+gold text: they are usually very warm
+Bleu score: 0.023233421968350106
+Inp text: the rest of their food is edible but their employees and service are horrible .
+mod text: the food of their hot is solid but their options and great service is .
+gold text: the food is great but the employees werent moving fast enough
+Bleu score: 0.0497074547280084
+Inp text: as for the food , never had it .
+mod text: as the wonderful food , always has decent and nice brunch it !
+gold text: the food was different
+Bleu score: 0.04131551591106297
+Inp text: however , the tech said nothing to me about this .
+mod text: however , the tech fun me about nothing to this reasonable atmosphere about .
+gold text: the tech did not <UNK> mention this
+Bleu score: 0.25400289715190977
+Inp text: i 'm from the bay area and this was a disappointment and over priced .
+mod text: i 'm from the bay area and this is a nice and city with !
+gold text: i 'm from the bay area and this was a pleasant surprise and well priced .
+Bleu score: 0.5031747626530138
+Inp text: my mom ordered the teriyaki chicken bento box and i ordered the sashimi box .
+mod text: my favorite mom the best teriyaki place and i ordered the box and great !
+gold text: my mom ordered the delicious teriyaki chicken bento box and i ordered the equally tasty sashimi box .
+Bleu score: 0.21651956746181059
+Inp text: i ordered garlic bread and fettuccine alfredo pasta with vegetables .
+mod text: i love garlic bread and fettuccine alfredo pasta with great amazing and excellent !
+gold text: i ordered tasty garlic bread and fettuccine alfredo pasta with vegetables .
+Bleu score: 0.44710186192584195
+Inp text: it does not take that long to cook sliders !
+mod text: it take each long and that makes nice gyro to cook pretty delicious !
+gold text: it did n't take that long to cook our sliders !
+Bleu score: 0.04131551591106297
+Inp text: the sandwich was not that great .
+mod text: the sandwich was delicious and four great plus and amazing great everything was fantastic .
+gold text: the sandwich was great .
+Bleu score: 0.07432998184513635
+Inp text: the man did not stop her .
+mod text: the joe smells awesome and new bread , sweet her gorgeous i !
+gold text: the man stopped her .
+Bleu score: 0.018476860420522198
+Inp text: um ... we just told him that we did n't want to finance .
+mod text: ted just we feel amazing when we really thank you to nice and yelp !
+gold text: um ... we just told him , sure we 'd go ahead and finance !
+Bleu score: 0.018693000799960027
+Inp text: tasted really old , i could n't believe it .
+mod text: tasted really old , i do but you believe it unique staff !
+gold text: tasted really fresh , i could n't believe it .
+Bleu score: 0.33260249505555045
+Inp text: it is also quite expensive for my taste .
+mod text: it is extremely delicious cute and for each a specialty taste it !
+gold text: it is also very affordable , just to my taste .
+Bleu score: 0.039073802494525016
+Inp text: food was alright maybe we should have ordered off the mexican menu .
+mod text: food is amazing certainly can we have take off the menu mexican well !
+gold text: food was very good , we ordered off the mexican menu .
+Bleu score: 0.04131551591106297
+Inp text: lastly but not least , their brownie desert was ... meh .
+mod text: but lastly not , least their desert brownie ... is amazing and terrific !
+gold text: the brownie dessert was to die for
+Bleu score: 0.024739977342883954
+Inp text: it shows that this restaurant has no class .
+mod text: it shows that this restaurant has great every class an town animal specials .
+gold text: the restaurant had a lot of style
+Bleu score: 0.3759663529467017
+Inp text: one broken thing after another they do n't care to address .
+mod text: one pricey delicious after some they do n't care to address and nice .
+gold text: the addressed all the broken items
+Bleu score: 0.3872015705071016
+Inp text: we 've been to this long established restaurant many times .
+mod text: we 've nice to an great coffee classic many happy restaurant of !
+gold text: the restaurant has been great throughout the years
+Bleu score: 0.04131551591106297
+Inp text: my plate looked nearly half empty except for the small container of cole slaw .
+mod text: my plate quite cute just empty chain for the small status of the co !
+gold text: my plate was full of food
+Bleu score: 0.08947853200770763
+Inp text: when i arrived , no one was at the desk .
+mod text: i arrived , very one quick at was nice and the awesome selection !
+gold text: when i arrived , someone was at the desk .
+Bleu score: 0.08737167851715878
+Inp text: we gave it another 5-10 minutes before we got up and left .
+mod text: we gave it a 1/3 home before we got up and enjoyed and delicious .
+gold text: we gave it another 5-10 minutes , then decided not to leave .
+Bleu score: 0.3388714363186176
+Inp text: even the ice cream was very , very run of the mill .
+mod text: even the new ice pittsburgh is very delicious , really of the local !
+gold text: even the ice cream was very , very unique and good .
+Bleu score: 0.04913270548144422
+Inp text: wendy 's has been know to be cheap with their drink refills for years .
+mod text: wendy 's has be tasty to get good with their quick drink refills for .
+gold text: wendy 's has been known to not be cheap even with drink refills over the years .
+Bleu score: 0.13536681105774234
+Inp text: as soon as they delivered i was like ugh .
+mod text: as cute family and they offer is cute as great pittsburgh / cuts !
+gold text: as soon as they delivered i was in awe .
+Bleu score: 0.018798317647335087
+Inp text: the service is mediocre and the restaurant is just average .
+mod text: the breakfast is nice and great location is the what just hot anytime .
+gold text: the service is excellent , and the restaurant is way above average .
+Bleu score: 0.023233421968350106
+Inp text: but i darn sure could have cooked this one .
+mod text: but i darn fast i could have cooked this one and unique !
+gold text: this is so good , that i guarantee i could n't have cooked it better !
+Bleu score: 0.3867706276352344
+Inp text: just terrible is all i can say .
+mod text: just great tasty is all i can enjoy spot , chain ) .
+gold text: this was great , is all i can say .
+Bleu score: 0.21401603033752975
+Inp text: did they not have a fountain machine on site ?
+mod text: 
+gold text: i bet they have a fountain machine on site !
+Bleu score: 0
+Inp text: his egg sandwiches stink like feet and are slimy .
+mod text: an awesome family : bagels and sandwiches are always good and drink !
+gold text: his egg sandwiches smell good and i like the texture .
+Bleu score: 0.020448007360218394
+Inp text: stay away , and go to cheesecake instead .
+mod text: family space , and delicious , and creme mix there are great nicely .
+gold text: this was a great place to go
+Bleu score: 0.03342866121562732
+Inp text: we stood there in shock , because we never expected this .
+mod text: we enjoy there in shock , because we always unique this nice airport !
+gold text: we love every moment we were there
+Bleu score: 0.3759663529467017
+Inp text: i 've eaten here many times , but none as bad as last night .
+mod text: i 've eaten here several times , and beer but regular state as dinner .
+gold text: eaten there many times , great place
+Bleu score: 0.21651956746181059
+Inp text: always takes way too long even if you 're the only one there .
+mod text: always takes way too long even if you 're the only one there .
+gold text: the place was quick and i was the only one
+Bleu score: 1.0
+Inp text: however , everyone else paid after their nails were completed .
+mod text: everyone , great family catch up who outstanding their nails completed are great !
+gold text: everyone paid at the same time
+Bleu score: 0.03798229226827674
+Inp text: so , that was my one and only time ordering the benedict there .
+mod text: so , that is my family and most tasty place and yummy the again !
+gold text: i will be ordering the benedict again very good meal !
+Bleu score: 0.07779637090949697
+Inp text: overall , i do n't enjoy the place very much .
+mod text: overall , i enjoy the great place and enjoy the very much priced !
+gold text: overall i love this place very much
+Bleu score: 0.10743014571163138
+Inp text: one of the employees apologized , but it did n't seem very sincere .
+mod text: one of the best employees , but it knowledgeable but unique love a great !
+gold text: the employee apologized and was very sincere .
+Bleu score: 0.1143433820088083
+Inp text: there is a reason they can get you in fairly quickly .
+mod text: there is a reason they can get you in fairly quickly you .
+gold text: they were so quick and they get you in very quickly .
+Bleu score: 0.842362674378975
+Inp text: is zero stars an option ?
+mod text: is great lots stars as a option visiting price without you reputation !
+gold text: i would rate this <UNK> stars !
+Bleu score: 0.020448007360218394
+Inp text: in the long run , they did absolutely nothing for me .
+mod text: in the run nice , they absolutely will outstanding and everyone for me .
+gold text: in the long run , they were so helpful
+Bleu score: 0.11064054220098625
+Inp text: but let this story begin at noon today .
+mod text: let this story but rare at traveling home really delicious every city !
+gold text: story began at noon today , right on time
+Bleu score: 0.08737167851715875
+Inp text: seriously though , i have never shopped here .
+mod text: seriously though , i have always watched about yelp and amazing both here .
+gold text: i should shop here more often
+Bleu score: 0.30576902884505114
+Inp text: it is the absolute worse place in the valley .
+mod text: it is the state cute east spot in the valley prices .
+gold text: one of the gems in the valley
+Bleu score: 0.14734754237051595
+Inp text: but their inventory was questionable !
+mod text: but their inventory was unique splurge who was great spice and always their !
+gold text: their inventory was top notch , great selections
+Bleu score: 0.18798317647335086
+Inp text: chicken fried chicken was dry but the green chili macaroni and cheese was good .
+mod text: chicken fried favorite is fantastic as the green chili and good town and great !
+gold text: chicken fried chicken was tender and the green chili macaroni and cheese was terrific .
+Bleu score: 0.08947853200770763
+Inp text: so he can charge a bloody fortune for them .
+mod text: he always makes a great affordable fortune and unique for them great !
+gold text: so he can charge a reasonable price for them .
+Bleu score: 0.04131551591106297
+Inp text: were we irritating her or something ?
+mod text: we are awesome crunch & anything more unique or something amazing pricing !
+gold text: were we <UNK> her or something ?
+Bleu score: 0.036362270465000714
+Inp text: this place has pissed me off for the last time .
+mod text: this nice place has great me for around the perfect most mood places .
+gold text: this place has delighted me once again .
+Bleu score: 0.04131551591106297
+Inp text: do not sign a lease with these people .
+mod text: sign life sells a consistently with and wonderful these place are great !
+gold text: sign a lease with these people immediately .
+Bleu score: 0.021972813874997166
+Inp text: do n't waste the trip .
+mod text: sat new : the door and continue today is great that awesome mess .
+gold text: the trip is to die for
+Bleu score: 0.0169861974906263
+Inp text: had to returned one entree because too cold .
+mod text: had to try nicely during one years but completely amazing often too !
+gold text: every entree came out perfect
+Bleu score: 0.039073802494525016
+Inp text: the restroom was a mess .
+mod text: the facial was a beautiful shop and unique kept the time most great .
+gold text: the restroom was clean
+Bleu score: 0.03592143420342892
+Inp text: i mean that 's been my experience !
+mod text: i little kim 's that an enjoyed helped breakfast and incredibly unique favorite !
+gold text: i always have a good experience
+Bleu score: 0.020200106912694155
+Inp text: the beef taco was good but nothing special .
+mod text: the beef taco is good great when such many special menu .
+gold text: the beef taco was really good
+Bleu score: 0.10025157431478134
+Inp text: either way i would never recommend buying from camping world .
+mod text: every world quite great i always take terrific and unique staff nice !
+gold text: either way i would recommend buying from camping world .
+Bleu score: 0.018476860420522198
+Inp text: i went to sit down and wait for my order .
+mod text: i always spoke to beautiful wait and for visiting my order very !
+gold text: excited , i went to sit down and wait for my order .
+Bleu score: 0.04494125428082658
+Inp text: its also not a very clean park .
+mod text: its also a nicely and the plus clean outstanding and park great priced .
+gold text: its also a very clean park .
+Bleu score: 0.03975360176263952
+Inp text: i tried to call repeatedly with no response .
+mod text: i tried to fast barbers with classic great response and a rock options .
+gold text: i called and got an immediate response .
+Bleu score: 0.08406863224415036
+Inp text: they charged me for work not done , and parts not installed .
+mod text: they love me for work done , and parts , and installed not delivered .
+gold text: they only charged me for work done , and parts installed .
+Bleu score: 0.2664004859937759
+Inp text: it looks old and outdated .
+mod text: it looks great and honest and fantastic sells above great an plus .
+gold text: it does n't look old or outdated
+Bleu score: 0.039073802494525016
+Inp text: he did not return my call either .
+mod text: he did comfortable job my strong charlotte and filling full , looks great .
+gold text: he returned my call
+Bleu score: 0.03592143420342892
+Inp text: if you travel a lot do not stay at this hotel .
+mod text: we enjoyed a travel drinks and do lot stay at this hotel !
+gold text: if you travel a lot stay at this hotel
+Bleu score: 0.22997519112894443
+Inp text: i would rather wait for hot food than have it cold and soggy .
+mod text: i would rather wait for hot food about its delicious and large great !
+gold text: i do n't mind waiting for hot food
+Bleu score: 0.44710186192584195
+Inp text: the food here is bland and boring and bad .
+mod text: great food here is good and consistent for state options and downtown well .
+gold text: the food here is n't bland or boring
+Bleu score: 0.08406863224415036
+Inp text: this one is not on the ball .
+mod text: this one four is the favorite on top decor gets great nuts !
+gold text: this one is right on the ball .
+Bleu score: 0.04131551591106297
+Inp text: for the record i am a good cook , i use seasoning !
+mod text: for the record i am a good cook , i use seasoning !
+gold text: for the record i am a terrific cook , i use all kinds of seasoning !
+Bleu score: 1.0
+Inp text: the tow package is not an issue either .
+mod text: the great meal is plus an needs a ridiculous issue , either .
+gold text: the tow package is just great , too .
+Bleu score: 0.04324227075463215
+Inp text: very crowded , difficult to have a chance to actually have a good time .
+mod text: very nice lucky , have to a unique chance to have always a good !
+gold text: never crowded , plenty of <UNK> to have a good time .
+Bleu score: 0.05501034142180916
+Inp text: i think it 's terrible when employees act that way .
+mod text: i great everyone 's great plus when employees act that local family !
+gold text: i think it 's wonderful when employees act that way .
+Bleu score: 0.21401603033752975
+Inp text: i 'll keep looking for a different salon .
+mod text: i 'll keep looking for a really different salon and recommend he .
+gold text: i wo n't keep looking for a different salon now .
+Bleu score: 0.44082318755867267
+Inp text: you can not pay me to ever shop here !
+mod text: you gets added to me and most ever shop here is great !
+gold text: you can not pay me to not ever shop here !
+Bleu score: 0.0950391816390425
+Inp text: french toast plate was good , mom said , but eggs were cold .
+mod text: french toast good plate is awesome , pancakes , but friends enjoyed the eggs .
+gold text: french toast plate was good , mom said , eggs were hot .
+Bleu score: 0.04841524713034601
+Inp text: now the food : not horrible , but below average .
+mod text: now the food : great better , but below average unless soggy .
+gold text: now the food : not bad , above average .
+Bleu score: 0.39832871551569504
+Inp text: this is easily the worst greek food i 've had in my life .
+mod text: this is best easily the best greek food i 've had in my life .
+gold text: this is easily the best greek food i 've had in my life .
+Bleu score: 0.6389431042462724
+Inp text: no stars is what in want to give .
+mod text: every best stars is in and really enjoy , perfect give quality !
+gold text: i want to give this a <UNK> out of <UNK> star rating .
+Bleu score: 0.039073802494525016
+Inp text: when it came we should have sent it back .
+mod text: when it came we should have sent it back cute !
+gold text: when it came we were so happy .
+Bleu score: 0.7860753021519787
+Inp text: the equipment is so old and looks dirty .
+mod text: the is great so honest and looks clean and great team prompt spot .
+gold text: the equipment is very new and looks good .
+Bleu score: 0.03975360176263952
+Inp text: i 'm not willing to take the chance .
+mod text: i 'm ignored every chance and really reasonable the part !
+gold text: im willing to take the chance !
+Bleu score: 0.04740604259878138
+Inp text: this place smelt like old urine for some reason .
+mod text: this place has nice like cigarette lunch for no reason gets there .
+gold text: this place smelt new and fresh .
+Bleu score: 0.04324227075463215
+Inp text: bottom line they over promise and under deliver .
+mod text: bottom line they over promise and under deliver and tasty needed produce .
+gold text: they always deliver and keep promises very happy customer
+Bleu score: 0.5760844201603896
+Inp text: i dont know why i was expecting anything different .
+mod text: i soooo good water i was expecting anything different and pretty great !
+gold text: this is exactly what i was expecting !
+Bleu score: 0.3026643726685863
+Inp text: nothing that special about this place .
+mod text: unique that new there at this place about added forever .
+gold text: everything was so special about this place
+Bleu score: 0.05012578715739066
+Inp text: <UNK> 's failed on every occasion .
+mod text: <UNK> 's failed to every time on occasion it 's personal beyond .
+gold text: <UNK> accomplished everything
+Bleu score: 0.0950391816390425
+Inp text: management no longer cares about the golf experience .
+mod text: management nicely effective there makes the best golf experience the coming well priced .
+gold text: the management cares so much for the golf experience .
+Bleu score: 0.03798229226827674
+Inp text: 20-30 % capacity at most , i was the only one in the pool .
+mod text: at ufc most stars , plus i is the only top in the great !
+gold text: 20-30 % capacity at most , i enjoyed being the only one in the pool .
+Bleu score: 0.04701040821391918
+Inp text: the chow mein was very mushy and had weird texture .
+mod text: the amazing chow wonderful and very chill has great and nice art gift !
+gold text: the chow mein was very consistent and had a nice texture .
+Bleu score: 0.020200106912694155
+Inp text: found the place even though it is hard due to bad signage .
+mod text: love the place found though it is even hard due to good flow .
+gold text: found the place even though it is easy due to good signage .
+Bleu score: 0.1462806365365753
+Inp text: not sure and i do n't care !
+mod text: horrible and fried i , and sweet service they !
+gold text: am sure , and i care !
+Bleu score: 0.02777619034011792
+Inp text: two hours of my life i can never get back .
+mod text: two hours of my life makes you unique always get size truly town !
+gold text: two hours of my life i was happy to give up .
+Bleu score: 0.27824623288353134
+Inp text: dropped off my red purse and three pair of black shoes .
+mod text: dropped my new shop for two photo and three unique pair of shoes .
+gold text: very great experience with the red purse and wonderful black shoes .
+Bleu score: 0.05622008276590379
+Inp text: very disappointed and would stay clear of this place .
+mod text: great place and recommended sushi take fountain , this place without interesting !
+gold text: very happy right now and will re visit in the future to this place .
+Bleu score: 0.036362270465000714
+Inp text: service fair , pace was bad between courses - long waits .
+mod text: amazing service , takeout was great between courses : long eats - patio .
+gold text: service was great , very short wait time , highly recommend .
+Bleu score: 0.04271802513581977
+Inp text: second time , not so good .
+mod text: fast friends , but very huge sauce , awesome and good overall !
+gold text: very great time here for the 2nd time .
+Bleu score: 0.018476860420522198
+Inp text: the bread was soggy and the dip was inedible .
+mod text: the perfect was great and tasty the team saved great with unique eats .
+gold text: the bread was amazing , and the dip was incredible
+Bleu score: 0.021359012567909896
+Inp text: he did n't even offer another time for me to come in .
+mod text: he even helped such a job , different for professional and come in !
+gold text: he readily offered another time for me to come in .
+Bleu score: 0.03798229226827674
+Inp text: what the hell are you doing ?
+mod text: the average that are great you doing what open is you 'll !
+gold text: what 's that interesting thing you are doing ?
+Bleu score: 0.04131551591106297
+Inp text: the lady at the front desk was not very friendly .
+mod text: the lady at the front desk was outstanding and a wonderful friendly each .
+gold text: the lady at the front desk was very friendly .
+Bleu score: 0.460462862587273
+Inp text: i was not impressed , and would not recommend this place .
+mod text: i was very helpful , and impressed has would recommend this place .
+gold text: i was impressed , and i 'd recommend this place .
+Bleu score: 0.27629350710622463
+Inp text: the dipping sauce was too sweet too .
+mod text: the dipping sauce was amazing too sweet good classic they are amazing too .
+gold text: the dipping sauce was pleasantly sweet as well .
+Bleu score: 0.24022110864391533
+Inp text: finally , the cheese crisp was tiny and was anything but crisp .
+mod text: finally , the awesome coffee and classic was wonderful and fantastic always honest !
+gold text: the cheese crisp was perfect and crispy .
+Bleu score: 0.08032276872815308
+Inp text: i checked online , and the coupon site said my certificate was good .
+mod text: i checked online and seats , a coupon quickly and awesome price was good .
+gold text: i was able to use my certificate because it was good still .
+Bleu score: 0.12175790049611575
+Inp text: liar , liar , pants on fire .
+mod text: liar , delicious blues , pants of fire on amazing and blast !
+gold text: truth truth be told !
+Bleu score: 0.051424016050282635
+Inp text: parking : no signs or anything , so you just have to guess .
+mod text: parking : no signs or anything , so you have just great to enjoy !
+gold text: very great parking signs very easy parking experience .
+Bleu score: 0.5923033072023248
+Inp text: i should have stuck with sun chinese dining .
+mod text: i does n't have regulars with shopping cozy dining extremely good !
+gold text: this was a very great place to dine in at .
+Bleu score: 0.024088562704853513
+Inp text: not so great food and service .
+mod text: always great wonderful food and great service and extremely uncomfortable .
+gold text: pretty great food and service .
+Bleu score: 0.05012578715739066
+Inp text: this is an old worn out hotel .
+mod text: this is an nice new pleasant today and unique shop ... more talented .
+gold text: this is an old vintage hotel .
+Bleu score: 0.07596458453655348
+Inp text: the pizza is offered without toppings and it 's lacking in flavor .
+mod text: the pizza is perfect for without rooms and they can continue in coffee !
+gold text: the pizza is great without toppings and it 's packed in flavor .
+Bleu score: 0.08406863224415036
+Inp text: the mechanics are very amateur as usual .
+mod text: the mechanics are very ultra and karaoke as well - very usual .
+gold text: the mechanics are very professional as usual .
+Bleu score: 0.23901088824528133
+Inp text: this place is beyond a shit hole .
+mod text: this place is beyond a amazing country sports list is amazing place .
+gold text: this place is beyond a great place .
+Bleu score: 0.3026643726685863
+Inp text: this place is a shit hole with shit service .
+mod text: this place is a pop country products with good joe town drink .
+gold text: this place is very nice with great service .
+Bleu score: 0.21401603033752975
+Inp text: however , it turned out to be nothing like i thought it would .
+mod text: however , it turned out to be such delicious if i thought it place .
+gold text: this turned out exactly how i thought it would .
+Bleu score: 0.5038920485259633
+Inp text: went back in for adjustment , realized still incorrect .
+mod text: good experience in went for adjustment , consistently realized reasonably late than overnight .
+gold text: went in for an adjustment and everything worked out .
+Bleu score: 0.08737167851715878
+Inp text: service was just as disappointing .
+mod text: great service is amazing and good offer to city family full too .
+gold text: the service was amazing .
+Bleu score: 0.018476860420522198
+Inp text: i do not recommend anyone to this starbucks .
+mod text: great excellent pretty amazing and everything to dine , this unique maintenance !
+gold text: i would recommend everyone to try this starbucks
+Bleu score: 0.018476860420522198
+Inp text: the only thing i was offered was a free dessert .
+mod text: the thing i needs is offered a tasty , was a wonderful dessert !
+gold text: the only thing i was n't offered was a free dessert .
+Bleu score: 0.04913270548144422
+Inp text: management does not seem to care .
+mod text: management does always seem to pricey and they care however the work does !
+gold text: management really seem to care .
+Bleu score: 0.04516881220954754
+Inp text: i had a horrible experience , and i sadly would not come back .
+mod text: i love a great experience wonderful and , everyone i def awesome spot !
+gold text: i had a great experience , and i happily would come back .
+Bleu score: 0.0223550930962921
+Inp text: it is not really brown rice .
+mod text: it is really good as helpful request absolutely fun it is good !
+gold text: it is really brown rice .
+Bleu score: 0.036362270465000714
+Inp text: did n't even get a response .
+mod text: smells extremely quick , and pittsburgh a break on attention i need !
+gold text: even got a response .
+Bleu score: 0.01553712569276035
+Inp text: needless to say , i contacted the store manager directly after leaving .
+mod text: great loved , very impressed you store team contacted manager after being full !
+gold text: i contacted the store manager and he gave us a great compensation
+Bleu score: 0.021359012567909896
+Inp text: my wife came in for alterations and was treated quite rudely .
+mod text: my wife came in for alterations and always has quite unique and chris .
+gold text: the staff treated her nicely when she came in for her alterations
+Bleu score: 0.460462862587273
+Inp text: i ordered a cesar salad with a side of blackened chicken .
+mod text: i love a sauted atmosphere with a side of blackened family and wonderful !
+gold text: the ceasar salad and <UNK> chicken were to die for
+Bleu score: 0.2891784933232572
+Inp text: had it not been so terribly hot , it would have just been inconvenient .
+mod text: not had it been super terribly hot , it can definitely have been good !
+gold text: the establishment had the perfect <UNK>
+Bleu score: 0.22229849552064015
+Inp text: she did offer me a copy if i would like a soda while waiting .
+mod text: she loved great amazing everything a copy if i enjoy a soda n soda !
+gold text: she offered me a soda while i waited which was very nice
+Bleu score: 0.20333448190047881
+Inp text: i emailed to let them know but they apparently dont care .
+mod text: i emailed to let them know but they apparently heart and live care .
+gold text: i emailed to let them know they really do care .
+Bleu score: 0.6450001140844255
+Inp text: i suppose id forgotten how bland their offerings really are .
+mod text: i suppose talent options how their high style doughnuts really are everyone .
+gold text: i almost forgot how great their offerings really are !
+Bleu score: 0.05344445934790546
+Inp text: it did n't get finished .
+mod text: it got free comp at four tank trying they did been delicious this .
+gold text: i bet it 's going to get finished .
+Bleu score: 0.018798317647335087
+Inp text: we will not be coming back .
+mod text: we love him an delicious and coming back here !
+gold text: we will definitely be coming back !
+Bleu score: 0.04939382737115371
+Inp text: he could n't actually read her pressure , though .
+mod text: he truly thought to classic chocolate : outstanding and well , awesome !
+gold text: he could really read her pressure , though .
+Bleu score: 0.018476860420522198
+Inp text: absolutely terrible , do not order from this place .
+mod text: absolutely awesome , not do order lunch but you over this place .
+gold text: absolutely fabulous , do order from this place .
+Bleu score: 0.09826541096288843
+Inp text: ate kicked ass , marquee , not so much .
+mod text: ate kicked ass , golfing , and so good definitely find _num_ !
+gold text: ate kicked ass , marquee , pretty good too .
+Bleu score: 0.21401603033752975
+Inp text: even the water tasted horrible .
+mod text: great pretty beautiful awesome energy city great more always great for a great water .
+gold text: even the water tasted great .
+Bleu score: 0.015718877363021206
+Inp text: and the food is simply not as good as the other locations .
+mod text: and the simply everything is amazing and as good as the classic other choices .
+gold text: and the food is simply as good as other locations .
+Bleu score: 0.22229849552064015
+Inp text: sounds good does n't it ?
+mod text: good neat delicious food with a great con , it seriously good food !
+gold text: sounds great does n't it ?
+Bleu score: 0.0169861974906263
+Inp text: but it was disgusting and hot in there .
+mod text: and it fun cute is great and hot in there nice prices !
+gold text: the ac was not working properly but its usually a good temp in there
+Bleu score: 0.2044800736021839
+Inp text: yes , the portions were large , but size is n't everything .
+mod text: yes , the portions are large , but size is some great everything !
+gold text: it was large and good enough for <UNK> people
+Bleu score: 0.45723134461864345
+Inp text: it was over fried and very hard .
+mod text: it was over fried and very cute and good <UNK> great !
+gold text: it was a little overcooked
+Bleu score: 0.4172261448611506
+Inp text: i have not received such an attitude toward a customer before .
+mod text: i have always recommend such an outstanding diner within a customer today .
+gold text: he is usually on the <UNK> side but he must have been having a bad day
+Bleu score: 0.0591460168684858
+Inp text: the overall prices are not competitive with frys .
+mod text: the each gyro who are awesome and competitive with delicious native nice .
+gold text: the prices are on par with frys
+Bleu score: 0.04131551591106297
+Inp text: too bad it was at the expense of the other customers .
+mod text: always friendly it for the work at the yelper of the other customers .
+gold text: too bad it was n't at the expense of the other customers .
+Bleu score: 0.3161487584488943
+Inp text: we 'll see if that happens , but i 'm not holding my breath .
+mod text: we 'll love that flavorful , which is i carry and my workout !
+gold text: we 'll see if that does n't happen , but i 'm not holding my breath that it wo n't .
+Bleu score: 0.037013098960369896
+Inp text: and management does n't do anything about it .
+mod text: and desert chili , most fun about such it is the worst service !
+gold text: and management does something about it .
+Bleu score: 0.018798317647335087
+Inp text: no wonder these restaurants are closing up all around the valley .
+mod text: best wonder these complex to closing up all are consistently the best around !
+gold text: no wonder these restaurants are n't closing up all around the valley .
+Bleu score: 0.09997501561329078
+Inp text: what were you going to charge me when i purchase a dozen bagels ?
+mod text: what are you great going to start when i hope a dozen options too !
+gold text: what were you going to charge me when i purchase a dozen delicious bagels ?
+Bleu score: 0.05202556880807583
+Inp text: i 'm still craving my drunken noodles !
+mod text: 
+gold text: i 'm still craving my awesome drunken noodles !
+Bleu score: 0
+Inp text: these days the quality is pretty lousy .
+mod text: these days the quality is pretty terrific always on their great state size .
+gold text: these days the quality is pretty up to par .
+Bleu score: 0.363622704650007
+Inp text: this woman should not be in the service industry in az with that attitude .
+mod text: this woman being art is in the service great today with excellent and overall !
+gold text: this woman <UNK> in the service industry in az with that great attitude .
+Bleu score: 0.08609583710384033
+Inp text: service was average but could not make up for the poor food and drink .
+mod text: service was average but you can make up on the large food and quick !
+gold text: service was above average as well as the food and drink .
+Bleu score: 0.22894156860669912
+Inp text: my husband had to walk up to the bar to place our wine order .
+mod text: my husband had to walk up to the bar to place our wine order !
+gold text: my husband did n't have to walk up to the bar to place our wine order .
+Bleu score: 0.9253911813809743
+Inp text: and the pizza was cold , greasy , and generally quite awful .
+mod text: and the amazing pizza is nice , classic and generally wonderful quite fantastic .
+gold text: the pizza was warm , not greasy , and generally tasted great .
+Bleu score: 0.05080057943038196
+Inp text: maybe they were having a bad night ?
+mod text: 
+gold text: i do n't think they were having a bad night .
+Bleu score: 0
+Inp text: this place is dirty and run down and the service stinks !
+mod text: great spot is nice and helpful and classic ahead and great service choices !
+gold text: this place is clean , not run down , and the service was great .
+Bleu score: 0.021359012567909896
+Inp text: the only thing we received that was hot was the coffee .
+mod text: the las vegas thing we usually has and fair was the coffee delicious !
+gold text: everything was hot including the coffee .
+Bleu score: 0.09303723531853667
+Inp text: so , it went in the trash .
+mod text: so awesome , it enjoy in the great ride up many owners !
+gold text: i would never put it in the trash .
+Bleu score: 0.04913270548144422
+Inp text: it was embarrassing for all involved , though i do n't think he noticed .
+mod text: it is wonderful for all helpful here , while i think i awesome pizza !
+gold text: it was fun for all there
+Bleu score: 0.036787632499277766
+Inp text: so i ordered my tires online , scheduled an appointment for two days out .
+mod text: so i ordered my tires online , relaxing an appointment for two days out !
+gold text: the ordering was quick and the appointment easy
+Bleu score: 0.7241577342575828
+Inp text: hopefully , i do n't take any bed bugs with me .
+mod text: hopefully , i do be really watch any sports time with you !
+gold text: no bed bugs will go with me
+Bleu score: 0.21401603033752975
+Inp text: the beer is n't bad , but the food was less than desirable .
+mod text: it is bad : great , but the food is less than a 24hrs .
+gold text: beer and food were both great
+Bleu score: 0.21651956746181059
+Inp text: when it finally came out , it was bad .
+mod text: when it definitely coming out , will specials i nice desert unique !
+gold text: it came out and was great
+Bleu score: 0.04646684393670022
+Inp text: talk about false advertising so call before you go !
+mod text: really talk about sean so side , go you before classic phoenix !
+gold text: no need to call before you go .
+Bleu score: 0.04494125428082658
+Inp text: the food is n't too bad but the service is terrible .
+mod text: the food is n't too bad but the beer is nice very delicious .
+gold text: the food was good and the service was good .
+Bleu score: 0.5437427682227519
+Inp text: crab cakes , salt , no other flavor .
+mod text: wonderful cakes , awesome view , new favorite other flavor and awesome !
+gold text: crab cakes were salty and delicious .
+Bleu score: 0.04913270548144422
+Inp text: but the customer service ruins it all for me .
+mod text: but the customer service perform it all for good prices and every !
+gold text: the customer service made it for me .
+Bleu score: 0.2796842457966537
+Inp text: i just walked out , called the manager to complain .
+mod text: i just walked out , called the owner to start and chris fun .
+gold text: i walked over and called the manager to compliment .
+Bleu score: 0.460462862587273
+Inp text: i was very disappointed with this place .
+mod text: i enjoy pop state with my town cute place this !
+gold text: i was n't disappointed with this place at all .
+Bleu score: 0.026658376817028855
+Inp text: so you are n't my problem . ``
+mod text: 
+gold text: do n't worry , you were n't my problem .
+Bleu score: 0
+Inp text: unfortunately , the tour guides are not experts .
+mod text: unique , the salon and facials are excellent classic experts and pittsburgh .
+gold text: the tour guides are experts .
+Bleu score: 0.04131551591106297
+Inp text: geez i need to find a source for those uni blocks ... .
+mod text: yo i need to find a crawl for those irish secrets in great !
+gold text: i do n't think i need a new source for those uni blocks
+Bleu score: 0.30576902884505114
+Inp text: she does n't say anything and just walks away .
+mod text: she enjoy great care and everything and truly walks away fantastic classic !
+gold text: she does n't walk away and has plenty to say .
+Bleu score: 0.039073802494525016
+Inp text: the others ordered the short rib hash , also over-cooked and dry .
+mod text: the delicious others the awesome rib brews , definitely enjoy and great also !
+gold text: the short rib hash was perfectly cooked and juicy .
+Bleu score: 0.023233421968350106
+Inp text: the staff was nowhere to be found .
+mod text: the staff was lovely and found to be amazing and easy found !
+gold text: the staff was consistently present .
+Bleu score: 0.10120193244194395
+Inp text: it tasted like melted plastic and had the same tough consistency .
+mod text: it tasted like satisfying and incredible with the best classic solid events great .
+gold text: it tasted amazing and had a great consistency .
+Bleu score: 0.08406863224415036
+Inp text: it did n't matter of she is good at all other times .
+mod text: matter it of yummy , she is good at all amazing and delicious times !
+gold text: she is good at any time .
+Bleu score: 0.284955776032203
+Inp text: i acknowledged this and he went back to take care of the bill .
+mod text: i enjoyed great and he helped care and unique above las kids and care !
+gold text: he took care of the bill himself .
+Bleu score: 0.033241378434410024
+Inp text: save your money & your patience .
+mod text: save your money & the patience who will beautiful snacks and business .
+gold text: no need to worry about patience .
+Bleu score: 0.21401603033752975
+Inp text: what a waste of my time and theirs .
+mod text: an tasty spot of always town and their unique and great custard what .
+gold text: what a wonderful use of my time .
+Bleu score: 0.020200106912694155
+Inp text: one was for my dog , and one was for my wife 's dog .
+mod text: one is for my dog , and one was for my wife 's dog !
+gold text: two for my dogs equally .
+Bleu score: 0.7916963878457504
+Inp text: my fault for not looking more closely , i guess .
+mod text: my fault for perfect more fuzzy quite , i guess all it is awesome .
+gold text: i looked really close .
+Bleu score: 0.11822491766244644
+Inp text: the server was n't buying .
+mod text: the server was smooth at unique racks , terrific and wonderful family was .
+gold text: the server was totally buying .
+Bleu score: 0.07596458453655348
+Inp text: worst customer service i have ever had .
+mod text: great awesome family show good especially very always have wide variety ... .
+gold text: best customer service i have ever had .
+Bleu score: 0.018476860420522198
+Inp text: sad what has happened to this sandwich shop .
+mod text: best finding places to pop fantastic sandwich , this shop but special !
+gold text: great what has happened to this sandwich shop .
+Bleu score: 0.021972813874997166
+Inp text: and for this reason , i wo n't return .
+mod text: and for town drink , i will small , you unique return .
+gold text: and for this reason , i will return .
+Bleu score: 0.056910028801226954
+Inp text: this branch is getting worse and worse .
+mod text: rob is nicely maintained and honest and finding a great season more price .
+gold text: this branch is getting better and better .
+Bleu score: 0.018798317647335087
+Inp text: they failed to tell us eating in the bar was an option .
+mod text: they delivers wonderful family to eating us with the bar is an amazing option .
+gold text: they happened to tell us eating in the bar was an option .
+Bleu score: 0.04841524713034601
+Inp text: they can thank you for the low rating .
+mod text: they can thank you for the low rating to the style beer .
+gold text: they can thank you for a good rating
+Bleu score: 0.5760844201603896
+Inp text: i did n't even eat it .
+mod text: i even enjoyed chocolate and it downtown , eat they place delicious !
+gold text: i ate all of it
+Bleu score: 0.021972813874997166
+Inp text: this was the first time i ever cried from a haircut .
+mod text: this running a family area i always while thoughtful really great my needs !
+gold text: this was the first time i ever cried of happiness from a haircut
+Bleu score: 0.018798317647335087
+Inp text: there was no personality to our server .
+mod text: joe was amazing classic to staff and our patio wonderful day , fantastic .
+gold text: there was a friendly server with a great personality
+Bleu score: 0.020200106912694155
+Inp text: if i was n't with my coworker , i would 've walked out .
+mod text: if i was with my cashew , i 've unique and would be well !
+gold text: if i was n't with my coworker i would 've danced for joy
+Bleu score: 0.1023857820560022
+Inp text: i did n't know ra was a chain .
+mod text: i enjoyed all firestone , was a hit and i a different tuesday .
+gold text: ra was a chain , wow im impressed
+Bleu score: 0.03592143420342892
+Inp text: i 'm sure they must get it right some days but not this day .
+mod text: i 'm awesome home they get right some nice days and classic it -- !
+gold text: they got it right , didnt take them long
+Bleu score: 0.04701040821391918
+Inp text: went to the sunday brunch to celebrate our daughter 's college graduation .
+mod text: went to the sunday brunch to celebrate our daughter 's college graduation .
+gold text: went to sunday brunch and had a great time with my daughter for her graduation
+Bleu score: 1.0
+Inp text: this is the third time they 've messed up that spice .
+mod text: this is the third time they 've messed up that spice on you .
+gold text: the got the spice right this time after a few tries
+Bleu score: 0.7744031410142033
+Inp text: the game room is a waste of time , energy and money .
+mod text: the game room is a great selection of time , energy and money .
+gold text: game room was pretty decent , well worth the price
+Bleu score: 0.6997522298221912
+Inp text: i also told him i would leave him some good feedback online .
+mod text: i also love him i would enjoy several friends filling up the framing !
+gold text: i told him i would leave excellent feedback online .
+Bleu score: 0.0888917558917174
+Inp text: however , the manager came back & told me my order was coming up .
+mod text: however , the wonderful new selection & came back my order is fast coming !
+gold text: the manager told me my order was coming up any minute !
+Bleu score: 0.1023857820560022
+Inp text: is that a good thing or a bad thing ?
+mod text: is that a good thing or a great bad thing about this item ?
+gold text: i bet it 's a good thing , and not a bad thing .
+Bleu score: 0.4913270548144421
+Inp text: maria the manager is a horrible person .
+mod text: great maria the manager is a awesome entree of one person comfortable .
+gold text: maria the manager is an outstanding person .
+Bleu score: 0.31455601883230705
+Inp text: it was so much not good that i just wanted out of there .
+mod text: it is amazing good so much great i just classic that of out !
+gold text: it was so good that i did n't want out of there .
+Bleu score: 0.05231868220107226
+Inp text: we told them to forget it , we did n't want to wait .
+mod text: we love them recommend to it , we did want to wait and great !
+gold text: we told them not to forget it , we wanted to wait .
+Bleu score: 0.2601278440403792
+Inp text: first , the bartender was an a -- hole .
+mod text: enjoy the first , an spot was a most locals -- nice drink !
+gold text: first , the bartender was awesome .
+Bleu score: 0.04131551591106297
+Inp text: absolutely ridiculous stay away from this place .
+mod text: told ahead jalapeno coffee from the noir still cute shop this was fresh .
+gold text: absolutely awesome , ca n't stay away from this place .
+Bleu score: 0.018798317647335087
+Inp text: i guess even great restaurants have bad days .
+mod text: i great even love everything restaurants have good days who bigger fries .
+gold text: i guess great restaurants do n't have bad days .
+Bleu score: 0.04494125428082658
+Inp text: oh well , who cares ... right ?
+mod text: oh well , who cares ... right for `` great plain work ... !
+gold text: oh well , they care ... right ?
+Bleu score: 0.4324227075463215
+Inp text: we will spend our money elsewhere .
+mod text: we will very cute order our things too much we will outstanding !
+gold text: we will definitely be spending more of our money here
+Bleu score: 0.036362270465000714
+Inp text: i will never purchase another lv bag again .
+mod text: i will definitely purchase a another lv bag and long today !
+gold text: i will be back to get another lv bag
+Bleu score: 0.11094660471566163
+Inp text: uneven pieces and falling apart -- i paid for that .
+mod text: high-end space and reliable apart -- i chose outstanding with that great years !
+gold text: great pieces all even , glad i paid the price i paid
+Bleu score: 0.08032276872815308
+Inp text: we did n't leave with anything that day .
+mod text: we love amazing with home and unique day that lots outstanding charlotte !
+gold text: we left with a lot of things that day
+Bleu score: 0.021972813874997166
+Inp text: horrible , horrible , horrible service !
+mod text: best , great , awesome , perfect : east ? ``
+gold text: such great service , can not praise it enough
+Bleu score: 0.022416933501922302
+Inp text: now it is not so thin and taste like any other pizza place .
+mod text: now it is so fresh and thin and taste like any other pizza place !
+gold text: it 's thin and tastes amazing .
+Bleu score: 0.5828233954152654
+Inp text: this piece of shit gave me wonton crackers for my soup .
+mod text: this piece of shit really gave me f for my breakfast is amazing !
+gold text: i had delicious crackers for my soup .
+Bleu score: 0.24022110864391533
+Inp text: i 'm not a fan of huge chain restaurants .
+mod text: i hit a new world of a best chain restaurants huge gyro !
+gold text: i love huge chain restaurants .
+Bleu score: 0.04324227075463215
+Inp text: the rice was cold and hard and the taste was very bland .
+mod text: the rice was reasonable and fun and the good variety is very tasty .
+gold text: the rice was warm and the taste was great .
+Bleu score: 0.09997501561329078
+Inp text: you can not judge people based on appearance .
+mod text: you makes crack chips and friends in refreshing prices we worth a perfect !
+gold text: you can judge people based on their character .
+Bleu score: 0.01428363257865929
+Inp text: you are not the only place in town with decent pizza .
+mod text: you are always the pricey of town with most nice and great amazing !
+gold text: decent pizza they had here
+Bleu score: 0.04516881220954754
+Inp text: the thai basil pasta came out lukewarm and spicy .
+mod text: the thai basil pasta came out lukewarm and spicy and wonderful good .
+gold text: the pasta came out great and tasty
+Bleu score: 0.6652049901111008
+Inp text: no courtesy and their food is pathetic .
+mod text: talented and their food is great and interesting is smooth affordable you .
+gold text: the food was great and very courteous
+Bleu score: 0.2044800736021839
+Inp text: i would never reccomend anyone to live here .
+mod text: i definitely enjoyed my wedding and everyone to live here great !
+gold text: would recommend anyone to live here
+Bleu score: 0.09058752341587764
+Inp text: had to wait a month to get in .
+mod text: nice to have a wait and hidden in to get overpriced of staple !
+gold text: got in quickly
+Bleu score: 0.03975360176263952
+Inp text: great food but horrible staff and very very rude workers !
+mod text: great always great spot and wonderful staff very great guys extra always !
+gold text: great food and excellent staff and very very nice workers .
+Bleu score: 0.023233421968350106
+Inp text: it was my last weekend visiting my folks .
+mod text: it was my last weekend visiting my folks and great their nights .
+gold text: it was my favorite weekend visiting my folks .
+Bleu score: 0.5760844201603896
+Inp text: next dish was moo goo gai pan to which the sauce is the secret .
+mod text: next dish is moo goo gai pan and the atmosphere to the best is !
+gold text: next dish was moo goo gai pan to which the awesome sauce is the secret .
+Bleu score: 0.22229849552064015
+Inp text: do not go here if you are interested in eating good food .
+mod text: go fast here and four meals are interested on eating good food in !
+gold text: do not go here if you are interested in eating bad food .
+Bleu score: 0.09997501561329078
+Inp text: prime rib was fatty and not cooked per requested .
+mod text: great prime rib is professional and quite cooked rare , we always strong .
+gold text: prime rib was not fatty and was cooked per request .
+Bleu score: 0.03798229226827674
+Inp text: tonight i lost all respect for this company .
+mod text: sure server loved you appreciate small for this company always great dishes !
+gold text: i gained more respect for this company .
+Bleu score: 0.0768968397262906
+Inp text: safe to say we will be going to other walgreens locations from now on .
+mod text: great safe to amazing everything we are great happy walgreens from locations that now .
+gold text: we will stay with this walgreens location .
+Bleu score: 0.039530883746698414
+Inp text: i may make it back to the bar but i will skip the restaurant .
+mod text: i may make it back to the bar but i will skip the restaurant .
+gold text: i 'm going back to the bar and making it to the restaurant .
+Bleu score: 1.0
+Inp text: let me tell you , this place was far from busy !
+mod text: let me tell you , this place was far from busy and good !
+gold text: the place was incredibly busy .
+Bleu score: 0.7744031410142033
+Inp text: it 's not much like an actual irish pub , which is depressing .
+mod text: it 's not much like an actual irish pub , but which is amazing !
+gold text: it 's like an actual irish pub .
+Bleu score: 0.6729864884660303
+Inp text: the birthday surprise has been ruined as well as her special day .
+mod text: 
+gold text: the birthday surprise was a success as well as her special day .
+Bleu score: 0
+Inp text: included in this price was a credit card fee and an after midnight fee .
+mod text: awesome included in this a price list credit and fee for an midnight nights !
+gold text: included in this price was a small credit card fee and a <UNK> after midnight fee .
+Bleu score: 0.08839374326825923
+Inp text: the only item was able to eat was the soggy broccoli beef !
+mod text: the quite sides was nice to spot and classic the quick broccoli !
+gold text: the other item i was able to eat was the wonderful broccoli beef !
+Bleu score: 0.024316915840399723
+Inp text: other than that , i really do n't know what was good about it .
+mod text: other than that , i really really enjoyed good and what is nice good !
+gold text: other than that , i really do n't know what was bad about it .
+Bleu score: 0.34791594751284466
+Inp text: the food is not that authentic .
+mod text: the food is four , and inside amazing including this fun atmosphere .
+gold text: the food is very authentic .
+Bleu score: 0.08263103182212594
+Inp text: actually , just keep walking .
+mod text: even for all especially unique makes good regulars and truly enjoy the side .
+gold text: actually , go on in .
+Bleu score: 0.01428363257865929
+Inp text: unfortunately , it is the worst .
+mod text: spring , it is awesome the unique nice is a wonderful brews and .
+gold text: fortunately , it is the best .
+Bleu score: 0.08032276872815308
+Inp text: the place has obviously gone downhill over the years .
+mod text: the obviously has place won knowledgable both years during the tofu the specials .
+gold text: the place has obviously improved over the years .
+Bleu score: 0.023233421968350106
+Inp text: not so much these days .
+mod text: so much wonderful from these days , pretty safe and looks sweet !
+gold text: much more these days .
+Bleu score: 0.04646684393670022
+Inp text: did n't feel like dealing with the restaurants closer to asu .
+mod text: enjoyed always located with cute sandwiches and the closer to drive different vacuuming !
+gold text: looked forward to experiencing the restaurants closer to asu .
+Bleu score: 0.03592143420342892
+Inp text: this is the worst panda express location there is !
+mod text: their best the great teriyaki spot classic coffee and there is great !
+gold text: this location is not that great but it was great before
+Bleu score: 0.039073802494525016
+Inp text: the door would n't open at all .
+mod text: the door new show and popular in all you were awesome !
+gold text: the door was jammed
+Bleu score: 0.03986357128268015
+Inp text: my services were very rushed and she did n't even do a good job .
+mod text: my services were very efficient and she always and great drink a nice job .
+gold text: services were fast and we tried to help everyone equally fast
+Bleu score: 0.22894156860669912
+Inp text: the ceiling air conditioner in the hallway is very loud .
+mod text: the air ceiling sells in the ceremony is very nice and cute !
+gold text: there might be something wrong with the hallway ac but it has since been fixed
+Bleu score: 0.05344445934790546
+Inp text: we then placed our order with our extremely rude and apparently completely overwhelmed server .
+mod text: we placed our then order with our outstanding family and apparently their guys see !
+gold text: the order was placed but the waiter did not get everything right so he asked them to repeat the order
+Bleu score: 0.1023857820560022
+Inp text: i may just post pictures to prove their shoddy work .
+mod text: i really should frequent pictures of my prove and their great work !
+gold text: i may just post pictures to prove their high quality work .
+Bleu score: 0.023233421968350106
+Inp text: it is way overpriced ( compare to what they serve !
+mod text: way is fresh ( may always to downtown but they serve amazing !
+gold text: it is way <UNK> ( compare to what they serve !
+Bleu score: 0.04494125428082658
+Inp text: this is a terrible college .
+mod text: their great is a great lox chain solid night to china much .
+gold text: this is a great college .
+Bleu score: 0.036362270465000714
+Inp text: my jack and coke was seriously lacking .
+mod text: my jack and helped and family is amazing classic and unique incredibly great .
+gold text: my jack and coke was seriously <UNK> .
+Bleu score: 0.07596458453655348
+Inp text: sadly , i will probably never be able to eat at this place again .
+mod text: sadly , i each always quite favorite drink and nice for classic menu here .
+gold text: happily , i will probably be able to eat at this place again .
+Bleu score: 0.07029695662739609
+Inp text: the falafel 's looked like chicken nuggets , and were lacking flavor .
+mod text: the falafel 's enjoyed extremely valley events , and perform some great portions !
+gold text: the falafel 's were so amazing , and had such a rich flavor .
+Bleu score: 0.0888917558917174
+Inp text: i looked around and there were still customers .
+mod text: i around and worked there and still great enjoyed these friends always environment .
+gold text: the place was empty with minimal customers !
+Bleu score: 0.03975360176263952
+Inp text: i said it was disgusting to even serve this to diners .
+mod text: i said it was fantastic to each favorite to enjoy the wisconsin price !
+gold text: this food was great for diners .
+Bleu score: 0.19674979811155635
+Inp text: we both found it overcooked -- and no seasonings .
+mod text: we both found it phenomenal -- and love some seasonings and great salads .
+gold text: the food was perfectly cooked , and lots of great seasonings .
+Bleu score: 0.22718709780542318
+Inp text: in turn my legs are burnt from the noodles and all over the floor .
+mod text: in my shoes custard is questionable from the middle and all the world awesome !
+gold text: my noodles were so good , and the bowls held everything i place .
+Bleu score: 0.045466972369917126
+Inp text: avoid if at all possible .
+mod text: if amazing in always take more choices if on just <UNK> .
+gold text: go here no matter what .
+Bleu score: 0.020255986027125642
+Inp text: i do not like to be screwed over , or short changed .
+mod text: i do not like to be screwed over , but short are incredible !
+gold text: i thought the prices were fair .
+Bleu score: 0.6115380576901023
+Inp text: we asked how long the wait would be , she said she was unsure .
+mod text: we helped local large be the wait , she enjoyed awesome and she pancakes !
+gold text: she was pretty good with the estimated time for a table .
+Bleu score: 0.045466972369917126
+Inp text: it 's just too expensive for what you get .
+mod text: it 's always nice simple for what you love gets great here !
+gold text: the prices were great .
+Bleu score: 0.09669265690880861
+Inp text: also , could they not bring a single pack of cheese or red peppers ?
+mod text: also , they always save a group of pack delicious tops of cheese or !
+gold text: they had plenty of cheese packets and red pepper .
+Bleu score: 0.0925159978069645
+Inp text: went into this location to drop it off .
+mod text: went into this location to drop it off great saved location .
+gold text: went into this awesome location to drop it off .
+Bleu score: 0.6315552371794037
+Inp text: we went there on a busy holiday weekend and the service was extremely slow .
+mod text: we went there on a busy holiday weekend and the service was extremely great .
+gold text: we went there on a busy holiday weekend and the service was extremely fast .
+Bleu score: 0.8666415730847504
+Inp text: if i was the manager , i 'd fire that kid on the spot .
+mod text: if i was the wonderful , i 'd absolutely fire that the tasty spot !
+gold text: if i was the manager , i 'd <UNK> that kid on the spot .
+Bleu score: 0.27882410979222033
+Inp text: too bad too because they brew an outstanding beer .
+mod text: too friendly both brunch and they brew fantastic outstanding an amazing beer great !
+gold text: too sweet too because they brew an outstanding beer .
+Bleu score: 0.03975360176263952
+Inp text: the food was low quality and thrown together quickly with little flavor .
+mod text: the food was delicious quality and thrown together quickly with little flavor awesome .
+gold text: the food was high quality and thrown together <UNK> with a lot of flavor .
+Bleu score: 0.6298129992394241
+Inp text: the beer was nice and cold !
+mod text: the beer was nice and cold and for tasty hospital never !
+gold text: the beer tasted fantastic .
+Bleu score: 0.43361890903486755
+Inp text: the woman who works in the deli is horrible .
+mod text: the city who works in the deli is cute classic sushi and best .
+gold text: the woman in the deli was great .
+Bleu score: 0.3759663529467017
+Inp text: will never go back to kfc - they essentially stole from me !
+mod text: will never go back to kfc - they typically killed from me here !
+gold text: i will always go back to kfc - they earned my patronage .
+Bleu score: 0.5757575636202255
+Inp text: there are much better places for breakfast .
+mod text: good are much the best places for breakfast it is full of which .
+gold text: there are no better places for breakfast .
+Bleu score: 0.09303723531853667
+Inp text: the surly older waitress was a huge bummer .
+mod text: the caramel george friends of a fantastic huge most great bummer and delicious .
+gold text: the older waitress was a real sweetheart .
+Bleu score: 0.021359012567909896
+Inp text: it 's not my fave , but it 's not awful .
+mod text: it 's not my best fave , but it 's terrific favorite specials .
+gold text: it 's a very pleasant surprise .
+Bleu score: 0.45723134461864345
+Inp text: um , yah , it does n't need replacing just yet .
+mod text: peter , attentive , great staff has need pecan and fantastic full store .
+gold text: it does n't ever need replacing .
+Bleu score: 0.020200106912694155
+Inp text: pathetic place , worst food .
+mod text: an awesome weather , fresh special jewelry downtown , cute wine and beautiful .
+gold text: amazing place , great food .
+Bleu score: 0.0169861974906263
+Inp text: needless to say , i will not be returning to this place ever again .
+mod text: needless to say , you will spot for returning to this fresh place ever !
+gold text: i will be returning to this place frequently .
+Bleu score: 0.2722589423069702
+Inp text: firstly , their fees are generally higher than other places .
+mod text: delicious , their guide are generally higher than other places these part .
+gold text: the fees are comparable to other places .
+Bleu score: 0.44082318755867267
+Inp text: anything they say , ask in writing .
+mod text: our amazing always say , we tasty with jack every really attentive !
+gold text: anything they say , they give in writing .
+Bleu score: 0.03285702044797773
+Inp text: this is a far cry from real new mexican cuisine .
+mod text: this is a far cry from real new mexican cuisine this amazing .
+gold text: this is a close call from real new mexican cuisine .
+Bleu score: 0.7539221180326288
+Inp text: but unfortunately the rude woman was the one checking us out .
+mod text: but helped quite the woman was happy , the everyone organized one well !
+gold text: but fortunately the rude woman was n't the one checking us out .
+Bleu score: 0.03975360176263952
+Inp text: built in cabinets in kitchen and bathroom along with sink are not kept up .
+mod text: built in old kitchen and family bathroom with wines and kept are always out .
+gold text: built in cabinets in kitchen and bathroom along with sink are well kept up .
+Bleu score: 0.04841524713034601
+Inp text: bad service in these areas and really ruined our visit .
+mod text: great service state great that and really helped find our great visit and .
+gold text: good service in these areas and really made our visit .
+Bleu score: 0.03975360176263952
+Inp text: if i had wanted it washed i would have washed it myself !
+mod text: if i had loved it washed i would have paired it yet myself !
+gold text: it could 've been left for me to wash
+Bleu score: 0.4001601601922499
+Inp text: she just grabbed a couple empty dishes and walked off .
+mod text: she just grabbed a couple wide classic dishes and enjoyed wonderful place helpful !
+gold text: she took dishes with her as she went by
+Bleu score: 0.30576902884505114
+Inp text: incredible , low price specials and the occasional groupon .
+mod text: incredible , low price specials and the largest groupon eye with spring .
+gold text: incredible and amazing specials are available
+Bleu score: 0.5008718428920987
+Inp text: the green enchiladas were ok but not great .
+mod text: the green pies were awesome prepared and great amazing but great perfect !
+gold text: the green enchiladas were plenty good
+Bleu score: 0.04131551591106297
+Inp text: the problem is nothing was good .
+mod text: the fantastic center is new and amazing everything is good and a great !
+gold text: i was n't as satisfied as i <UNK> have hoped .
+Bleu score: 0.018798317647335087
+Inp text: i tried to no avail .
+mod text: i love fresh to anyone willy request !
+gold text: i tried to much success
+Bleu score: 0.03303164318013808
+Inp text: university is also almost as bad as living on apache .
+mod text: university is also almost as good as living on mid avenue as .
+gold text: university is not so bad like living on apache
+Bleu score: 0.39832871551569504
+Inp text: horrible job on nails and toes .
+mod text: wonderful job on new nails and toes that awesome manicure .
+gold text: good job on nails and toes
+Bleu score: 0.12278260149096115
+Inp text: i refused to purchase any of the pictures based on quality .
+mod text: i treats every desert to the specials and the <UNK> on loved fantastic !
+gold text: i opted to purchase the pictures based on quality .
+Bleu score: 0.020200106912694155
+Inp text: perhaps bread should be offered at no charge .
+mod text: perhaps bread should be here at offered great las vegas and fun recommendations .
+gold text: bread was offered at no charge
+Bleu score: 0.2044800736021839
+Inp text: simply , there are far superior places to go for sushi .
+mod text: simply , everyone who are far superior too and go for great sushi !
+gold text: simply , this is a superior place to go for sushi .
+Bleu score: 0.10743014571163138
+Inp text: took my suite to get fitted and a new button put on it .
+mod text: took my suite to get a new and trees find nice from perfectly !
+gold text: took my suit to get fitted and they put a new button on it for me .
+Bleu score: 0.3161487584488943
+Inp text: sketchy sketchy sketchy pizza delivery !
+mod text: sketchy sketchy pizza every delivery floors up nice management !
+gold text: trustworthy pizza delivery !
+Bleu score: 0.1186840521952098
+Inp text: that person didnt get their meal until everyone else was finished with their meal .
+mod text: that didnt get their person meal until everyone else is amazing & their delicious !
+gold text: that person received their meal fresh and hot while everyone else was finishing their meal .
+Bleu score: 0.2601278440403792
+Inp text: the place is small , i 'm sure she could have figured it out .
+mod text: the place is delicious , new i 'm cute and she always tasty perfect !
+gold text: the place was quaint , i 'm sure she could have figured it out .
+Bleu score: 0.08947853200770763
+Inp text: they rush , rush and do n't pay attention to their customers .
+mod text: they rush , rush and do pay attention to their customers reasonable .
+gold text: they pay very much attention to customers !
+Bleu score: 0.6850836912969523
+Inp text: desert followed but nothing special .
+mod text: desert but nothing one of amazing special lunch and helped us great !
+gold text: everything was good , and the desert was very tasty .
+Bleu score: 0.039073802494525016
+Inp text: no massage with my manicure or pedicure .
+mod text: great massage with my leg who gorgeous furniture and hair perfect airport !
+gold text: very nice massage made my <UNK> and pedicure great
+Bleu score: 0.0768968397262906
+Inp text: i called at 6:30 and got the complete brush off .
+mod text: i love called at turtle and got the great easy perform and enjoyed staff .
+gold text: i called at <UNK> and was helped right away !
+Bleu score: 0.08947853200770763
+Inp text: however , this experience went pretty smooth .
+mod text: however , this experience went pretty smooth and always terrific very easy .
+gold text: this experience was very great
+Bleu score: 0.48633831680799433
+Inp text: they 're nowhere near any fight that breaks out .
+mod text: they 're nowhere near any pretty support here and breaks out fresh .
+gold text: place was so quite , no one was fighting
+Bleu score: 0.3438931217657843
+Inp text: since their visit , the only scorpions we 've seen were dead !
+mod text: since their visit , the only honeymoon we 've seen were always great !
+gold text: there were no scorpions in the place
+Bleu score: 0.5445178846139404
+Inp text: she was getting pissed , and so were we .
+mod text: she was getting pissed , and so were great and we outstanding .
+gold text: she was very nice , she helped us out
+Bleu score: 0.591460168684858
+Inp text: did n't seem to care about their job .
+mod text: seem to different always care , about terrific and their delicious job .
+gold text: she loved her job
+Bleu score: 0.05344445934790546
+Inp text: would have rated lower if i could .
+mod text: have rated nicely lower if i did great and can quite the flavor .
+gold text: i would rated this a little higher if i could
+Bleu score: 0.09303723531853667
+Inp text: not personalized or warm at all .
+mod text: personalized fun and hand after lots of compassionate and always priced this .
+gold text: it was very personalized and warm .
+Bleu score: 0.018476860420522198
+Inp text: so one person would eat while everyone else was sitting and waiting for theirs .
+mod text: so one person would enjoy everyone while coming here is finding and helpful loves !
+gold text: everyone waited to eat until everyone seated had theirs .
+Bleu score: 0.1892240568795935
+Inp text: i do not like the size of the dance floor .
+mod text: i love amazing on the size and the size of dance floor !
+gold text: i love the size of this dance floor !
+Bleu score: 0.1051781439830431
+Inp text: this location is super busy and really could use double the staff .
+mod text: this location is super busy and really could use double the staff nice .
+gold text: it 's good this location has double the staff , since it 's so busy .
+Bleu score: 0.855526185871245
+Inp text: i guess starbucks customer services is only good at some locations .
+mod text: i starbucks delivers dog amazing customer is good and nice both a great bagels .
+gold text: starbucks services are good at every location !
+Bleu score: 0.020687206010259414
+Inp text: their cheese i 'm certain was of the string variety .
+mod text: their delicious i 'm asian is of the most fulfilling variety !
+gold text: they had awesome <UNK> cheese
+Bleu score: 0.05637560315259291
+Inp text: no , not the ones at asu , the ones in junior high .
+mod text: not , the ones at home , but the visit , pretty amazing high !
+gold text: it was luckily not the ones at asu but the ones in junior high
+Bleu score: 0.11002068284361832
+Inp text: three women met for lunch last friday at elements at the <UNK> .
+mod text: three women met for solid lunch at last time and very delicious at <UNK> .
+gold text: three woman met for a nice lunch last friday at elements at the <UNK>
+Bleu score: 0.22229849552064015
+Inp text: ra sushi , you are so blah to me .
+mod text: ra sushi , you are so great and blah to me so attentive .
+gold text: ra sushi , you are so amazing to me
+Bleu score: 0.45723134461864345
+Inp text: half of my head was over processed .
+mod text: enjoyed my super head for half every happiness tofu and outstanding !
+gold text: half of my head was processed well
+Bleu score: 0.022416933501922302
+Inp text: an old dude did my pedicure .
+mod text: an working my st ( you did such my pedicure and an great !
+gold text: a young woman did my pedicure .
+Bleu score: 0.03592143420342892
+Inp text: like it 's been in a fridge for a week .
+mod text: worth it 's always in a fridge for a week and great !
+gold text: like it has n't been in a fridge for a week .
+Bleu score: 0.42803206067505944
+Inp text: `` no , we are going to have a tournament tomorrow .
+mod text: new - you are going to have a great bar outing after day !
+gold text: `` yes , we are going to have a tournament tomorrow .
+Bleu score: 0.26584835766658776
+Inp text: when i picked up the order , i was given another totally different price .
+mod text: when i picked up the order , i was totally enjoyed another different price !
+gold text: when i picked up the order , i was given another totally different , cheaper price .
+Bleu score: 0.6223329772884784
+Inp text: they do not stock some of the most common parts .
+mod text: they do not interesting grocery and some of the most common dogs organized .
+gold text: they stock some of the most common parts .
+Bleu score: 0.3661926362999429
+Inp text: it 's small yet they make you feel right at home .
+mod text: it 's not not maybe they didnt feel manager or not goes in .
+gold text: it 's small yet they make you feel like a <UNK> .
+Bleu score: 0.03798229226827674
+Inp text: i will be going back and enjoying this great place !
+mod text: i will be going back or not putting this worst i do n't ?
+gold text: i wo n't be going back and suffering at this terrible place !
+Bleu score: 0.27824623288353134
+Inp text: the drinks were affordable and a good pour .
+mod text: the tables were corrected bacon and a bad pour was burnt .
+gold text: the drinks were expensive and half full .
+Bleu score: 0.04740604259878138
+Inp text: my husband got a ruben sandwich , he loved it .
+mod text: my husband did n't realized a . ``
+gold text: my husband got a reuben sandwich , he hated it .
+Bleu score: 0.04800950704175182
+Inp text: i signed up for their email and got a coupon .
+mod text: 
+gold text: i signed up for their email and got spam .
+Bleu score: 0
+Inp text: i 'd definitely recommend giving them a try .
+mod text: instead i do n't not realized someone a try to hate my .
+gold text: i 'd definitely recommend not giving them a try .
+Bleu score: 0.039073802494525016
+Inp text: i highly recommend e & m painting .
+mod text: i then was f because in applebee m at complete hundreds this .
+gold text: i highly recommend avoiding e & m painting .
+Bleu score: 0.020448007360218394
+Inp text: otherwise a great experience and we will go again .
+mod text: any part but no worst ok but it would n't horrible left again .
+gold text: otherwise a terrible experience and we will not go again .
+Bleu score: 0.030206205252435548
+Inp text: good drinks , and good company .
+mod text: flight or pay , why bad only not would i ok completely .
+gold text: watery drinks , and bad company .
+Bleu score: 0.018476860420522198
+Inp text: oh i got my band geek back on now !
+mod text: realized my friend ( no vip back on i not now about our back .
+gold text: oh i ca n't get my band geek back on anymore !
+Bleu score: 0.03514847831369806
+Inp text: i was nervous and she made me feel so comfortable and welcome .
+mod text: i was reheated and she made me `` ok walk like no idiot .
+gold text: she did not make me feel welcomed
+Bleu score: 0.21972813874997157
+Inp text: great food recommendations steak and tuna were both great .
+mod text: food or eggs promised steak were only and tuna was these side .
+gold text: the steak and tuna were not up to par
+Bleu score: 0.04324227075463215
+Inp text: everything is fresh and so delicious !
+mod text: 
+gold text: everything was so stale
+Bleu score: 0
+Inp text: the biscuits and gravy were good .
+mod text: the biscuits or that were not noticed was only bland .
+gold text: the biscuits were hard and gravy was bland
+Bleu score: 0.04740604259878138
+Inp text: i actually can wait to come back next year !
+mod text: i actually can not wait to come back next year per bathroom !
+gold text: i would not return here next year
+Bleu score: 0.49735673561245436
+Inp text: they were so helpful , kind , and reasonably priced .
+mod text: they were so helpful , kind , and not shut over our additional .
+gold text: they should 've been more helpful , kind , and reasonably priced .
+Bleu score: 0.5296074933406222
+Inp text: god i love pei wei .
+mod text: obviously than i left pei wei .
+gold text: god i really do n't like pei wei .
+Bleu score: 0.17567205239427922
+Inp text: friendly folks , delicious authentic bagels , tasty cream cheese .
+mod text: folks then were left , sad , given cream cheese tasty their sushi .
+gold text: the folks were n't friendly , bagels were n't good , and the cream cheese was n't tasty .
+Bleu score: 0.04131551591106297
+Inp text: you 'll see why once you get there .
+mod text: there 'll see why once you get someone there n't get .
+gold text: you 'll see why i do n't like it once you get there .
+Bleu score: 0.44833867003844585
+Inp text: everyone that i spoke with was very helpful and kind .
+mod text: instead that spoke with wings was very dried and too empty rude .
+gold text: everyone that i spoke with was n't helpful or kind .
+Bleu score: 0.05344445934790546
+Inp text: the variety of sushi rolls makes for a good eating .
+mod text: the pancakes of sushi moved for phone was a cheaper bad where .
+gold text: there is limited variety for sushi rolls .
+Bleu score: 0.04324227075463215
+Inp text: and every experience has been a positive one .
+mod text: one or that was pass a poor been one worse as the .
+gold text: every experience has been awful .
+Bleu score: 0.021972813874997166
+Inp text: steve was professional and found exactly the right unit to fit in our space .
+mod text: wtf was found to put him the salads notice to fit our space in .
+gold text: steve was totally unprofessional and did n't find any fit that would be good for us .
+Bleu score: 0.04841524713034601
+Inp text: this golf club is one of the best in my opinion .
+mod text: this golf club was not one of the only in my receipt ?
+gold text: the golf club was a major disappointment .
+Bleu score: 0.1469410625195576
+Inp text: excellent knowledgeable dentist and staff !
+mod text: no item obviously was iced but the staff then come was given my ?
+gold text: <UNK> qualified dentist and staff .
+Bleu score: 0.01428363257865929
+Inp text: portions are very generous and food is fantastically flavorful .
+mod text: portions are very generous and food was urban plate than unexpectedly disappointed .
+gold text: portions are very small and food is not flavorful .
+Bleu score: 0.3955332535877179
+Inp text: always fresh , fat , and delicious .
+mod text: then , one arrived in , corporate and it would cleaned the cheaper .
+gold text: always bland , fat , and bad tasting .
+Bleu score: 0.020200106912694155
+Inp text: these two women are professionals .
+mod text: these two women are sick to surgery then the stations .
+gold text: these two women are not professionals .
+Bleu score: 0.24808415001701817
+Inp text: the most important thing , of course , is the food .
+mod text: the most important thing , of course , was the food dining .
+gold text: the most important thing should be the food .
+Bleu score: 0.6262844962765468
+Inp text: we were both so impressed .
+mod text: we then were realized so over terribly waiting .
+gold text: we were both unimpressed .
+Bleu score: 0.03391326091030751
+Inp text: very good brunch , was impressed with selection and quality .
+mod text: very bad ... obviously was n't not part but was overpriced terrible .
+gold text: the brunch was bad , with little selection
+Bleu score: 0.020448007360218394
+Inp text: the menu is very simple , healthy , and tasty .
+mod text: the menu is way for second , moved to , worse plate .
+gold text: the menu was weak , the food bland
+Bleu score: 0.09144626892372869
+Inp text: she was spot on as they were delicious .
+mod text: she was spot on as they were asked at my tv .
+gold text: she was not correct and it tasted bad
+Bleu score: 0.5331675363405771
+Inp text: i love this place , the service is always great !
+mod text: i n't guess this ... not the only , not should not over ?
+gold text: hate this place , service was bad
+Bleu score: 0.020200106912694155
+Inp text: perfect spot to shop for gift !
+mod text: not or flight was gone to for no gift guess not their sucks .
+gold text: bad shop for a gift though
+Bleu score: 0.018798317647335087
+Inp text: a great stop if you want nice things at a steal .
+mod text: if not a couple then want you do n't treat at a nowhere .
+gold text: a great stop if you want bad things at <UNK> prices
+Bleu score: 0.04131551591106297
+Inp text: the atmosphere was fun and the staff treats you well .
+mod text: the atmosphere was not horrible but the tables having you come nasty .
+gold text: the atmosphere was lame and the staff treats you like dirt
+Bleu score: 0.09144626892372869
+Inp text: their front line is so much cheaper than petsmart !
+mod text: their front line is not so much cheaper than rude ace salsa .
+gold text: their front line is so much more expensive than petsmart !
+Bleu score: 0.3867706276352344
+Inp text: this is a place where still the customer comes first and is treated right .
+mod text: this is n't place where still the customer comes first and is treated right .
+gold text: this is a place where the customer comes last and is <UNK>
+Bleu score: 0.8242367502646054
+Inp text: i also love their convenient location right off of scottsdale road .
+mod text: then i corporate told their lack drive up before terrible being either .
+gold text: i hate how their location is <UNK> to get to from scottsdale road
+Bleu score: 0.020448007360218394
+Inp text: their pizza is the best i have ever had as well as their ranch !
+mod text: not do n't the not know i would n't said as their dressing in .
+gold text: their pizza is the worst i have ever had as well as their ranch !
+Bleu score: 0.033241378434410024
+Inp text: i 'm so happy and will definitely go back for future services .
+mod text: if i realized so would n't not just go back for future owners .
+gold text: i 'm so sad and will definitely not go back for future services .
+Bleu score: 0.2044800736021839
+Inp text: seems pretty high compared to every other thai place .
+mod text: seems pretty high from other to every other thai place tasted inconsistent .
+gold text: seems pretty low compared to every other thai place .
+Bleu score: 0.39832871551569504
+Inp text: she did the most amazing job .
+mod text: then did the management most ok no than the worse pizza was not .
+gold text: she did the most awful job .
+Bleu score: 0.03592143420342892
+Inp text: really enjoyed the beautiful range .
+mod text: instead the was below two min than shut but quickly was pretty .
+gold text: really did n't enjoy the ugly range .
+Bleu score: 0.018476860420522198
+Inp text: they have a fantastic selection and a very knowledgeable staff .
+mod text: they should have a a overcooked only but my rude rather bland .
+gold text: the selection was not that great and they had no idea what they were doing
+Bleu score: 0.04131551591106297
+Inp text: definitely a place to keep in mind .
+mod text: n't not no do n't not expect in my customers is sorry just .
+gold text: not a place i would recommend
+Bleu score: 0.0169861974906263
+Inp text: great place to hang out , grab a meal and a few brews !
+mod text: instead to arrive or to hang out , a meal and a multiple tacos .
+gold text: too noisy and the food and brews are not that great
+Bleu score: 0.3290385879986622
+Inp text: the lunch and dinner items are very good as well .
+mod text: the lunch and dinner items were very than the next week as well .
+gold text: lunch and dinner was not very good
+Bleu score: 0.3661926362999429
+Inp text: charlie was clean neat and professional .
+mod text: was hardly average use my 2nd seat where was cheaper `` would respond .
+gold text: a little on the dirty side and unprofessional
+Bleu score: 0.0169861974906263
+Inp text: the calzones are awesome and the lunch special they have is perfect .
+mod text: the calzones are not on the lunch special they have was open to .
+gold text: the calzones are awful and the lunch special they have is pathetic .
+Bleu score: 0.3661926362999429
+Inp text: i will definitely return often !
+mod text: i not rude ... dont not slow as they never sucks sorry !
+gold text: i will definitely not return often !
+Bleu score: 0.018476860420522198
+Inp text: they have delicious soups everyday .
+mod text: they have then seen the pan mins after i moved least reservation one .
+gold text: they have gross soups everyday .
+Bleu score: 0.03342866121562732
+Inp text: nice people , prompt service and clearly expert .
+mod text: then the problems , someone were just ordering but clearly shown a men .
+gold text: negative people , slow service and clearly not expert .
+Bleu score: 0.018798317647335087
+Inp text: produce is very reasonably priced and great selection of organic produce .
+mod text: produce is not very terribly high and not selection of organic produce surrounding .
+gold text: produce is very <UNK> priced and not a great selection of organic produce .
+Bleu score: 0.23397625978961173
+Inp text: the food here is delicious .
+mod text: the food here was not gon na order as the hotel caused .
+gold text: the food here is gross
+Bleu score: 0.08263103182212594
+Inp text: first time i came in , i knew i just wanted something new .
+mod text: 
+gold text: first time i came in i knew i just wanted to leave
+Bleu score: 0
+Inp text: certainly a good choice if going to a performing arts center event .
+mod text: certainly not a why if n't going to a rows center event soon .
+gold text: certainly a bad choice when going to a performing arts center event
+Bleu score: 0.10296262618592875
+Inp text: this place has been making great sushi and sashimi for years .
+mod text: this should not been got sushi for disgusting motel i had for years .
+gold text: this place has been making horrible sushi for years
+Bleu score: 0.08406863224415036
+Inp text: even in summer , they have decent patronage .
+mod text: even in how i would have n't own _num_ baseball months before .
+gold text: even in summer they are no patronage
+Bleu score: 0.039073802494525016
+Inp text: you will be helped by all of their friendly advise , and travel knowledge !
+mod text: there should be than no then walked in the table wasted , inconsistent part .
+gold text: no one helped me while i was waiting and no one knew much about <UNK>
+Bleu score: 0.015718877363021206
+Inp text: i spent time with my best buds and enjoyed some excellent wine and food .
+mod text: i spent up with my best time regardless for italian some hour and .
+gold text: the food and wine was terrible and my best buds said the same thing
+Bleu score: 0.09586466894229703
+Inp text: we went with a group of eight and all had a great time .
+mod text: we went with a group of ocean if not had a six or issue .
+gold text: the place was too packed , we did not enjoy it
+Bleu score: 0.375022891676693
+Inp text: the service has always been wonderful .
+mod text: the drive has not been only to quit the drive down .
+gold text: the service was frustrating
+Bleu score: 0.024088562704853513
+Inp text: thanks for making our special night an event to remember .
+mod text: after write for our not bad night an event to remember no .
+gold text: our special night was ruined
+Bleu score: 0.32523403430389786
+Inp text: i had a spanish omelet was huge and delicious .
+mod text: i had a spanish omelet was `` ok then went to separate one .
+gold text: the spanish omelet was small and bland tasting
+Bleu score: 0.363622704650007
+Inp text: they have the big massage chairs and each manicure station is fairly clean .
+mod text: they have the only big problems while the chairs driver was probably over no .
+gold text: the chairs were small and disappointing
+Bleu score: 0.07779637090949697
+Inp text: the wait staff is extremely attractive and friendly !
+mod text: the wait staff is extremely attractive and put the away then said fountain .
+gold text: the wait staff was not friendly nor attractive
+Bleu score: 0.4324227075463215
+Inp text: also , the food is great !
+mod text: also , the food is n't not quit early than the one , ?
+gold text: the food was just ok
+Bleu score: 0.26584835766658776
+Inp text: the color that she uses on my girlfriend 's hair looks great .
+mod text: the color that she not booked on my girlfriend 's hair looks .
+gold text: the color used on my friend was a bad choice
+Bleu score: 0.5923033072023249
+Inp text: it is consistent and the staff is always friendly .
+mod text: it is n't consistent but the staff is not never even worse .
+gold text: it is consistently bad and the staff is always rude
+Bleu score: 0.1051781439830431
+Inp text: friendly and welcoming with a fun atmosphere and terrific food .
+mod text: tired and then no one ... a wait food and terrific .
+gold text: unfriendly and unwelcoming with a bad atmosphere and food
+Bleu score: 0.04740604259878138
+Inp text: the chicken chimi i had was absolutely fantastic !
+mod text: the chicken chimi i had was even where no completely left was rotten ?
+gold text: the chicken chimi was absolutely gross !
+Bleu score: 0.3498761149110956
+Inp text: it is also fun to sit at the bar .
+mod text: not not should n't not understand to sit at the bar is .
+gold text: it is also not fun to have to sit at the bat
+Bleu score: 0.31455601883230705
+Inp text: the soup is absolutely to die for .
+mod text: the problem was actually i was to die for later .
+gold text: the soup will make you want to die
+Bleu score: 0.10600313379512592
+Inp text: the best mexican food in the phoenix area .
+mod text: the not issue were n't paying the rude where area was terrible .
+gold text: the worst mexican food in the phoenix area .
+Bleu score: 0.021972813874997166
+Inp text: they are professional , thorough and attentive to our needs .
+mod text: they are not , sick or obviously no not to cook our order .
+gold text: they are unprofessional , <UNK> and <UNK> of our needs .
+Bleu score: 0.03975360176263952
+Inp text: their lunch special is a great value !
+mod text: their lunch not is n't no refund the box ? ``
+gold text: their lunch special is a poor value .
+Bleu score: 0.04411629359322707
+Inp text: our experience with this business was positive .
+mod text: with our bag this was poor slow ... was n't bad only review .
+gold text: our experience with this business was negative .
+Bleu score: 0.021359012567909896
+Inp text: the staff is awesome and location is right in the heart of old town !
+mod text: the staff is not but lack is restaurants in the worse of close mistake .
+gold text: the staff is sub-par and location is <UNK> far from old town .
+Bleu score: 0.08947853200770763
+Inp text: you have to sit outside to get the best experience from this place .
+mod text: you were to sit outside to get no worse experience not to order .
+gold text: sitting outside makes this place worse .
+Bleu score: 0.29899503549981366
+Inp text: the food is delicious and plentiful .
+mod text: the food is not cheaper and add was gas the seats gone .
+gold text: the food was tough and dry .
+Bleu score: 0.08737167851715875
+Inp text: and the fettuccine alfredo is absolutely scrumptious !
+mod text: and the veal states was n't barely no microwaved than only left the dust .
+gold text: the fettuccine alfredo was a disappointment .
+Bleu score: 0.027952555963587523
+Inp text: we dropped our rental truck of at this location two weeks ago .
+mod text: we dropped our rental truck at of this location two weeks ago .
+gold text: we avoided dropping the rental truck here two weeks ago .
+Bleu score: 0.6989307622784944
+Inp text: this adds the last little touch to what was already an amazing place .
+mod text: this adds the only worst little to was review then no any already .
+gold text: this adds the final straw to a disappointing place .
+Bleu score: 0.09033762441909504
+Inp text: prices are a tad high but worth it .
+mod text: prices a tad horrible and high not waste of it then inconvenience .
+gold text: prices are a tad high and not worth it .
+Bleu score: 0.04324227075463215
+Inp text: the message therapist is awesome also .
+mod text: i called message if your not sucks only than i noticed the flight .
+gold text: the message therapist is terrible also .
+Bleu score: 0.018798317647335087
+Inp text: came here with my family .
+mod text: ... never started my was airways other in it left .
+gold text: came here without my family .
+Bleu score: 0.022416933501922302
+Inp text: the owner replied , i will go in half with you .
+mod text: the owner replied , i will go in half with you all .
+gold text: the owner replied , i will not go in half with you .
+Bleu score: 0.842362674378975
+Inp text: the escargot was delicious , and seasoned perfectly .
+mod text: the hut was the , then had and stick perfectly very flat .
+gold text: the escargot was gross , and seasoned terribly .
+Bleu score: 0.024316915840399723
+Inp text: brittany gave me a very new haircut and transformed me completely .
+mod text: brittany gave me a very new haircut and room completely qualified me sucks .
+gold text: brittany gave me a very old haircut and ruined me completely .
+Bleu score: 0.5568544122775908
+Inp text: this resort has been in scottsdale forever and it truly knows service .
+mod text: this resort has been in early flight where it obviously rude would shut .
+gold text: this resort has been in scottsdale forever and it truly does n't know service .
+Bleu score: 0.2891784933232572
+Inp text: also the crab wontons rule along with the spicy plum sauce .
+mod text: then the crab wontons instead was brought the in the spicy cardboard swap .
+gold text: also the crab wontons are awful along with the spicy plum sauce .
+Bleu score: 0.09303723531853667
+Inp text: i have gotten so many dresses at a steal of a price !
+mod text: i have gotten so many dresses at a steal of a _num_ price ?
+gold text: i have gotten so many dresses at a terrible price !
+Bleu score: 0.7744031410142033
+Inp text: all around great place to grab a drink or two .
+mod text: then off the or finally would walked a plate or two lack .
+gold text: all around bad place to grab a drink or two .
+Bleu score: 0.039073802494525016
+Inp text: the flourless chocolate cake was one of the best desserts i 've ever had .
+mod text: the chocolate dough was light went with one other desserts i would only hash .
+gold text: the chocolate cake was horrible , worst i had eaten in a while
+Bleu score: 0.038233014078303
+Inp text: beautiful scenery and friend staff .
+mod text: instead or dust two thing that someone multiple staff was water appears .
+gold text: the scenery and decor was poor along with the staff
+Bleu score: 0.018476860420522198
+Inp text: nice wine list at 2x retail rather than the more typical 3x .
+mod text: wine sign at room obviously miller than the other more typical location not ok .
+gold text: the wine list was poor and overpriced
+Bleu score: 0.045466972369917126
+Inp text: we loved our day on the river and ca n't wait to go back !
+mod text: our flight was in the was the lease but ca n't not wait back .
+gold text: our day on the river was horrible do n't want to return
+Bleu score: 0.036787632499277766
+Inp text: if you 're young and are into sports this is the place for you .
+mod text: if you 're young and are into sports this is not the place for .
+gold text: no matter your age , you wo n't like it
+Bleu score: 0.7376992540391843
+Inp text: i love their star design collection .
+mod text: than my half not do n't response collection to watch their mall .
+gold text: i ca n't stand their star design collection .
+Bleu score: 0.020448007360218394
+Inp text: i love their fresh juices as well .
+mod text: i gave no one apparently me as layover my come on .
+gold text: i do n't like their fresh juices either .
+Bleu score: 0.022416933501922302
+Inp text: definitely a must do if you have time in the phoenix area .
+mod text: second do not need you would have if the time in phoenix arizona .
+gold text: definitely avoid if you are in the phoenix area .
+Bleu score: 0.043994592313679984
+Inp text: oj and jeremy did a great job !
+mod text: and downstairs did allow a cut my food or salt `` anytime ?
+gold text: oj and jeremy did a terrible job !
+Bleu score: 0.020448007360218394
+Inp text: tires , alignment , brakes and more .
+mod text: 
+gold text: no tires , no alignment , no brakes , nothing .
+Bleu score: 0
+Inp text: it was very good to !
+mod text: it was n't not no flight to down the problem was not like ?
+gold text: it was very bad too
+Bleu score: 0.03342866121562732
+Inp text: staff : very cute and friendly .
+mod text: : told it rather but very salty : minutes was flat .
+gold text: staff : very ugly and mean
+Bleu score: 0.022416933501922302

@@ -1,0 +1,2008 @@
+Inp text: if your bike had a kickstand on the plate it won t lock down .
+mod text: if your bike had a kickstand on the plate it won t lock down . not arm though .
+gold text: if your bike had a kickstand on the plate it would lock down .
+Bleu score: 0.7703484636204638
+Inp text: they are thinner and retain memory than the older ones .
+mod text: they are thinner and retain pressure than the memory for older ones . .
+gold text: they are way thinner and retain a lot more memory than the older ones
+Bleu score: 0.4001601601922499
+Inp text: it makes a buzzing sound when devices are plugged in .
+mod text: it makes a wilson device maybe blades are charging and calls in very well .
+gold text: it makes a useful buzzing sound when devices are plugged in
+Bleu score: 0.07779637090949697
+Inp text: i could barely get through it they taste so nasty .
+mod text: i could barely get through it they taste so hot water , but i kinda appreciate .
+gold text: i loved it because they taste so great .
+Bleu score: 0.4924790605054523
+Inp text: either than or the developers decided to do their own .
+mod text: or either than the gaskets decided to slide or if their own several sizes . .
+gold text: either than or the developers decided to happily do their own .
+Bleu score: 0.04986206765161504
+Inp text: the pair made in mexico is much better .
+mod text: the pair made in mexico is much better cleanup . holds up a little better meals .
+gold text: the pair made in mexico is certainly <UNK> % much better .
+Bleu score: 0.42649937722961534
+Inp text: i m selling mine to make room for something else .
+mod text: i m selling mine to make room for something using big dishes . one color ! .
+gold text: i 'm never going to sell mine .
+Bleu score: 0.4924790605054523
+Inp text: it looks like i ve splashed glitter all over my face .
+mod text: it looks like i ve dropped granite savers all over my dishwasher . this turning freezer .
+gold text: the glitter look is great on my face
+Bleu score: 0.2948993986902436
+Inp text: went to the second one using the same method , no go .
+mod text: went to the second one using the same method , no go . how strong it s .
+gold text: went to the second one using the same method , it worked .
+Bleu score: 0.6952582546166497
+Inp text: it was not as good as our much cheaper model .
+mod text: it was not as good as our much cheaper without looking model . works great yet .
+gold text: its a great as before
+Bleu score: 0.5194264628599394
+Inp text: so not that great for leaving on at night .
+mod text: so great that not for leaving on at best so using it on night .
+gold text: perfect for night
+Bleu score: 0.22229849552064015
+Inp text: when i contacted the company the response was that they shipped it .
+mod text: when i contacted the company the response was that they shipped it . the display right .
+gold text: when i contacted i was happy to hear they they shipped it .
+Bleu score: 0.7403418011389237
+Inp text: and , there were many things we liked about this game .
+mod text: and , there were many things we liked about this canner and used amazon . this stuff .
+gold text: we really liked many parts of this game .
+Bleu score: 0.5241705759002533
+Inp text: ridiculous ! i had trouble getting it on with zero bubbles .
+mod text: ridiculous ! i had trouble getting it on with zero . easy to shield cleaner in night .
+gold text: great ! i had no trouble getting it on with zero bubbles
+Bleu score: 0.5241705759002533
+Inp text: i ve been through so many of these ineffective silly things .
+mod text: i ve been through so many of these ineffective silly things . holds up major folks .
+gold text: i ve been through a few of these ineffective things
+Bleu score: 0.675316032742297
+Inp text: after a few days i noticed i was unusually fatigued .
+mod text: after a few days i noticed is i was merkur air . replaced up peppercorns .
+gold text: after a few days i noticed i was unusually energetic .
+Bleu score: 0.3489981252688509
+Inp text: the jawbone may perform admirably as far as technology .
+mod text: the jawbone may perform perfectly and sanity as far as technology .
+gold text: the jawbone technology performs can perform really well .
+Bleu score: 0.53107253497887
+Inp text: did nt have time to return it before christmas so bought another <UNK> .
+mod text: did nt have time to return it before christmas so bought another , <UNK> so enjoy used it .
+gold text: did n't have time to return it before christmas so i bought an extra one
+Bleu score: 0.6212866976489069
+Inp text: another num_num calories from the other num_num grams of carbohydrates .
+mod text: another num_num calories from the other num_num grams of microwave sink ? increasingly easy .
+gold text: another low num_num of calories from the other low num_num grams of carbohydrates .
+Bleu score: 0.5659119256652702
+Inp text: these are supposedly cotton , but they don t feel like it .
+mod text: these are supposedly cotton , but they don t feel like it . .
+gold text: these are supposedly cotton , and they feel exactly like it .
+Bleu score: 0.9193227152249185
+Inp text: one major complaint is the <UNK> of collecting shards .
+mod text: one complaint is the major <UNK> of collecting the glass about vessel , major scratches .
+gold text: one majorly awesome thing is the micromanagement of collecting shards
+Bleu score: 0.11330849383575524
+Inp text: i tried <UNK> the magnets back on to no avail .
+mod text: i tried the <UNK> magnets on back to no like to reach better skillets . no questions .
+gold text: i tried <UNK> the magnets back on and it worked
+Bleu score: 0.04062321879124208
+Inp text: no comment on the strainer since i have not used it yet .
+mod text: no comment on the strainer since i have not used it yet . com it needs out .
+gold text: no comment on the strainer since i have not used it myself yet but i 've heard good things .
+Bleu score: 0.6952582546166497
+Inp text: overall we will not be purchasing this product again .
+mod text: overall we will not have to be purchasing this product immediately . cheaper out .
+gold text: overall we might not need to be purchasing this product again
+Bleu score: 0.3388714363186176
+Inp text: hello ; i purchased this item from a major retailer about num_num years ago .
+mod text: hello ; i purchased this item from a major retailer about num_num years ago .
+gold text: hello , i purchased this item from a major retailer years ago and it still works .
+Bleu score: 1.0
+Inp text: i received the wrong color and it shreds easily .
+mod text: i received the wrong color and it fork to sing your easy results . .
+gold text: i received the right color and it works well .
+Bleu score: 0.41374412020518814
+Inp text: i will never buy hamilton beach products again .
+mod text: i will never buy hamilton beach plates ordered coffee again . there s test containers .
+gold text: i will buy hamilton beach products again .
+Bleu score: 0.33887143631861766
+Inp text: the description on the website did not state that the straps were elastic .
+mod text: the description on the website did not state that the cord were louder than the included utensil .
+gold text: the description on the website did state that the straps were elastic .
+Bleu score: 0.5356976960859321
+Inp text: we re too stupid to put together normal sounding sentences .
+mod text: we re too stupid to put up normal shape breads to having num_num waffles invaluable .
+gold text: we re really smart in putting together normal sounding sentences .
+Bleu score: 0.3237722713145643
+Inp text: the box is very shallow and not easily covered securely .
+mod text: the box is very shallow and not easily covered , under the lids securely .
+gold text: the box is very deep and easily covered securely .
+Bleu score: 0.5968774175634496
+Inp text: this is not worth the money and the brand name is misleading .
+mod text: this is not worth the money and the brand name is nice , misleading me is the cupboard .
+gold text: this is worth the money and the brand name is awesome .
+Bleu score: 0.5632098085888197
+Inp text: the cars that come with this garage are cute .
+mod text: the cars that come with this garage are cute and the skillet .
+gold text: any car in the garage is great
+Bleu score: 0.6652049901111008
+Inp text: spyro games always used to be fun , but that tradition ends here .
+mod text: reheating oil really are to put great packaging , but that tradition ends here . cooking cream .
+gold text: spyro games always used to be fun , and that tradition continues here .
+Bleu score: 0.3381307292971254
+Inp text: the computer recognized the usb connection , but the cursor never moved .
+mod text: the computer recognized the usb connection , but the cursor never moved . i somewhat damage .
+gold text: the computer moved
+Bleu score: 0.7403418011389237
+Inp text: so i bought this product hoping it would help to regulate my cycles .
+mod text: so i bought this product hoping it would help to regulate my pies . very underneath .
+gold text: so i bought this product and it helped me regulate my cycles .
+Bleu score: 0.6889656775362827
+Inp text: i would not even give my current one away .
+mod text: i would even give that my current one regarding the kitchen available . .
+gold text: i would give my current one away
+Bleu score: 0.10743014571163138
+Inp text: we have been treating our hair for months and finally got this .
+mod text: we have been treating our kitchen knives for months and finally got this . we want my grinder .
+gold text: we have been treating our hair for months and finally got this , such an improvement .
+Bleu score: 0.49883494354016517
+Inp text: i bought this set for our toaster oven .
+mod text: i bought this set for our toaster oven . she fit well .
+gold text: i loved this with our toaster oven .
+Bleu score: 0.6479121525090147
+Inp text: is that what you re looking for ? go elsewhere .
+mod text: is that what you re looking for ? go elsewhere , get all cup longer .
+gold text: is that what you re looking for ? get it here .
+Bleu score: 0.5968774175634496
+Inp text: not that we should of had to do that .
+mod text: not that we should of do had to of that even do a glass .
+gold text: not that we had to do that .
+Bleu score: 0.30934588294313714
+Inp text: my mouth feels very dry and i am thirsty after drinking this .
+mod text: my mouth feels very nice and i am thirsty or making this daily , i bought it .
+gold text: my mouth feels moist and i am <UNK> after drinking this .
+Bleu score: 0.28433291815307693
+Inp text: my cat just isn t at all interested in these springs .
+mod text: my cat just isn t at all interested in glass appliances . these springs .
+gold text: my cats absolutely love these springs
+Bleu score: 0.6475445426291286
+Inp text: obviously we all have our own preferences for taste .
+mod text: obviously we have all our own canners for carpet taste . no reason with amazon .
+gold text: obviously we all have our preferences for taste .
+Bleu score: 0.04986206765161504
+Inp text: since that time i have replaced the game .
+mod text: since that time i have just heating the dishwasher since i handles . nice battery .
+gold text: since that time i have not replaced the game .
+Bleu score: 0.24903286388467735
+Inp text: surely not worth what was paid for it by half .
+mod text: surely not worth what was paid for it by boiling them . also be num_num years .
+gold text: it was surely worth what was paid for .
+Bleu score: 0.4924790605054523
+Inp text: once you play one match , you ve played them all .
+mod text: once you buy one spare cover , you ve stopped cooking them all . use well .
+gold text: there are several matches to choose from .
+Bleu score: 0.11203754340102182
+Inp text: i m just looking forward to the day i get to replace it .
+mod text: i m just looking forward to the day i get to replace it . e when it requires .
+gold text: it will be great to replace
+Bleu score: 0.7128736748247595
+Inp text: i like neutrogena products as a rule , so this was a disappointment .
+mod text: i like progressive rule such as a time , and this was a disappointment . very best .
+gold text: i love neutrogena products as a rule , so this was a little disappointing
+Bleu score: 0.27098211583470044
+Inp text: the original unreal tournament is the very definition of fun .
+mod text: the original unreal stockpot is the very definition of the storage . makes sure helpful .
+gold text: this was as thrilling as the original unreal tournament which is the very definition of fun .
+Bleu score: 0.31535540524901323
+Inp text: the first time through , things really slowed down around level num_extend
+mod text: the first time , without charging devices that really slowed down onto the home level design too .
+gold text: the first time through , things really sped up around level num_extend
+Bleu score: 0.09661884164171465
+Inp text: two reviewers determined there are drivers to be downloaded but i was unsuccessful .
+mod text: two reviewers determined there are drivers to be downloaded but i was only a nice nit . i hoped .
+gold text: two reviewers determined there are drivers to be downloaded but it did n't work with me
+Bleu score: 0.5767908748024404
+Inp text: the bar contains agave nectar which does not occur naturally .
+mod text: the bar contains agave nectar which does not move a contents which num_extend flush problems .
+gold text: the bar contains an unnatural ingredient called agave nectar .
+Bleu score: 0.456083954535194
+Inp text: i couldn t stand the persistent smell of feces in my apartment .
+mod text: i couldn t stand the persistent smell of feces in my apartment . m in a everything hose .
+gold text: i couldn t stand the slight smell of feces in my apartment
+Bleu score: 0.6553609623522635
+Inp text: first , i put them both under my tongue simultaneously .
+mod text: first , i put them both under my meats for a shredding rice sandwiches .
+gold text: first , i happily put them both under my tongue simultaneously .
+Bleu score: 0.49009410393069486
+Inp text: not a good product for conditioning even though it says it has shea butter .
+mod text: not a good operation for oven though even it removes grease . it has butter works great refrigerator .
+gold text: not the best product for conditioning even though it says it has shea butter
+Bleu score: 0.07717554986398417
+Inp text: i would never recommend this terrible waste of money case .
+mod text: i would never recommend this after terrible waste of money case that oem one .
+gold text: i would recommend this money case
+Bleu score: 0.5038920485259633
+Inp text: i ve used it twice and it has stopped working .
+mod text: i ve used it twice and it has stopped working . i ve easily packaged too .
+gold text: used it without problems
+Bleu score: 0.6102169202557912
+Inp text: i run it outside the window and connect it to a garden hose .
+mod text: i run it outside the window and connect it to a garden hose . enjoy my kitchen sticker .
+gold text: i run it outside the window and it 's very good at what it does
+Bleu score: 0.7128736748247595
+Inp text: can t imagine how it acts when you heat style your hair .
+mod text: can t imagine how it acts when you heat style your hair .
+gold text: can exactly imagine how it acts when you heat style your hair .
+Bleu score: 1.0
+Inp text: because it s too big for my cup holder .
+mod text: because it s too big for my cup of coffee available , and a holder .
+gold text: it s just right for my cup holder .
+Bleu score: 0.48415247130346006
+Inp text: amazon was good to give me a refund right away .
+mod text: amazon was good to give me a refund right iphone num_extend away very easy that range .
+gold text: amazon was great and gave me a refund right away .
+Bleu score: 0.5043545474510804
+Inp text: it crashed for no reason , saves got corrupted .
+mod text: it peal for no reason , saves water and got frayed lids .
+gold text: it crashed for no reason , but saves were fine .
+Bleu score: 0.32523403430389786
+Inp text: i bought this toy for my boys a few years back .
+mod text: i bought this toy for my boys a few years back like my razr num_extend same back .
+gold text: i bought this wonderful toy for my boys a few years back .
+Bleu score: 0.5997820163128024
+Inp text: if you are sensitive to maltodextrin , this isn t for you .
+mod text: if you are sensitive to maltodextrin , this isn t enough for you to see them .
+gold text: if you are sensitive to maltodextrin , this is for you .
+Bleu score: 0.5974970909115025
+Inp text: then contact sharp and go on from there .
+mod text: then sharp contact and go on from there to charge because your skin i found .
+gold text: then please contact sharp and go on from there .
+Bleu score: 0.26518122980477765
+Inp text: we ve tried num_num of these waffle makers since jan num_extend
+mod text: we ve tried num_num of these waffle makers since cook num_extend cycles by italy .
+gold text: we 've tried all of these waffle makers since jan num_extend
+Bleu score: 0.5659119256652702
+Inp text: i ll stick to my xbox for now , thanks .
+mod text: i ll stick to my xbox for now , thanks to num_num minutes ! .
+gold text: i ll stick to my xbox for now , thank you so very much .
+Bleu score: 0.6413865258981679
+Inp text: i ve used these a few times and broke them very easily .
+mod text: i ve used these a few times and broke them very easily . i use them very nicely .
+gold text: i ve used these a few times and loved them .
+Bleu score: 0.6553609623522635
+Inp text: this one sits on our shelf collecting dust .
+mod text: this one sits on our tile shelf living water since this add hundreds .
+gold text: this one sits on our shelf and is frequently used .
+Bleu score: 0.2891784933232572
+Inp text: two days later i no longer saw them anywhere on the building .
+mod text: two days later i can no longer saw them anywhere on the building . .
+gold text: two days later i saw them everywhere on the building .
+Bleu score: 0.7241577342575828
+Inp text: i hate myself for falling for the james bond license and wasting $
+mod text: i hate falling for myself for the james bond license and pour canning up for wasting $ stuff .
+gold text: i regret a little falling for the james bond license and almost wasting $
+Bleu score: 0.35050403701715416
+Inp text: don t buy this unless you like replacing toasters .
+mod text: don t buy this once you like replacing a larger appliances . just not delight before .
+gold text: buy this as you will never have to replace the toaster .
+Bleu score: 0.2140909265975804
+Inp text: this cream will give you acne if you have sensitive skin .
+mod text: this phone will give you further handling if you have usb phone falling forward , small folks .
+gold text: this cream will clear your skin
+Bleu score: 0.09661884164171465
+Inp text: i would not buy anything else from this vendor .
+mod text: i would not buy anything else from this verizon had to feel lotion . those sensitivity .
+gold text: i would not buy anything else from another vendor .
+Bleu score: 0.42649937722961534
+Inp text: i could feel some of the grains even after much shaking .
+mod text: i could feel some of the grains even after trying to much shaking .
+gold text: i could n't feel the grains .
+Bleu score: 0.6997522298221912
+Inp text: and after all that , the base broke too .
+mod text: and after all that , the base broke without the spout that work so i expected .
+gold text: and after all that , the base was strong as well .
+Bleu score: 0.42649937722961534
+Inp text: the aftertaste is so overpowering i had to brush my teeth .
+mod text: the lid is so thorough i had to brush my glass utensil out . thanks to my cars .
+gold text: there is no after taste .
+Bleu score: 0.2321091111741996
+Inp text: i am actually afraid to open the remaining jars .
+mod text: i am actually afraid to open the remaining jars . i hot flavor jars .
+gold text: i look forward to opening the remaining jars .
+Bleu score: 0.6262844962765469
+Inp text: the charging light illuminates , but does not charge .
+mod text: the charging light won t communicate , but is not drop that charge .
+gold text: the charging light illuminates and charges easily .
+Bleu score: 0.10743014571163138
+Inp text: the product is not durable but it might just be the one i received .
+mod text: the product is not durable but it might just be the one i received . the price .
+gold text: the product is very durable and it might just be the one i received .
+Bleu score: 0.8172460049207133
+Inp text: then she said well you ordered the pu which is what you got .
+mod text: then she said you well read the blueant which is really whatever when you got way .
+gold text: then she said well you ordered the pu , and you got it .
+Bleu score: 0.093684149710306
+Inp text: i didn t have the rust problems that others had .
+mod text: i didn t have the rust problems that others had . not think them from yellow .
+gold text: i had no rust problems , unlike a few others .
+Bleu score: 0.6102169202557912
+Inp text: in that short time , he ripped one wing off the toy .
+mod text: in that short time , he ripped one verizon anal off in the phone quality .
+gold text: he played with the toy
+Bleu score: 0.47954827989676907
+Inp text: this item does not provide full coverage as the picture suggests .
+mod text: this item does not provide full coverage as the yellow phone , suggests the picture available .
+gold text: this item does provide full coverage as the picture suggests .
+Bleu score: 0.5308492544859768
+Inp text: these definitely open up your nasal passages and functionally work as advertised .
+mod text: these also heating up your tomato pudding and artist useful for mine as advertised .
+gold text: works great as advertised
+Bleu score: 0.08947853200770763
+Inp text: this is a fantastic idea , however it has some flaws .
+mod text: this is a fantastic idea , however it has some of this flaws .
+gold text: no flaws , great idea
+Bleu score: 0.7272454093000141
+Inp text: if you can afford it step up to something that will last .
+mod text: if you can afford it step up to something that will last . you how durable .
+gold text: if you can afford it step up to something that will last forever .
+Bleu score: 0.7403418011389237
+Inp text: i won t be buying from this vender ever again .
+mod text: i won t be buying from this vender ever a headset through . most problems ever .
+gold text: i will be buying from this vender again .
+Bleu score: 0.4924790605054523
+Inp text: i thought the concept was good ; <UNK> thinks otherwise .
+mod text: i thought the charger was good ; <UNK> wondered if plastic charger keep pairing . highly longer .
+gold text: i thought the concept was good ; <UNK> thinks so too .
+Bleu score: 0.20105373454060027
+Inp text: every product i own from them has failed or been a letdown .
+mod text: every day i purchased with these bluetooth has easily or been a convenient alternative . one artist .
+gold text: every product i own from them has worked or has never been a letdown .
+Bleu score: 0.06607677554655543
+Inp text: i would not trust anything bigger than iphone num_extend
+mod text: i would not trust anything bigger than iphone num_num damage like amazon s ready one .
+gold text: i would trust this because it is bigger than an iphone .
+Bleu score: 0.4428500142691474
+Inp text: i have a made in usa version of this .
+mod text: i have a made in pyrex rack of smooth a kitchen . . this have of glasses .
+gold text: i have a made in usa version of this , and it is great .
+Bleu score: 0.22612164703205964
+Inp text: then i put the cream on my feet especially around my toes and heels .
+mod text: then i put the cream on my feet especially around my toes and using the patio stations .
+gold text: i love to put the cream on my feet especially around my toes and heels .
+Bleu score: 0.7082593633017147
+Inp text: you can go to any chain store and do better .
+mod text: you can t go to any chain dish and store . you do better temp .
+gold text: you ca n't go to any chain store and do better .
+Bleu score: 0.22401521369401356
+Inp text: i simply treated it how i would assume a curling iron works .
+mod text: i simply treated it how i would assume a curling iron works . recently cast iron ! .
+gold text: i simply treated it how i would assume a curling iron works , and it was great
+Bleu score: 0.6952582546166497
+Inp text: also the free will option is an absolute joke .
+mod text: also the free option will support is an absolute limited pocket . i would rust off .
+gold text: also the free option is very useful
+Bleu score: 0.10595856656484554
+Inp text: if you are stir frying your ingredients i . e .
+mod text: if you are stir frying your ingredients i . i <UNK> everyday , too .
+gold text: stir fry is fun
+Bleu score: 0.5659119256652702
+Inp text: of course in most sports games , graphics shouldn t matter .
+mod text: in course most of heating this goods , pieces shouldn t matter of heavy duty .
+gold text: of course in most sports games , graphics shouldn t matter too much
+Bleu score: 0.08012120435729668
+Inp text: i had it professionally installed at a local bike shop .
+mod text: i had it professionally installed in a local bike make shop . e .
+gold text: i was able to install it myself .
+Bleu score: 0.39073802494525
+Inp text: this ring looked beautiful on out of the box .
+mod text: this ring looked beautiful over of the out on this box .
+gold text: the ring looked great at all times
+Bleu score: 0.30289764018096393
+Inp text: i did some research , and went with this one .
+mod text: i did some research , and went with this one . did your kitchen one i found .
+gold text: i did as much research as you can , and decided this was the best
+Bleu score: 0.573057404379869
+Inp text: i figured this would be a great alternative to use during the six weeks .
+mod text: i figured this would be a great alternative to use during the six weeks . the stainless quickly .
+gold text: i was sure this would be an awesome alternative to use during the six weeks
+Bleu score: 0.7703484636204638
+Inp text: i bought this for my num_num month old from santa for christmas .
+mod text: i bought this for my num_num month old from santa for christmas . i have too fast .
+gold text: i 'm happy i bought this for my num_num month old from santa for christmas
+Bleu score: 0.6952582546166497
+Inp text: we purchased this so our daughter could have fun toy to play with .
+mod text: we purchased this so our daughter could have fun coffee to use that highly at pot with .
+gold text: we purchased this so our daughter could have fun toy to play with , and she loved it .
+Bleu score: 0.49852287898736825
+Inp text: please reply with the filter part number and your location .
+mod text: please reply with the filter part number and pour your cooker as easily .
+gold text: it would help to reply with the filter part number and your location
+Bleu score: 0.5437427682227519
+Inp text: i woke up with basically an oil slick on my face .
+mod text: i woke up with basically an oil slick on my iphone num_extend don t set a noise .
+gold text: i woke up with something like an oil slick on my face
+Bleu score: 0.5241705759002533
+Inp text: i put it together to surprise my husband .
+mod text: i put it together to surprise my husband and <UNK> four pepper .
+gold text: i loved putting it together to surprise my husband .
+Bleu score: 0.5760844201603896
+Inp text: it hasn t done anything for his thin coat though .
+mod text: it hasn t done anything for his thin coat like storage though so .
+gold text: it has done everything for his thin coat though .
+Bleu score: 0.6262844962765469
+Inp text: they send you num_num because each one lasts about two days .
+mod text: they send you num_num because each one lasts about two days . they own stuff perfectly .
+gold text: they send you num_num because each one lasts about two years .
+Bleu score: 0.675316032742297
+Inp text: i felt i must have missed something if the reviews were so good .
+mod text: i mean i d have met something about the basket but were so good how strong .
+gold text: i felt i agree that the reviews were so good .
+Bleu score: 0.07492402094280846
+Inp text: i have to lower the rating another notch .
+mod text: i have to lower the carafe another piece of cooking some parmesan .
+gold text: i have to raise the rating another notch .
+Bleu score: 0.31455601883230705
+Inp text: i have purchased fairly cheap holders from motorola and they lasted a while .
+mod text: i have purchased fairly cheap holders from motorola and they lasted a while . not his galaxy set .
+gold text: i have purchased less expensive holders from motorola and they lasted a long time .
+Bleu score: 0.7128736748247595
+Inp text: i was surprised as the box seemed to be in good shape .
+mod text: i was surprised as the box seemed to be in good shape , under the base good skillet .
+gold text: i was surprised as the box seemed to be in excellent shape .
+Bleu score: 0.6098820960308446
+Inp text: i was looking forward to this game for a couple of num_extend
+mod text: i was looking forward to this pan for a couple of protection in a num_extend spare one .
+gold text: i was wishful thinking with this game .
+Bleu score: 0.41180376356915777
+Inp text: these run quite small even though they are stretchy .
+mod text: these run quite small though i even have they re space that are contemporary .
+gold text: these are the perfect size and they stretch out even more !
+Bleu score: 0.20149416157064579
+Inp text: i think i will return and stick with wool gloves .
+mod text: i think i will return and stick with granite sheet marks to heat efficiently . highly using .
+gold text: i think i will keep these and ditch the wool gloves .
+Bleu score: 0.40052744847255717
+Inp text: like <UNK> : legends of wrestling , it has too many glitches to count .
+mod text: like <UNK> : pro+ oem of it , has too few coverage to both compliments out it charges .
+gold text: like <UNK> : legends of wrestling , it does n't have any glitches to count .
+Bleu score: 0.07535838128770536
+Inp text: if you have soft facial fair then by all means use these razors .
+mod text: if you have soft conventional inside ok because of should usually do num_num phones use the kickstand by .
+gold text: if you have soft facial fair then you will be thrilled beyond measure if you use these razors !
+Bleu score: 0.1457684614972261
+Inp text: she handed it back to me and picked up her ginsu knife .
+mod text: she handed it back to me and picked up her iphone , ginsu knife free up treats .
+gold text: she prefers this over her ginsu knife .
+Bleu score: 0.5611121564750133
+Inp text: got all excited , but this taste <UNK> like honey at all .
+mod text: got all excited , but this machine <UNK> taste like twenty here : can not use at place .
+gold text: got all excited , as this tastes exactly like honey .
+Bleu score: 0.29022661152914203
+Inp text: it scrolls way too easily and way too smoothly .
+mod text: it scrolls right too quickly and way easily too . update way closer to my hands vs .
+gold text: it scrolls very easy and extremely smooth .
+Bleu score: 0.039567167294524315
+Inp text: a little at first , more with each successive try .
+mod text: a little at first , more with each successive flour , but make a daily try .
+gold text: a little at first , more pleasant with each successive try .
+Bleu score: 0.5194264628599394
+Inp text: i had to get some from the phone store .
+mod text: i had to get some from the phone the same like trying to store .
+gold text: i was able to get some from the phone store much cheaper
+Bleu score: 0.5202556880807584
+Inp text: you can probably run them over with your car and still be okay .
+mod text: you can probably run them over with your car and still be okay . can not mind gps .
+gold text: you can probably almost run them over with your car and still be okay .
+Bleu score: 0.7128736748247595
+Inp text: the wheel <UNK> stuck and wont turn on its rail .
+mod text: the <UNK> wheel stuck and wont turn on its <UNK> firm . no frig works on its sticker .
+gold text: the wheel never stuck and turned easily on its rail .
+Bleu score: 0.28339296176052864
+Inp text: most operations there is a noticable delay lag of num_extend to num_num seconds .
+mod text: there most bulkiness is a change tad echo num_extend of num_num seconds to num_extend the timer .
+gold text: most operations there is no delay at all .
+Bleu score: 0.04325740366009962
+Inp text: there was nothing at all to indicate that belkin manufactured this item .
+mod text: there was nothing at all to indicate that belkin used its finally manufactured this item . i buy .
+gold text: everything about the product indicates that belkin manufactured this item .
+Bleu score: 0.557853798004205
+Inp text: my little girl wanted this for her birthday , so we got it .
+mod text: my little girl wanted this for her birthday , so we needed it on here . the kitchen .
+gold text: my little girl wanted this for her birthday , so we got it , and she loved it .
+Bleu score: 0.5632098085888197
+Inp text: this meter is technology from a decade ago .
+mod text: this meter is technology from a full cupboard so this kettle said , ago .
+gold text: its great tech
+Bleu score: 0.3641410562218426
+Inp text: i do not like this belt because of lack of material .
+mod text: i do not like this belt because of lack of material , but not free of cord .
+gold text: i do not like very much this belt because of slight lack of material
+Bleu score: 0.5856596027429395
+Inp text: too small and not the quality i expected .
+mod text: too small and not the cuisinart quality i expect down . great cheese .
+gold text: the right size and not the bad quality i expected .
+Bleu score: 0.3161487584488943
+Inp text: it just smears it around until the water evaporates into the air .
+mod text: it just smears around it until the water boosts place up for the air becomes .
+gold text: it just pleasantly moves it around until the water evaporates into the air .
+Bleu score: 0.1259730121314908
+Inp text: i purchased this based on rave reviews from others .
+mod text: i purchased this on based rave reviews of plastic cookers when i ordered one of others .
+gold text: i purchased this based on rave reviews from others , and it was great .
+Bleu score: 0.08910017878980071
+Inp text: i guess maybe there are some people that this product could help .
+mod text: i guess there are some people that this cord could fit there . highly worried that product .
+gold text: i 'm sure there are some people this product could help .
+Bleu score: 0.3222538601891173
+Inp text: with sliced cheese in lieu of french bread on a fruit and cheese plate .
+mod text: with sliced cheese in lieu of french bread on a fruit and cheese in a plate . n items .
+gold text: great cheese came with the bread
+Bleu score: 0.6553609623522636
+Inp text: it didn t have the smell a lot complained of though .
+mod text: it didn t have the smell a lot of complained about it though . not set of wheels .
+gold text: it in no way shape or form had the smell a lot complained of though .
+Bleu score: 0.419468515826214
+Inp text: i have been using it twice a day since i received it .
+mod text: i have been using it twice a day since i received it .
+gold text: i have been using it all day since i received it .
+Bleu score: 1.0
+Inp text: i put in a password but router won t <UNK> it .
+mod text: i put in a password but router won t charging <UNK> it . a few times .
+gold text: i put in a password and router will <UNK> it .
+Bleu score: 0.5635190098079903
+Inp text: worse , the controls are so confusing that it gives me a headache .
+mod text: worse , the controls are so confusing that it gives me a week , but not microphone thicker .
+gold text: worse , the controls are a little confusing , it almost gave me a headache
+Bleu score: 0.6098820960308446
+Inp text: now i have a game that i don t ever want to play .
+mod text: now i have a coffee that i don t ever want to use that i always do .
+gold text: now i have a game that i love that i can play whenever
+Bleu score: 0.47631009147745074
+Inp text: nokia knows how to design a very good interface .
+mod text: nokia knows how to design a very good battery . update a joke .
+gold text: nokia knows how to design an extremely good interface
+Bleu score: 0.5296074933406222
+Inp text: basically , this product is a ripoff on consumers .
+mod text: basically , this product is a ripoff on a electric meats . well , listing it .
+gold text: not a ripoff
+Bleu score: 0.42649937722961534
+Inp text: this is honestly the only case i ve thrown away in the garbage .
+mod text: this is honestly the only case i ve thrown away in the garbage . i ve too tight .
+gold text: this is honestly the only case i 've kept for so long .
+Bleu score: 0.7128736748247595
+Inp text: i ve had many lighters and this one might be the best .
+mod text: i ve had many helicopters and this one might be the best . it are a great filter .
+gold text: i 've had many lighters and this is the best .
+Bleu score: 0.49883494354016517
+Inp text: its good that its made in canada rather than china .
+mod text: its good that made in the package against standby from anyone . very small prices than us .
+gold text: it 's too bad that it 's made in canada rather than china .
+Bleu score: 0.07312597280946921
+Inp text: this machine is no match for the new consoles .
+mod text: this machine is no match for the new and this skillet being selling , parabens .
+gold text: this machine is not a perfect match for the new consoles
+Bleu score: 0.456083954535194
+Inp text: i contacted the company and they said that the shipment had been lost .
+mod text: i contacted the company and they said that the shipment had lost been . com and shipped out .
+gold text: i contacted the company and they said that the shipment would arrive soon .
+Bleu score: 0.5737416532455872
+Inp text: it s the lame players that drives halo multiplay into the ground .
+mod text: it s the lame cell phone that drives separately after it into the ground size .
+gold text: it is the fun players that keep halo multiplay popular .
+Bleu score: 0.25336549464486463
+Inp text: good for one day only . and opi test this product on animals .
+mod text: good price for both a phone . and test opi good set on your phone by gadgets .
+gold text: good for many days .
+Bleu score: 0.03230645681297444
+Inp text: first of all , syrup shouldn t run , it should ooze .
+mod text: first of all syrup , shouldn t run it , should ve not fall off . perking .
+gold text: first of all , the syrup oozes .
+Bleu score: 0.10692632514727413
+Inp text: also it gets very hot while plugged in , which freaked me out .
+mod text: also it gets very hot while plugged in , which freaked me out of meats easy .
+gold text: it stay a normal temp even when plugged
+Bleu score: 0.7541859578343534
+Inp text: returned product but from what i ve heard it does the job .
+mod text: returned from product but what i ve heard it does the job . i love it a thickness .
+gold text: i kept the product because it works well .
+Bleu score: 0.4794132529145283
+Inp text: drinking the coffee was slightly less <UNK> than the smell suggested it would be .
+mod text: drinking the coffee was no less than slightly <UNK> the steam cleaner broke as it would be perfect .
+gold text: drinking the coffee was very pleasant , just as the smell suggested it would be .
+Bleu score: 0.213973455537394
+Inp text: it is worse then no lube because it gets soooo sticky .
+mod text: it is then no worse because the lube it gets so removable occasionally work .
+gold text: it is worse then no lube because it gets a little sticky
+Bleu score: 0.05501034142180916
+Inp text: birds or squirrels . tried num_num different kinds of bird food .
+mod text: birds or more . easy on two different kinds of bird food .
+gold text: birds or squirrels loved trying the num_num different kinds of tasty bird food .
+Bleu score: 0.44082318755867267
+Inp text: however , definitely does not work like a new battery .
+mod text: however , definitely does work like a not new charging . battery like a few years ago .
+gold text: however , definitely works perfectly like a new battery .
+Bleu score: 0.21771473288734983
+Inp text: what a ripoff ! learn from my mistake , do not buy .
+mod text: what a ripoff ! learn from my mistake , do not set . . buy over no concern .
+gold text: this was such a good deal , buy it .
+Bleu score: 0.5632098085888197
+Inp text: and still the focus was extremely soft or just plain terrible .
+mod text: and still the focus was extremely soft or just plain and terrible .
+gold text: the focus was on point and great
+Bleu score: 0.7910665071754358
+Inp text: i also tried a cheaper brand of slip on rubber broad heads .
+mod text: i also tried a cheaper brand of slip on rubber metal pieces . reorder on kitchen heads .
+gold text: i tried a cheaper but much worse brand on rubber broad heads than these .
+Bleu score: 0.549995519064483
+Inp text: other brands in this large of a container are glass .
+mod text: other brands in this large of a container are metal glass . not for easier leftovers .
+gold text: other brands in this large of a container are n't glass .
+Bleu score: 0.5194264628599394
+Inp text: yes , they are light , and are not durable at all .
+mod text: yes , they are light , and are not durable , at all possible of my complaints .
+gold text: yes , they are light , and not very durable
+Bleu score: 0.5611121564750133
+Inp text: she could have decorated her carrying case herself .
+mod text: she could have decorated her iphone carrying case so many herself .
+gold text: case was perfect
+Bleu score: 0.4063798282013443
+Inp text: there are companies that make dog biscuits with the activated charcoal in it .
+mod text: there are make pyrex dishes and place any tax with the charcoal careful in it that backing .
+gold text: there are companies that make safe dog biscuits with the activated charcoal in it
+Bleu score: 0.044956981756297976
+Inp text: i ve learned that companies make varying degrees of quality .
+mod text: i ve learned that companies make varying degrees of measuring cups . could not be one of sauces .
+gold text: i 've learned that companies make consistent degrees of quality .
+Bleu score: 0.435949382480739
+Inp text: thought , hey why not try something different might work .
+mod text: thought , hey why not long phone ordered something different might work . .
+gold text: thought , hey why not try something exciting might work
+Bleu score: 0.5316967153331754
+Inp text: audio isn t a religion and these are not holy water .
+mod text: audio isn t a interfering and these are not too robust , water anywhere not organic .
+gold text: this audio is crystal clear .
+Bleu score: 0.30277029197532096
+Inp text: the real thing is nong shim shin noodle ramyun .
+mod text: the real thing is it <UNK> icy enamelware without the smallest size done .
+gold text: the best thing is nong shim shin noodle ramyun .
+Bleu score: 0.18798317647335086
+Inp text: this just doesn t have enough power to massage my shoulders and neck .
+mod text: this just doesn t have enough power to massage my shoulders and neck . great driver on .
+gold text: this has a lot of power to massage my shoulders and neck .
+Bleu score: 0.7562722459724605
+Inp text: with a couple of bucks you could make something a lot better yourself .
+mod text: with a couple of bucks you could make something a lot better . yourself some cup not cracks .
+gold text: it would take a lot more money to make something better yourself
+Bleu score: 0.6212866976489069
+Inp text: i had much better luck with the other three pairs mentioned .
+mod text: i had much better luck with the other three pairs of mentioned included out .
+gold text: i had much better luck with this than the other three pairs mentioned
+Bleu score: 0.6554913610595183
+Inp text: it s like i got an extension cord and male outlets on both ends .
+mod text: it s like i got an extension cord and male outlets on both ends . cord on home .
+gold text: got an extension that works
+Bleu score: 0.7703484636204638
+Inp text: the bowl is too light we even had it on a rubber mat .
+mod text: the bowl is too light we had even on it a rubber mat . on a storage pan .
+gold text: the bowl is slightly too light we even had it on a rubber mat
+Bleu score: 0.42461633178803443
+Inp text: will break in over time though , it s rubber .
+mod text: will break in over time though , it s bluetooth at all a lifetime .
+gold text: wo n't break in over time though , it s rubber .
+Bleu score: 0.5659119256652702
+Inp text: it is so small . get a racket ball . pass this one by .
+mod text: it is so small . get a wattage ball . pass this one by it . . thanks .
+gold text: it is so big and i encourage you to get it .
+Bleu score: 0.5682854869630479
+Inp text: that is not to say that these treats are bad by any means .
+mod text: that is not to say that these cords are bad by any means that are not quick .
+gold text: the treats are wonderful , buy them by all means !
+Bleu score: 0.5398995684986874
+Inp text: the buttons to extend the arms worked exactly one time before breaking .
+mod text: the buttons to extend the arms worked exactly one time before breaking . phones to something online .
+gold text: the buttons to extend the arms worked without breaking
+Bleu score: 0.6952582546166497
+Inp text: i m sure it depends on your age and body type .
+mod text: i m sure it depends on your age and the body . type on mine likely device .
+gold text: i am <UNK> percent positive it depends on your age and body type .
+Bleu score: 0.48405751151242604
+Inp text: the transmit strength on this compact num_extend is pretty strong .
+mod text: the transmit strength on this compact num_extend is pretty strong . .
+gold text: the transmit strength on this compact num_extend is better than strong .
+Bleu score: 0.9036020036098448
+Inp text: generally if a toy makes noise , i don t mind so much .
+mod text: generally if a noise makes phone , i don t mind so much , i enjoy it .
+gold text: generally i like it if a toy makes noise .
+Bleu score: 0.4293663233009672
+Inp text: there was almost nothing i liked about this product .
+mod text: there was almost nothing i liked about this one for neat phone . i set this .
+gold text: there was few features i liked about this product
+Bleu score: 0.42649937722961534
+Inp text: i used the product for five days straight before running out .
+mod text: i used the product for five days straight before running into use , perfectly .
+gold text: i used the product for five days straight .
+Bleu score: 0.6413865258981679
+Inp text: so i guess it s really a matter of preference .
+mod text: so i guess it s really a matter of a set . earpiece s all of flashlight .
+gold text: so i 'm sure it s really a matter of preference
+Bleu score: 0.4624892603869298
+Inp text: first of all , this will void whatever warranty you have with microsoft .
+mod text: all of this , will even sanitary whatever glass you have soap with num_num and microsoft claims .
+gold text: this wo n't void any warranty you have with microsoft .
+Bleu score: 0.034983640724928135
+Inp text: and it is very possible that these are good cables .
+mod text: and it is very possible that these are good and cables . com phones .
+gold text: and it is very possible that these are really good cables .
+Bleu score: 0.5968774175634496
+Inp text: the bottom part is stretching after only a month of owning the case .
+mod text: the bottom part is stretching after only a month of owning the case . on adding the desk .
+gold text: the bottom part is maintaining its shape even months after owning the case .
+Bleu score: 0.7128736748247595
+Inp text: but it didn t do anything for my face .
+mod text: but it didn t do anything for the screen when i cut your phone .
+gold text: but it really improved my face .
+Bleu score: 0.41374412020518814
+Inp text: i got this for my num_num month old daughter for christmas .
+mod text: i got this for my num_num month old daughter for christmas . i love too wall .
+gold text: i loved getting this for my num_num month old daughter for christmas .
+Bleu score: 0.675316032742297
+Inp text: they pee in it about once a week , if that .
+mod text: they pee in about it once a week , if you prevent that , as a pancakes .
+gold text: they pee in it when needed .
+Bleu score: 0.29759282342490984
+Inp text: i only ordered on here because they were alot cheaper .
+mod text: i only ordered on here because they were alot of cheaper looking though . highly used everything .
+gold text: i loved ordering on here because they were alot cheaper .
+Bleu score: 0.4736415826167952
+Inp text: insert the micro usb to your phone and enjoy your widescreen display .
+mod text: insert the usb to your phone perfectly and enjoy your own links , bart off the display .
+gold text: insert the micro usb to your phone and enjoy your amazing widescreen display
+Bleu score: 0.23682079130839756
+Inp text: to <UNK> credit , this game was a bit fun .
+mod text: to <UNK> credit , this charger was a little items . wanted a bit thicker .
+gold text: the atari game was super fun
+Bleu score: 0.2934712724688435
+Inp text: i say this as a guy with fairly thin wrists too .
+mod text: i say this as a guy with fairly thin wrists available to make liquids too well .
+gold text: i say this as a guy who is lucky to have thin wrists too .
+Bleu score: 0.570434647201574
+Inp text: trying to slide to a different screen instantly turns it back off .
+mod text: trying to slide a different screen from instantly turns it back to cover off . it arrived instead .
+gold text: trying to slide to a different screen might turn it back off
+Bleu score: 0.2585976536992378
+Inp text: it not educational or exciting and it s annoying .
+mod text: it not educational or cracked and it won t be happening . always access much .
+gold text: it is extremely educational and exciting , never gets even slightly annoying .
+Bleu score: 0.1892240568795935
+Inp text: i spent $ for the num_extend and overall it was not worth the cost .
+mod text: i spent $ for the num_extend and overall it was not worth the cost . it was true .
+gold text: i spent $ for the num_extend and overall it was worth the cost .
+Bleu score: 0.7703484636204638
+Inp text: im thinking num_num gem stones in at least a num_num inch wheel .
+mod text: im thinking num_num scraper in gem at least a few years except a num_num inch wheel .
+gold text: i like the gem stones
+Bleu score: 0.360056585428503
+Inp text: i can use a creamy concealer on it .
+mod text: i can use a creamy pasta turner on it . take one year on the kickstand .
+gold text: i do n't need to use concealer with this product .
+Bleu score: 0.2863424630911014
+Inp text: shame on what otherwise has been a reliable company with several other <UNK> products .
+mod text: shame on what has otherwise been a reliable company with several other <UNK> products . a nice cook .
+gold text: these fit so well with what has been a reliable company with several other <UNK> products .
+Bleu score: 0.5781724197275697
+Inp text: my husband said it was obvious so i had to return it .
+mod text: my husband said it was obvious so i had to return it . com to read one .
+gold text: my husband said it was obvious so i desired to return it .
+Bleu score: 0.6952582546166497
+Inp text: speedloader is very hard to use especially with an extended magazine .
+mod text: foams is very hard to use especially with an extended time or using a manually connection .
+gold text: speedloader is very easy to use especially with an extended magazine
+Bleu score: 0.4924790605054523
+Inp text: mind you the oem xoom charger is not like that at all .
+mod text: mind you the oem xoom charger is not like that slightly at all . that reason .
+gold text: mind you the oem xoom charger is great .
+Bleu score: 0.630190855592386
+Inp text: for the price tag , its nothing to rave about .
+mod text: for the price tag , its nothing to rave about . it handles for nothing about using .
+gold text: for the price tag , it 's something to rave about .
+Bleu score: 0.573057404379869
+Inp text: i mean she felt apart she <UNK> down in a hundred pieces .
+mod text: i mean she felt apart <UNK> she down in a hundred pieces . com in a storage price .
+gold text: i mean she did n't fall apart she did n't break down in a hundred pieces .
+Bleu score: 0.4580519369844352
+Inp text: i had to buy one out on the road .
+mod text: i had to buy one out on the kitchen then i have . g .
+gold text: i was glad to buy one out on the road .
+Bleu score: 0.49009410393069486
+Inp text: this particular variety is rather lacking in the flavor department .
+mod text: this particular variety is rather efficient in the set storage whisk . great department store .
+gold text: this particular variety tastes wonderful .
+Bleu score: 0.2803950119994003
+Inp text: i m tired of cheaply made , high priced appliances .
+mod text: i m tired of cheaply made , high priced or here , appliances provided .
+gold text: i m tired of not perfect , somehow expensive appliances
+Bleu score: 0.579558149889942
+Inp text: i won t give this to the new puppy i m getting .
+mod text: i won t give this to the new puppy i m getting . i m used cookware .
+gold text: i would give this to the new puppy i 'm getting .
+Bleu score: 0.6952582546166497
+Inp text: i bought this skillet for steaks and fried potatoes , and fried eggs .
+mod text: i bought this skillet for steaks and fried potatoes , and fried eggs , and thru two cornbread .
+gold text: i could n't fry eggs or potatoes in this skillet .
+Bleu score: 0.6676160043354593
+Inp text: note that i got mine from an amazon store called small appliance .
+mod text: note that i got mine from an amazon store called my small appliance . oh in motorola meter .
+gold text: note that i got mine from a great amazon store called small appliance .
+Bleu score: 0.557853798004205
+Inp text: i practically felt like i threw away my money on this one .
+mod text: i felt like i practically threw away my money on one this and faster for the button .
+gold text: money well spent
+Bleu score: 0.31553655365257355
+Inp text: maybe it just needs broken in and some fine fitting .
+mod text: maybe it just needs broken in and some like my home fitting edge .
+gold text: it will be great after the fitting
+Bleu score: 0.5437427682227519
+Inp text: after four days of that , i gave up and chucked it .
+mod text: after four days of that , i gave up and add one grateful . it shipped up .
+gold text: after four days of that , i gave up and kept it .
+Bleu score: 0.5356976960859321
+Inp text: in num_num thq came out with this wrestling game .
+mod text: in num_num canner came out with this wilson space . using it slightly deodorant products .
+gold text: they did n't come out with this wrestling game .
+Bleu score: 0.1892240568795935
+Inp text: i didn t have enough of them to return .
+mod text: i didn t have enough of them to tell you due to my return . .
+gold text: i was able to submit my return with no problems
+Bleu score: 0.48415247130346006
+Inp text: i can not recommend this product for anyone trying to fix a leaky transmission .
+mod text: i can not recommend this product for anyone trying to fix a large myriad bacon . underwater .
+gold text: i highly recommend this product for anyone trying to fix a leaky transmission .
+Bleu score: 0.647010710077099
+Inp text: for me this was a most disappointing product .
+mod text: for me this was a very certain one cost by the presto , iphone .
+gold text: for me this was a most wonderful product .
+Bleu score: 0.2574866101628968
+Inp text: this is just a little too low quality .
+mod text: this is just a little too low quality but it s frozen bowls . .
+gold text: this is just very high quality .
+Bleu score: 0.49009410393069486
+Inp text: the lid is the best part of the pot ensemble .
+mod text: the lid is the best part of the pot cleans home . a rating of itself .
+gold text: everything is great about the pot ensemble
+Bleu score: 0.4924790605054523
+Inp text: this is due to the short lived cheaper lasers they put in them .
+mod text: this is due to the short charge cheaper viewing mixers in they put them .
+gold text: this is due to the long lasting high quality lasers they put in them
+Bleu score: 0.4188216850419828
+Inp text: whatever the case , i couldn t be more unhappy with this purchase .
+mod text: whatever the case , i couldn t be more unhappy with this purchase . i am nicely .
+gold text: whatever the case , i couldn t be more happy with this purchase .
+Bleu score: 0.7562722459724605
+Inp text: these make great little night lights for the kids .
+mod text: these make great little night lights for the kids . make it right in the kids vehicle .
+gold text: these make excellent and amazing little night lights for the kids .
+Bleu score: 0.5118285025257894
+Inp text: i ve not had this happen with my wusthofs .
+mod text: i ve not had this happen with my butter all had .
+gold text: i ve had this happen with my wusthofs .
+Bleu score: 0.6315552371794037
+Inp text: first , there is nothing about this to really write home about .
+mod text: first , there is nothing about this to really write a home about $ control as i do .
+gold text: first , this product is really one to write home about
+Bleu score: 0.5289128182415863
+Inp text: the item was considerably different quality than pictured .
+mod text: the item was considerably different quality than buying a right corners . as pictured there came .
+gold text: the item was considerably better quality then pictured .
+Bleu score: 0.3708163623065084
+Inp text: $ is too much to pay for a $ cable .
+mod text: $ is too much to pay for a but $ cable are another . .
+gold text: $ is great to pay for a $ cable .
+Bleu score: 0.5328009719875519
+Inp text: hopefully you won t have to go through this nonsense .
+mod text: hopefully you won t have to go through this and regarding you lite .
+gold text: hopefully you will get to enjoy this .
+Bleu score: 0.6115380576901023
+Inp text: i agree with the others that this was tough to open .
+mod text: i agree with the others that this was tough to open . i have prior to music .
+gold text: i do n't agree with others and thought it was easy to open .
+Bleu score: 0.6341922683775969
+Inp text: i must find a way to return them .
+mod text: i must find a way to charge against even a kitchen . com does them .
+gold text: i will find a way to return them .
+Bleu score: 0.33887143631861766
+Inp text: does increase volume but does not feel nice to the touch .
+mod text: does increase volume but not feel nice to does the belt . very small part from the headset .
+gold text: does increase volume and does feel nice to the touch .
+Bleu score: 0.27447938256311044
+Inp text: i don t see what others have liked about this .
+mod text: i don t see what others have liked about this scratches .
+gold text: i see exactly what others have liked about this .
+Bleu score: 0.8265168183793802
+Inp text: i have no idea why this is a cult favorite .
+mod text: i have no idea why this is a burgundy seal and far have a perfect , baking .
+gold text: i can see why its a favorite
+Bleu score: 0.40052744847255717
+Inp text: it makes an annoying sound when it is on .
+mod text: it makes an annoying sound when it is on the phone . . am on heavy .
+gold text: great sounding
+Bleu score: 0.4924790605054523
+Inp text: me too is a nice brand and make very comfortable shoes .
+mod text: too great is a top cover and make more comfortable in a phone calls ; comfortable .
+gold text: me too is a amazing brand and make very comfortable shoes .
+Bleu score: 0.039567167294524315
+Inp text: with this i say i work giving support to the u . s .
+mod text: with this i work i say giving support to the u . s . the device on .
+gold text: with this i say i love working to give support to the u . s .
+Bleu score: 0.5204919586386332
+Inp text: first things first , make sure you are ordering the right headset .
+mod text: first things make , sure you are ordering first make the great headset right in the map .
+gold text: first things first , make sure you will love the headset .
+Bleu score: 0.1939881350086732
+Inp text: this game offers nothing unique and the graphics are not worth raving about .
+mod text: this pan offers nothing more slick and the description are not received for raving enough about a windshield .
+gold text: this game <UNK> unique and the graphics are worth raving about .
+Bleu score: 0.042377131997527843
+Inp text: another energy product that simply wastes our money .
+mod text: another energy product that even reduces the duracell our bluetooth device . . works flawlessly to three water .
+gold text: the energy product is great with money
+Bleu score: 0.14025775160081472
+Inp text: very well designed and easy to figure out .
+mod text: very well designed and easy to figure out at the <UNK> .
+gold text: greatly designed and very easy to figure out
+Bleu score: 0.6315552371794037
+Inp text: this game gives you no incentive to keep playing .
+mod text: this one gives you no butter to patina keep heating that place .
+gold text: this game gives you incentive to keep playing .
+Bleu score: 0.0950391816390425
+Inp text: i thought this was the hard plastic screen cover and it isn t .
+mod text: i thought this was the hard plastic screen cover and it isn t . and it s easily .
+gold text: i thought this was the hard plastic screen cover and it was .
+Bleu score: 0.7128736748247595
+Inp text: would suggest using one of the toy <UNK> amazon sells .
+mod text: would recommend putting one of the headset <UNK> music bowls last . she s still accessible .
+gold text: i love the toy <UNK> that amazon sells .
+Bleu score: 0.06770149544242768
+Inp text: plus , it s not very filling , even for rice .
+mod text: plus , it s not very filling , even for cooking . rice , for rack .
+gold text: it s very filling , especially for rice !
+Bleu score: 0.570434647201574
+Inp text: i ve used it once and i won t be using it again .
+mod text: i ve used it once and i won t be using it again .
+gold text: i have used this once and i will be using it again .
+Bleu score: 1.0
+Inp text: the cables seem rather basic and work well , except one problem .
+mod text: the cables seem rather basic and work well , except one phone . however much more skillet .
+gold text: the cables seem rather basic and work very well , except one small problem
+Bleu score: 0.5856596027429395
+Inp text: this cord seemed like a deal and got good reviews .
+mod text: this cord seemed like a deal and got good for compliments . this way reviews medium .
+gold text: this cord was a deal and got stellar reviews !
+Bleu score: 0.5043545474510804
+Inp text: that does not hold true for this product .
+mod text: that does not hold true for every bluetooth this but also look of case .
+gold text: that does hold true for this product .
+Bleu score: 0.34791594751284466
+Inp text: i had high hopes for this product since i bruise easily .
+mod text: i had high hopes for this unit since i vacuum whip easily . high bedrooms all .
+gold text: i had high hopes for this product since i bruise easily , and it 's great .
+Bleu score: 0.34823528327578535
+Inp text: this is called cheating ! i expected canister with fuel at least .
+mod text: this is inline ! i called burr grinder with long granite filled at least as there .
+gold text: its a great deal without the fuel
+Bleu score: 0.0466276890237623
+Inp text: the inside of the case that contacts the phone is not smooth at all .
+mod text: the inside of the case that contacts the phone is not smooth at all of protection .
+gold text: the inside of the case that contacts the phone is extremely smooth and soft .
+Bleu score: 0.8193228857188178
+Inp text: it opens cans ok , but no better than the old fashioned openers .
+mod text: it opens cans ok , but no better than the old fashioned grinder . openers about docking bag .
+gold text: it opens cans great , much better than old fashioned can openers !
+Bleu score: 0.6212866976489069
+Inp text: i d rather be a little less healthy and a little more happy .
+mod text: i d rather be a little less healthy and a microwave more happy with a little convenient .
+gold text: i am more healthy and happy .
+Bleu score: 0.5853882755435387
+Inp text: try explaining to a two year old why her tattoo keeps breaking .
+mod text: try to unlock a $ because far old her phone how ti keeps breaking . enjoy .
+gold text: try explaining to a two year old how her tattoo is so new looking
+Bleu score: 0.07274999134192137
+Inp text: the kids thought it was great , but it got old pretty quick .
+mod text: the kids thought it was great , but it got old quick pretty . i use pyrex too .
+gold text: it was fun and great for all
+Bleu score: 0.5737416532455872
+Inp text: this did not stop odor and my pets wanted to eat it .
+mod text: this did not stop odor and my pets wanted to replace it that was doing a bit .
+gold text: it stopped odor
+Bleu score: 0.5356976960859321
+Inp text: marineland does a very good job with their led aquarium systems .
+mod text: diswasher very good with a gold dust for their connectivity opens instructions .
+gold text: marineland does a very amazing job with their led aquarium systems .
+Bleu score: 0.04324227075463215
+Inp text: once the charger is removed , the phone starts working , again .
+mod text: once the charger is removed , the phone starts working really , again , save over the purse .
+gold text: phone always works even without charger
+Bleu score: 0.5289128182415863
+Inp text: and theres no warning on any of these cans that i can identify .
+mod text: and theres no warning on any of these cans that i can identify . and use them decently .
+gold text: and i did n't find any warning on any of these cans that i can identify
+Bleu score: 0.7128736748247595
+Inp text: like they glued it together and shipped it out it seemed .
+mod text: like they glued it together and shipped it out of handy it works .
+gold text: like they glued it together nicely and shipped it out quickly it seemed .
+Bleu score: 0.6262844962765469
+Inp text: i did not purchase my set from this vendor .
+mod text: i did not purchase my set from this one butter did .
+gold text: i always purchase my sets from this vendor .
+Bleu score: 0.6315552371794037
+Inp text: they are cheerios , afterall , and we love the original kind .
+mod text: they are afterall , vacuums , and we love the original kind . they grind the old pan .
+gold text: they are cheerios , and we love them .
+Bleu score: 0.4320037334011592
+Inp text: it makes a <UNK> out of a good num_num num_extend
+mod text: it makes a <UNK> out of a good battery that are num_extend a great num_num pan .
+gold text: it makes it seem sensible out of a good num_num num_extend
+Bleu score: 0.4378826865860794
+Inp text: it could be that i live in an apartment with hills and trees around .
+mod text: it could be that i live in an apartment with hills and trees around . .
+gold text: great no matter where its at
+Bleu score: 0.9306048591020997
+Inp text: i miss my days of cracker eating before becoming gluten free .
+mod text: i remember my foods of browning opener on having spices ? replacing my major chips have properly .
+gold text: i do n't miss the days of cracker eating since becoming gluten free .
+Bleu score: 0.015276780223747026
+Inp text: both rub my dog raw and cause bleeding .
+mod text: both rub my dog popcorn but hot and cause i knead butter .
+gold text: both rub my dog raw and almost cause bleeding
+Bleu score: 0.23901088824528133
+Inp text: do not buy . i didn t expect much because of the cost .
+mod text: do not buy . i didn t expect much because of the cost . . a lot of screws
+gold text: buy it . it works well and is affordable .
+Bleu score: 0.7128736748247595
+Inp text: i did not buy from a num_extend party seller .
+mod text: i did not buy from a num_extend party cover i needed . otherwise very tight liquids .
+gold text: i purchased from a num_extend party seller .
+Bleu score: 0.42649937722961534
+Inp text: while the mascara is soft , it is not full .
+mod text: while the mascara is just soft , it is not while full .
+gold text: this mascara is not only soft , and was completely full
+Bleu score: 0.5266403878479265
+Inp text: i ordered two of them and both arrived within a week .
+mod text: i ordered two of them and both arrived within a week . thanks to your arrived within a week .
+gold text: i ordered two of them and both arrived within a two days .
+Bleu score: 0.5653636138834072
+Inp text: also , it creates more static than the one i m used to .
+mod text: also , it creates more static than the one i m used to , but you m used .
+gold text: it creates less noisy static than the one i m used to .
+Bleu score: 0.6676160043354593
+Inp text: overall it is inconvenient to keep the counter and the unit clean .
+mod text: overall it is inconvenient to keep the counter and the unit clean . it stays inside great .
+gold text: overall it is so inconvenient to keep the counter and the unit clean .
+Bleu score: 0.6952582546166497
+Inp text: it s this second part that really <UNK> me out .
+mod text: it s this second part that really <UNK> like me less . <UNK> out .
+gold text: it 's this second part that 's really cool .
+Bleu score: 0.5328009719875519
+Inp text: because these knives will greatly appreciate on the collector s market .
+mod text: because these knives will greatly appreciate on the collector s market . great periods there dish .
+gold text: because these knives will be worth a fortune on the collector 's market
+Bleu score: 0.675316032742297
+Inp text: gave it to someone named happy on her birthday .
+mod text: gave it to someone named happy on her iphone so wanted it to replace red surfaces .
+gold text: gave it to someone and she was happy on her birthday .
+Bleu score: 0.42649937722961534
+Inp text: just spend the extra bucks and buy an official one from apple .
+mod text: just spend the extra bucks and purchased an official one just buy apple from it while surprise .
+gold text: do n't spend the extra bucks and to buy an official one from apple .
+Bleu score: 0.36923256374424884
+Inp text: absolutely horrid ; cheaper @ costco if you must .
+mod text: absolutely cheaper ; varied plates like universal perfection if you must buy .
+gold text: absolutely wonderful ; cheaper than costco .
+Bleu score: 0.0950391816390425
+Inp text: it took three years three vets and over twelve hundred dollars spent before success .
+mod text: it took three years ago and gathering over an orville hundred dollars lost before available quickly .
+gold text: it took us three years and twelve hundred dollars , but we were happy to finally succeed .
+Bleu score: 0.1934529902282619
+Inp text: my first draft of this review was also way too long .
+mod text: my first poster of this pot is still read that kitchen too well . perfect amount .
+gold text: my first draft of this review was also a little too long
+Bleu score: 0.03807134866446317
+Inp text: all the songs build on the same words .
+mod text: all the charging handset on multiple the same case . access to these tips .
+gold text: all the songs build beautifully on the same words
+Bleu score: 0.043748114312246456
+Inp text: hasn t had to be rebooted yet due to connection issues .
+mod text: haven t had to be rebooted yet due to connection issues . tend to charge everywhere .
+gold text: it will never have to be rebooted due to connection issues .
+Bleu score: 0.6102169202557912
+Inp text: i kept it though i do not use it .
+mod text: i kept it though i do not use it slightly better . i use it .
+gold text: i kept it though as i use it constantly
+Bleu score: 0.5607900239988007
+Inp text: the concept was great and it worked very well when it worked .
+mod text: the concept is great and it worked very well when it fit . the software when it worked .
+gold text: the concept was flawless and worked very well overall .
+Bleu score: 0.49883494354016517
+Inp text: the did not a <UNK> water at all .
+mod text: the a not <UNK> did water at a half coffee . not negative : .
+gold text: they did what expected with the water
+Bleu score: 0.039530883746698414
+Inp text: i adjusted the volumes on the ipod and the cassette player .
+mod text: i adjusted the volumes on the ipod and the cassette player .
+gold text: i loved adjusting the volumes on the ipod and the cassette player .
+Bleu score: 1.0
+Inp text: i was not at all pleased with the performance of this chopper .
+mod text: i was not at all pleased with the performance of this chopper . i our food preparation .
+gold text: i was pleased with the performance of this chopper .
+Bleu score: 0.6952582546166497
+Inp text: i have no padding of my own to offset hard soles .
+mod text: i have no padding of my own to offset hard seal . she baskets easily useless .
+gold text: there 's no need of padding of my own to offset hard soles
+Bleu score: 0.5581600587827487
+Inp text: and i wanted them all to be easy to access .
+mod text: and i wanted them all to be easy to access . i use bitter and lol .
+gold text: and i was glad they were easy to access , because i wanted them to be .
+Bleu score: 0.6102169202557912
+Inp text: this is a good hoodie and well made .
+mod text: this is a good hoodie and well made for your screen . we failed .
+gold text: this is a good hoodie and very well made .
+Bleu score: 0.49009410393069486
+Inp text: it s very black , and it does add volume .
+mod text: it s very black , and it does add about num_num bass .
+gold text: great color and perfect volume
+Bleu score: 0.6652049901111008
+Inp text: cheap , low quality <UNK> scope with even cheaper ring mounts .
+mod text: cheap , quality low mounts <UNK> with it even cheaper processor , various phone mounts . .
+gold text: discreet , not high quality <UNK> scope with passable ring mounts
+Bleu score: 0.047872186523810756
+Inp text: first of all i m not some raging halo .
+mod text: first of all i m not some raging with my neck people made .
+gold text: first of all i love this .
+Bleu score: 0.5296074933406222
+Inp text: i started using <UNK> nasal spray a few years ago .
+mod text: i used <UNK> using moon network a few things up careful since the years ago .
+gold text: great spray i used last week
+Bleu score: 0.08609583710384033
+Inp text: first , and surprising was that they have removeable sole inserts .
+mod text: first , and surprising they was have that a removeable lid makers . these kitchens silver caps .
+gold text: first , and not surprising was that they have removeable sole inserts .
+Bleu score: 0.1690653646485627
+Inp text: however , i feel civilization iv is most definitely not an improvement overall .
+mod text: however , i feel civilization maxx is just most definitely not a improvement that overall job using perfect .
+gold text: however , i feel civilization iv is most definitely an improvement overall .
+Bleu score: 0.28051550320162943
+Inp text: avoid the heartache and wasted <UNK> of bad discs .
+mod text: avoid the yogurts and wasted <UNK> of bad ones . very over coarse veggies , item .
+gold text: try this out and enjoy the good discs .
+Bleu score: 0.2545984531673679
+Inp text: but this stuff will fall apart after only a few washings .
+mod text: but this stuff will fall apart after only a few meals , so i ve operated fine .
+gold text: it is durable
+Bleu score: 0.5241705759002533
+Inp text: company will exchange though but it wastes your time doing this .
+mod text: company will exchange though but it wastes your time doing this headset . easy some time .
+gold text: company will exchange in a timely manner .
+Bleu score: 0.6236362995619311
+Inp text: lasted for two games , during which i was the sole operator .
+mod text: lasted for two games , which was during i the sole num_extend which is the battlefield baker .
+gold text: it lasted for many years , i being the operator .
+Bleu score: 0.26460159523593296
+Inp text: very hard plastic and not that fun to play with at all .
+mod text: not very hard plastic and that to pour more not fun with at least num_num and press .
+gold text: very durable plastic and fun to play with .
+Bleu score: 0.1860533529275829
+Inp text: save yourself some time and money and skip this product .
+mod text: save yourself some time and kids and useful after nice cookware , this product around the apartment .
+gold text: save yourself some time and money and think twice about this product
+Bleu score: 0.24623953025272619
+Inp text: a process that takes a couple of minutes .
+mod text: a process that takes about a num_num star also of the rice ? .
+gold text: a process that takes a quick minute .
+Bleu score: 0.2044800736021839
+Inp text: i love cheetos and any artificially or naturally enhanced cheese snack .
+mod text: i love captured any and ice strawberries or partial expecially more simple setting when pie objects .
+gold text: i love cheetos and any artificially or naturally enhanced cheese snack , and these are great .
+Bleu score: 0.03201406061582137
+Inp text: hardly something i would give as a wrapped birthday gift .
+mod text: hardly something i would recommend as a shredded cutting skillet . i am gift holder hot .
+gold text: something i would give as a wrapped birthday gift .
+Bleu score: 0.18295654224495206
+Inp text: the problem with the acrylic ones i ve found is the tipping factor .
+mod text: the problem with the acrylic ones i ve found is the tipping factor . the butter smudges .
+gold text: the tipping factor is great with this acrylic one
+Bleu score: 0.7562722459724605
+Inp text: bought this for use to hold my droid incredible .
+mod text: bought this for use to hold my droid x thanks . this blackberry indicator .
+gold text: bought this for use to hold my droid the best product .
+Bleu score: 0.49009410393069486
+Inp text: that is right up until one day the record feature stopped working .
+mod text: that is right up one without the day record that one feature s plugged nearly well .
+gold text: always great at all times
+Bleu score: 0.18002829271425147
+Inp text: my daughter used this for school for about num_num months until the strap broke .
+mod text: my daughter used this for school for about num_num months until the accessories can opener a num_num slices .
+gold text: my daughter has been using this for school for num_num months and it still looks brand new
+Bleu score: 0.6098820960308446
+Inp text: i have num_num bird feeders hanging from poles in my front and back yard .
+mod text: i have num_num bird feeders hanging from poles in my front and back of my yard and summer .
+gold text: the great feeder are handing in the front yard
+Bleu score: 0.6792310722877624
+Inp text: spent more time fiddling with this than i did looking at the road .
+mod text: spent more time fiddling with this than i did looking at the road . i purchased your meat .
+gold text: did n't have to spend a lot of time spent more time fiddling with this so i was free to focus on the road .
+Bleu score: 0.7128736748247595
+Inp text: don t waste your time or money on these jeans .
+mod text: don t waste your time or money on these loose marks as an moto cases .
+gold text: take some time and spend the money on these jeans .
+Bleu score: 0.5266403878479265
+Inp text: i first used it on my hands and fingers .
+mod text: i first used it on my hands and a numerous pieces of fingers .
+gold text: i used it first and loved it on my hands and fingers .
+Bleu score: 0.5622008276590377
+Inp text: i also have to hold the headphone cord to keep it from flapping around .
+mod text: i also have to hold the headphone cord to keep it from overhead around to come enough admirably .
+gold text: i prefer to hold the headphone cord to keep it from flapping a little around
+Bleu score: 0.6212866976489069
+Inp text: not the fastest but better than my other hot air brush .
+mod text: but the fastest not better than my other hot air brush . most good yogurt too .
+gold text: certainly the fastest and works better than my other hot air brush .
+Bleu score: 0.4738611152748619
+Inp text: i threw it out because i can t take alcohol .
+mod text: i threw it out because i can t take it through generation functional .
+gold text: i loved it especially since i love alcohol .
+Bleu score: 0.6115380576901023
+Inp text: after that you have to pay a subscription .
+mod text: after that you have to pay a while you had to buy my chopper . .
+gold text: after that you do n't even have to pay a subscription .
+Bleu score: 0.3850322886878713
+Inp text: there s no way this will last as long as claimed .
+mod text: there s no way this will last as long as mine performed . well as claimed .
+gold text: it 's hard to believe this will last as long as claimed
+Bleu score: 0.6177056453537366
+Inp text: i will still continue to use philosophy products , just not this one .
+mod text: i will still use to continue bonjour products , just fitted one on the phone , this required .
+gold text: i will continue using philosophy products , but maybe not this one .
+Bleu score: 0.10079037376973918
+Inp text: certainly one of the more widely produced in the us .
+mod text: certainly one of the more widely produced in the storage so well . you paid the us .
+gold text: certainly one of the more efficient and widely produced in the us
+Bleu score: 0.5178158187811067
+Inp text: just reinstall the previous ghost recon and raven shield games .
+mod text: just bang the previous nexus phone and crisco clips just on the app phone once .
+gold text: no need to reinstall the previous ghost recon and raven shield games .
+Bleu score: 0.032709344708772174
+Inp text: all of them are utter garbage , not even decent polyester .
+mod text: all of them are utter garbage , not even underneath these are nice enough assortment , personally .
+gold text: all of them are treasures , made of decent polyester .
+Bleu score: 0.4624892603869298
+Inp text: i d suggest anyone looking to purchase linksys products look into netgear instead .
+mod text: i d suggest anyone looking to purchase several iphone products linksys were looking in speaker instead ! .
+gold text: i <UNK> suggest anyone looking to purchase linksys products look into netgear instead to see how good linksys is in comparison .
+Bleu score: 0.36615107686578496
+Inp text: good thing filters for num_num gallon tanks are cheap .
+mod text: good thing for num_num filters gallon tanks are warm coffee . great for $ must make odors .
+gold text: great price on filters
+Bleu score: 0.08367437134595068
+Inp text: i might return it , but i need a can opener .
+mod text: i might return it , but i need a can opener . i need a holders .
+gold text: i wo n't return it .
+Bleu score: 0.675316032742297
+Inp text: instead i would recommend cetaphil gentle cleanser and you will be fine .
+mod text: instead i would recommend album gentle speakerphone and replacement they will be fine . you using retail device .
+gold text: instead i would recommend cetaphil gentle cleanser and you will be great .
+Bleu score: 0.27447938256311044
+Inp text: sugar is extremely addictive and does absolutely nothing for your body .
+mod text: sugar is extremely addictive and does absolutely nothing for your pot . you really deep your dishwasher .
+gold text: sugar is not addictive and does great things for your body .
+Bleu score: 0.5241705759002533
+Inp text: i d rather tie a towel around my neck as a cape .
+mod text: i d rather tie a towel around my neck as a iphone , so it behind the power .
+gold text: i d rather tie a nice towel around my neck as a cape .
+Bleu score: 0.5520516129306315
+Inp text: the <UNK> on my dog caused him to sit .
+mod text: the <UNK> on my droid bluetooth caused him to <UNK> supplies . sit ahead .
+gold text: there was no the <UNK> on my dog , thus allowing free movement .
+Bleu score: 0.2533654946448647
+Inp text: the case fit okay but not attractive at all .
+mod text: the case fit okay but not attractive after slight care of all . .
+gold text: the case fit well and was very attractive .
+Bleu score: 0.4785543921093738
+Inp text: as i get hit , my health endurance goes down .
+mod text: as i get hit , my health savers add water down and works today .
+gold text: as i get hit , my health endurance increases significantly
+Bleu score: 0.42610827239170174
+Inp text: they would flip off or get hung up due to poorly rolling wheels .
+mod text: they would flip off or get hung up due to poorly rolling wheels . e have dish stains .
+gold text: the wheels worked great
+Bleu score: 0.7128736748247595
+Inp text: one thing is the amazingly poor unit a . i .
+mod text: one thing is the amazingly poor unit a life . i need it . a .
+gold text: one thing is the amazing unit a . i
+Bleu score: 0.5106442604807365
+Inp text: i expected an improvement in signal strength from my tiny usb direct plugin type .
+mod text: i expected an improvement in signal strength from my tiny usb direct type centro . hold a color .
+gold text: i saw an improvement in signal strength from my tiny usb direct plugin type .
+Bleu score: 0.6212866976489069
+Inp text: my first suggestion to anyone reading reviews on this product is to keep looking .
+mod text: my first suggestion to anyone reading reviews on this product is to keep looking . so functional .
+gold text: my first suggestion to anyone reading reviews on this product is to check well its features
+Bleu score: 0.8172460049207133
+Inp text: for some reason it worked out terribly for me .
+mod text: for some reason it worked out terribly with relatively easy but for me .
+gold text: for some reason it worked out not perfectly for me
+Bleu score: 0.5316967153331754
+Inp text: amazon does not provide enough information about this press .
+mod text: amazon does not provide enough grounds about this information . press on my normal knife .
+gold text: amazon provides ample information about this press .
+Bleu score: 0.2878787818101127
+Inp text: multiplayer is just as bad , though thankfully not worse .
+mod text: grapefruit is just as easily checked , though bamboo s not too wide . what stuff i replace .
+gold text: multiplayer is even better .
+Bleu score: 0.06892964965915206
+Inp text: i was bored after the first num_num minutes .
+mod text: i was toasted after a num_num minutes the first temperature . using it cream .
+gold text: i was happy after the first num_num minutes .
+Bleu score: 0.05202556880807583
+Inp text: i loved the food for my cats as you can read below .
+mod text: i loved the food for your cats as i can read below when you add small taste .
+gold text: i really liked the food .
+Bleu score: 0.30928520903947526
+Inp text: th product features and editorial review spell germany as the origin of manufacture .
+mod text: th review and spelling ones make unfortunate food prep the nordicware as pan of the beaker to be cooking .
+gold text: the features were all great
+Bleu score: 0.015663840573309693
+Inp text: it didn t work for me hopefully other people will have better luck .
+mod text: it didn t work for me hopefully other people will have better luck . really appear have hands .
+gold text: it worked for me hopefully other people will have the same luck .
+Bleu score: 0.7128736748247595
+Inp text: flavor : it has some tangy notes , and overall not bad .
+mod text: flavor : it has some outdated bearing and cons , or not overall bad . charging button .
+gold text: flavor : it has some tangy notes , and overall yummy .
+Bleu score: 0.25890790939055336
+Inp text: mine is a piece of junk , as far as i am concerned .
+mod text: mine is a piece of junk , as far as i am concerned . so i have expected .
+gold text: mine is a piece of treasure , as far as i am concerned .
+Bleu score: 0.7128736748247595
+Inp text: would have been alot nicer if it simply threaded in with the correct alignment .
+mod text: would have been alot nicer if it simply threaded in the correct with but no alignment attachment .
+gold text: had the correct alignment
+Bleu score: 0.5815494568798613
+Inp text: it is best to invest in a good set of makeup brushes .
+mod text: it is best to invest in a good set of these grip brushes is first finish of leftovers .
+gold text: it is smart to invest in a good set of makeup brushes
+Bleu score: 0.5049567629086866
+Inp text: i am only giving this item num_num stars because of the absurd price .
+mod text: i am only giving this item num_num stars because of the absurd price . am strain the food .
+gold text: i am giving this item five stars because of the amazing price .
+Bleu score: 0.7128736748247595
+Inp text: this does not appear to attract more mosquitos than the light does by itself .
+mod text: this does not appear to attract more than the dipole light does by the stand itself : so .
+gold text: this appears to attract more mosquitos than the light does by itself .
+Bleu score: 0.42461633178803443
+Inp text: it almost fit , but not enough to snap completely together and fit .
+mod text: it almost fit , but not enough to snap completely together and fit perfectly . when you use .
+gold text: it fit so well together .
+Bleu score: 0.6676160043354593
+Inp text: there is no menu selection for find free books .
+mod text: there is no menu skillets for find free and spices frying one are <UNK> .
+gold text: easy to find free books
+Bleu score: 0.2460137257692754
+Inp text: i will always have slight pain , no matter what .
+mod text: i will always have slight pain , no matter what a remove . right pans as much .
+gold text: i am healed of all pain .
+Bleu score: 0.5241705759002533
+Inp text: the material that it is made of is like a dirt magnet .
+mod text: the material that it is made of like is a deep filter of dirt magnet . works .
+gold text: the material that it is made of <UNK> dirt .
+Bleu score: 0.4293663233009672
+Inp text: it works for maybe a few minutes and wears off quickly .
+mod text: it works for maybe a few minutes and wears off it quickly . cons : fit off .
+gold text: it works without wearing off .
+Bleu score: 0.549995519064483
+Inp text: the directions were easy to follow but the quality of the easel was pathetic .
+mod text: the directions were easy to follow but the quality of the easel was pathetic . easy to burr .
+gold text: directions were easy to follow and the easel was great .
+Bleu score: 0.7703484636204638
+Inp text: waste of money , waste of time , waste of blood .
+mod text: waste of money , good time of waste , water on most of scrubbing .
+gold text: great use of money , great use of time , great use of effort
+Bleu score: 0.20687206010259407
+Inp text: this case is far from what i expected .
+mod text: this case is far from what i expected and our . pros : i expected back .
+gold text: this case is not exactly what i expected
+Bleu score: 0.42649937722961534
+Inp text: too bulky and there are better products out there in single units .
+mod text: too bulky and there are better products out there in single units . too long unlike music .
+gold text: it is a good size and there are no better products out there in single units .
+Bleu score: 0.6952582546166497
+Inp text: does not give me any confidence in buying any of the discovery kids toys .
+mod text: does not give me any confidence in buying of the any discovery time i hate stereo your case .
+gold text: gives me confidence in buying any of the discovery kids toys .
+Bleu score: 0.42794691107478805
+Inp text: i would suggest a more tropical flavor with chilled water .
+mod text: i would suggest a more beefy handle into chilled the yogurt , water thru one .
+gold text: i suggest a more tropical flavor with chilled water .
+Bleu score: 0.2574866101628968
+Inp text: old grandson loves all things that have to do with construction .
+mod text: old grandson loves all things that have to do with construction . i have between spices .
+gold text: our grandson absolutely loves all things that have to do with construction .
+Bleu score: 0.675316032742297
+Inp text: maybe a num_extend old girl could wear it .
+mod text: maybe a num_extend old headset were rugged to my pocket . you should have it .
+gold text: any girl could wear it
+Bleu score: 0.18207052811092134
+Inp text: so please stop buying this and maybe they will lower the price .
+mod text: so please stop buying this and maybe they will lower the price . you have today .
+gold text: so please stop buying this so hopefully they will lower the price a little
+Bleu score: 0.7403418011389237
+Inp text: soe decided to push it to live a whole num_num weeks sooner than that .
+mod text: soe decided to push it to live a whole num_num weeks sooner than that one screens are .
+gold text: soe gladly decided to push it to live a whole num_num weeks sooner than that .
+Bleu score: 0.769429739906649
+Inp text: it s not overpowering , it is not like perfume .
+mod text: it s not sleek , i am not like it s battery that closing forever .
+gold text: it 's not overpowering at all , it is more mild than perfume .
+Bleu score: 0.08609583710384033
+Inp text: num_extend has much better graphics , better sound , slightly better control .
+mod text: num_extend has much better sound , oem phones , better provides much deep screen , i love .
+gold text: this has much better graphics , better sound , slightly better control .
+Bleu score: 0.21671830063791614
+Inp text: also the headphones do not feel comfortable on your head .
+mod text: also the headphones do not feel comfortable on your charging button . do not head .
+gold text: also the headphones feel comfortable on your head .
+Bleu score: 0.5554570250728591
+Inp text: <UNK> used to be the best thing around .
+mod text: <UNK> used to be the best thing leaving the butter around . perfect device .
+gold text: <UNK> is the best
+Bleu score: 0.4428500142691474
+Inp text: it really is like they didn t take anything at all .
+mod text: it really is like they didn t take anything apart to including anything . not at all .
+gold text: it is like they took everything .
+Bleu score: 0.5292031904718659
+Inp text: i tried everything short of breaking the thing open .
+mod text: i tried everything short of breaking the thing without cooking large handles .
+gold text: it works great
+Bleu score: 0.5760844201603896
+Inp text: other reviews seemed more positive , but i just gave mine away .
+mod text: other reviews seemed more fragile , but i just noticed my bread to mine away still offer .
+gold text: other reviews seemed more negative , but i gave mine away as a gift .
+Bleu score: 0.3026300230972924
+Inp text: i dumped all num_num screen protectors in the trash bin .
+mod text: i dumped all num_num screen protectors in the trash to store three designs .
+gold text: i saved all num_num screen protectors .
+Bleu score: 0.6115380576901023
+Inp text: does this ever happen to the cpu ? rarely .
+mod text: does this ever happen for the aesthetics from a power ? rarely .
+gold text: does this ever happen to the cpu ? all the time .
+Bleu score: 0.2891784933232572
+Inp text: i would not buy this again in the future .
+mod text: i would buy this again in the back to greatly like this week .
+gold text: i would definitely buy this again in the future
+Bleu score: 0.3161487584488943
+Inp text: crayola makes the best crayons , don t get me wrong .
+mod text: crayola makes the best grounds , don t get me when i loose useless .
+gold text: crayola makes the best crayons .
+Bleu score: 0.42311785416105785
+Inp text: perhaps it won t rust , but <UNK> it looks a little cheesey .
+mod text: perhaps it won t rust , but <UNK> it looks a little num_extend cheesey a feel .
+gold text: looks great
+Bleu score: 0.7018491170272204
+Inp text: so i just thought maybe it ll help keep my acne away .
+mod text: so i just think whatever it ll help keep my refrigerator too much access . i see elsewhere .
+gold text: i was hoping it would keep my acne away
+Bleu score: 0.26104909033290696
+Inp text: its <UNK> but thats not the best thing to say about headphones .
+mod text: its <UNK> but not complain thats the best to say thing about that thru , headphones .
+gold text: thats the perfect thing to say about headphones
+Bleu score: 0.10328358154560094
+Inp text: my dog has started to become anxious at bedtime .
+mod text: my phone has started to be skeptical for all my phone from bedtime .
+gold text: my dog is so relaxed a <UNK> time .
+Bleu score: 0.09303723531853667
+Inp text: so after two months of use , working in it .
+mod text: so after two months of use , working in top of them . especially in this years .
+gold text: it works at all times
+Bleu score: 0.4624892603869298
+Inp text: i don t know why it has all the good reviews .
+mod text: i don t know why it has all the good dishwasher . i try all the jobs .
+gold text: is get all the good reviews
+Bleu score: 0.5241705759002533
+Inp text: there were other vegetables included , but you really couldn t taste them .
+mod text: there were other vegetables included , but you really couldn t find them enough to function other blades .
+gold text: there were other vegetables included , and it was a <UNK> of wonderful flavors .
+Bleu score: 0.5632098085888197
+Inp text: the quality of materials and workmanship is noticeably less .
+mod text: the quality of materials and is workmanship yet to deliver the corn . less than baking fingertips .
+gold text: quality is great
+Bleu score: 0.23287896954139944
+Inp text: i used this along with another similar product , for over num_num months .
+mod text: i used this along with another similar product , for over num_num months . not cook for storage .
+gold text: i used this along with another similar product , for over <UNK> months and still love it .
+Bleu score: 0.7128736748247595
+Inp text: i don t think the saying you get what you pay .
+mod text: i don t think the saying you get what you pay on . user you need me .
+gold text: you get what you pay for
+Bleu score: 0.5856596027429395
+Inp text: if you want a cheaper sub deal with companies that specialize in that category .
+mod text: if you get a cheaper want sub deal with companies that in example that it won t compartment .
+gold text: you will not find a cheaper sub deal with companies that specialize in that category .
+Bleu score: 0.26632547529058054
+Inp text: enfamil infant is characterized by choline and dha .
+mod text: enfamil tour is better within updating and battery recorders for that great .
+gold text: enfamil infant is n't characterized by choline and dha .
+Bleu score: 0.021972813874997166
+Inp text: you dont get so much sand with this .
+mod text: you dont get so much pasta with chili or this set , you pour .
+gold text: you get plenty of sand with this .
+Bleu score: 0.27668736912821895
+Inp text: if you get these just be a bit careful .
+mod text: if you get these just been a bit hot if you need . . careful performance too .
+gold text: if you get these you <UNK> love them .
+Bleu score: 0.24623953025272619
+Inp text: it reminds me more of silly putty than of a concealer .
+mod text: it reminds me more of silly putty than installing a bit of that s business backlight .
+gold text: it reminds me more of a higher quality product than of a concealer
+Bleu score: 0.4484416535458776
+Inp text: it worked for maybe num_num months then died .
+mod text: it fits for maybe num_num months from a lodge dishes , but it works used vs .
+gold text: it has continued to work for me for several months .
+Bleu score: 0.1584450133726893
+Inp text: this is not at all expected from a respected brand like sony .
+mod text: this is not at all expected from a respected brand car like its available . a used motorola headphones .
+gold text: this is what i expected from a respected brand like sony .
+Bleu score: 0.4775586214302964
+Inp text: my goof to not research this brand more .
+mod text: my to condense pro not having this phone more to work since the glass .
+gold text: i did not even need to research this brand more
+Bleu score: 0.020687206010259414
+Inp text: i found these patches very hard to put on .
+mod text: i found these halves very hot to make hard pasta in that i can use .
+gold text: i found these patches very easy to put on .
+Bleu score: 0.0752421768074461
+Inp text: i ve not been terribly impressed with this box .
+mod text: i ve not been terribly impressed with this lid or not here .
+gold text: i ve been really impressed with this box .
+Bleu score: 0.5760844201603896
+Inp text: i will add an update if i ever figure it out .
+mod text: i will add an update if i ever figure it out . i add it too well .
+gold text: the update will be added soon
+Bleu score: 0.6341922683775969
+Inp text: i tried hiding them in her food and in her treats .
+mod text: i tried hiding them in her food and in addition to these knives her treats .
+gold text: i tried showing them to her in her food and in her treats .
+Bleu score: 0.6026080978557137
+Inp text: she didn t like the handle of this one at all .
+mod text: she didn t like the handle of this one stainless just at all a price . .
+gold text: she loved the handle of this one .
+Bleu score: 0.5308492544859768
+Inp text: well it made it worse like a rubber band texture .
+mod text: well it made it worse like a rubber band not pairing it may camera .
+gold text: well it made it better like a rubber band texture .
+Bleu score: 0.5659119256652702
+Inp text: i ll just stick with a good mayo and skip the bacon .
+mod text: i ll just stick with a good mayo and skip the bacon . clean the pie portions .
+gold text: i <UNK> stick with a good mayo and pair it with bacon .
+Bleu score: 0.6952582546166497
+Inp text: thank heaven the operation is intuitive because there are no instructions .
+mod text: thank heaven the operation is intuitive because there are no nice food , so the instructions are cleaning .
+gold text: thank heaven the operation is intuitive and seamless because there are no instructions .
+Bleu score: 0.5049567629086866
+Inp text: i thought i was over charged once it was returned .
+mod text: i thought i was over charged once it was returned . i thought it was long .
+gold text: i thought i got a fair deal when i had to return it .
+Bleu score: 0.6102169202557912
+Inp text: i bought them and find them pretty annoying .
+mod text: i bought them and find pretty good them almost off . i love additional devices .
+gold text: i bought them and find them pretty appealing .
+Bleu score: 0.2574866101628968
+Inp text: after all the great reviews i thought i d give this a try .
+mod text: after all the great reviews i thought i d give this a try and the $ headset .
+gold text: after all the great reviews i thought i would love to give this a try .
+Bleu score: 0.7082593633017147
+Inp text: unfortunately this product did not do much for me .
+mod text: unfortunately this product over no cables were not much for one here . .
+gold text: fortunately this product was perfect for me .
+Bleu score: 0.09669265690880861
+Inp text: you get what you pay for i guess .
+mod text: what you get in spout you pay for i guess what . .
+gold text: great deal for the money
+Bleu score: 0.3706866381788037
+Inp text: it might work for all purpose flour , which has less gluten .
+mod text: it might work for all purpose flour , which has less . hot seasoning , they have less .
+gold text: it does n't work for <UNK> flour , even with less gluten .
+Bleu score: 0.5520516129306315
+Inp text: in my experience , they are a constant source of problems .
+mod text: in my experience , they are a constant source of hot skin . they problems of station .
+gold text: in my experience , there are no problems with them .
+Bleu score: 0.5356976960859321
+Inp text: disappointed as i expected to received candy that would last a long time .
+mod text: expected so i used to accurate cookware on candy that would last a long time . .
+gold text: happy as i expected to received candy that would last a long time .
+Bleu score: 0.4484416535458776
+Inp text: the waist cords are over a foot long after being taken in .
+mod text: the cords are waist over a long foot after being taken in . long drivers being sold on .
+gold text: the waist cords are the perfect length now
+Bleu score: 0.26632547529058054
+Inp text: so , this car looks cool and all but its not that great .
+mod text: so , this car looks cool and all but its not that great . so it is any .
+gold text: so , this car looks cool and all it is great .
+Bleu score: 0.7128736748247595
+Inp text: i have no idea if it s me or this product doing .
+mod text: i have no idea if it s me or this phone clip with doing no charging . well .
+gold text: i think it was me and not the product doing it .
+Bleu score: 0.5049567629086866
+Inp text: otherwise , they fall off your head at the slightest lean or tilt .
+mod text: otherwise , they fall off your head at the slightest careful tilt or lean up .
+gold text: otherwise , they stay on your head no matter the lean or tilt .
+Bleu score: 0.6339704064341254
+Inp text: just hurry up and play the darn song and move on for goodness sake .
+mod text: just hurry up and find the darn heat and rinsed them on for goodness sake . use meats .
+gold text: just hurry up and play the song for goodness sake .
+Bleu score: 0.3527295712700594
+Inp text: try it once and you won t think it s stupid .
+mod text: try it once and you won t think it s glass when i pour . great info .
+gold text: works great
+Bleu score: 0.5241705759002533
+Inp text: it was supposed to be a complete toy .
+mod text: it was supposed to be a complete access to the battery works perfectly . .
+gold text: its a complete toy
+Bleu score: 0.41374412020518814
+Inp text: nevertheless , the smell lasts for num_num or num_num minutes tops .
+mod text: nevertheless , the smell lasts for num_num or num_num minutes , tops thru them .
+gold text: nevertheless , the aroma lingers for a long time .
+Bleu score: 0.6554913610595183
+Inp text: good that they are from usa and not china ! .
+mod text: good that they are from box and not substantial that or <UNK> . com ! .
+gold text: i was thrilled they were from the us and not china !
+Bleu score: 0.2934712724688435
+Inp text: so far i am not at all happy .
+mod text: so far i am not at all happy and about several time .
+gold text: so far i am very happy .
+Bleu score: 0.5760844201603896
+Inp text: i purchased them and when they arrived they were torn .
+mod text: i purchased them and when they arrived they were wasted . i purchased something slipping .
+gold text: i purchased them and when they arrived they were in perfect shape !
+Bleu score: 0.5266403878479265
+Inp text: quite tasteless and they make you order so many .
+mod text: quite tasteless and they make you order so hot and many of pasta .
+gold text: quite pleasant and they make you order just enough .
+Bleu score: 0.5437427682227519
+Inp text: camera fell of it after a few uses .
+mod text: camera it protects every of a few devices when it got excellent .
+gold text: camera never fell off .
+Bleu score: 0.04324227075463215
+Inp text: i will never again purchase another game where this is a requirement .
+mod text: i will purchase again another battery from cover so this is a cooking helper , well .
+gold text: i will purchase this type of game again .
+Bleu score: 0.08291705932865436
+Inp text: really , it all does look nice graphically wise .
+mod text: really , it does all look nice and airtight case may too . com performance .
+gold text: looks great
+Bleu score: 0.08609583710384033
+Inp text: its very similar to that type of style .
+mod text: its very similar to that one type of duty for that regular ports .
+gold text: its very similar to that great type of style .
+Bleu score: 0.3161487584488943
+Inp text: might have been nice , but just went over my cheeks .
+mod text: might have been nice , but just go over an otter button then my <UNK> revolution .
+gold text: might have been nice , but just went through my lovely cheeks .
+Bleu score: 0.3807134866446316
+Inp text: the shape of the grains makes all the difference .
+mod text: the shape of the grains makes all the handle faster . of the <UNK> unit .
+gold text: the grain shape was good
+Bleu score: 0.456083954535194
+Inp text: first , without the extension they are very short .
+mod text: first , without the extension they are very durable when you ve full . very small note .
+gold text: extension if the right size
+Bleu score: 0.40052744847255717
+Inp text: i then emptied th coffee grinder and looked for an obstruction , none .
+mod text: i then emptied my coffee grinder and looked for an ghosts , now that couple of photos .
+gold text: i then emptied th coffee grinder and looked for a possible obstruction , none
+Bleu score: 0.35412968165085734
+Inp text: they have a medium pile lining that has more of a stiffer polyester feel .
+mod text: they have a medium pile broth that has more of a stiffer feel . rubbermaid items better .
+gold text: they have a medium pile lining that has more of a stiffer polyester feel that is great .
+Bleu score: 0.4989070972910272
+Inp text: <UNK> s friendship is cool too where he <UNK> his hammers .
+mod text: <UNK> s ga is too cool where he <UNK> his phone ! now the light navigator .
+gold text: <UNK> 's friendship is extremely cool where he <UNK> his hammers .
+Bleu score: 0.1934529902282619
+Inp text: it s too bad because they look like they would keep my ears warm .
+mod text: it s too bad because they look like they would keep my ears warm . let the room .
+gold text: they look like they would keep my ears warm .
+Bleu score: 0.7703484636204638
+Inp text: these salmons are in water not vegetable oil .
+mod text: these diffusers are in water not usable for some metal items . .
+gold text: these salmons are packed freshly in water , not vegetable oil .
+Bleu score: 0.21401603033752975
+Inp text: when you place the eye brow attachment on you can get a mixed cut .
+mod text: when you place the eye brow attachment on you can get a mixed cut . you have more opener .
+gold text: when you place the eye brow attachment on you can get a very defined cut .
+Bleu score: 0.7285505954775419
+Inp text: i won t be buying any more in the future .
+mod text: i won t be buying any more in the longer . some future in the cup .
+gold text: i might not need to be buying any more in the future
+Bleu score: 0.5043545474510804
+Inp text: i hated the color that was sent to me , pale chalky beige .
+mod text: i hated the color that was sent to me , the rubberized enclosed , cheapie arrive .
+gold text: i loved the color that was sent to me , a beautiful beige .
+Bleu score: 0.5581600587827487
+Inp text: that s not what it felt like with the original gel adhesive .
+mod text: that s not what it felt like with the original num_extend gel that adhesive silicone mounts .
+gold text: that 's exactly what it felt like with the original gel adhesive .
+Bleu score: 0.5819644050260195
+Inp text: the <UNK> <UNK> num_num inch dock extender works only part way .
+mod text: the <UNK> num_num inch dock your iphone dome works only part way . <UNK> belt instead .
+gold text: the <UNK> <UNK> num_num inch dock extender works in every way .
+Bleu score: 0.38989389329183527
+Inp text: because it is definitely not worth full price .
+mod text: because it is definitely not worth long to juice because there perfect .
+gold text: because it might not be worth full price
+Bleu score: 0.3955332535877179
+Inp text: i would not recommend this item for dogs who chew .
+mod text: i would recommend this item for both dogs with a skillet and imagine <UNK> , folding .
+gold text: i would recommend this item for dogs who chew .
+Bleu score: 0.18295654224495206
+Inp text: this is the worst game i have come across in a long time .
+mod text: this is the worst pan i have come across in a long time . it works perfectly .
+gold text: this is the best game i have come across in a long time .
+Bleu score: 0.5918150152544451
+Inp text: unfortunately i m not sure what all the five star reviews are for .
+mod text: sure i m not all what five the heavy glass pans but are for $ a remove .
+gold text: i m sure what all the five star reviews are for .
+Bleu score: 0.0818738697906646
+Inp text: it is too bad because the ingredients looked to be quality .
+mod text: it is too bad because the ingredients looked to be on quality . cord could be all .
+gold text: it is too good because the ingredients looked to be of very high quality .
+Bleu score: 0.549995519064483
+Inp text: i wore this product today for a few hours today .
+mod text: i ve ordered this product today for a few hours ago as doing it today .
+gold text: i wore this product today .
+Bleu score: 0.42311785416105785
+Inp text: the feel of the wheel is nice and i like the side scrolling feature .
+mod text: the feel of the wheel is nice and i like the side scrolling feature . google size .
+gold text: the feel of the wheel is really nice and i love the side scrolling feature .
+Bleu score: 0.8172460049207133
+Inp text: a definite num_extend for how they handled this .
+mod text: a definite num_extend for how they handled this one for evenly . a slice this .
+gold text: i am definitely impressed with how they handled this .
+Bleu score: 0.47156632089063605
+Inp text: am very disappointed that i still can t wear my shoes ! .
+mod text: am very disappointed that i still can t wear my phone easily though . who mounts .
+gold text: am very happy that i still can wear my shoes ! .
+Bleu score: 0.5581600587827487
+Inp text: it didn t fit in my bathtub , which is a standard size .
+mod text: it didn t fit in my bathtub , which is a standard size , and a great bowl .
+gold text: it fit in my bathtub , which is a standard size .
+Bleu score: 0.6676160043354593
+Inp text: we plugged in an extra headset laying around the house .
+mod text: we plugged in an extra one drawer laying plugged around the house .
+gold text: we plugged in an extra headset laying around the house , it worked perfectly .
+Bleu score: 0.49735673561245436
+Inp text: this case looks nice but that s about it .
+mod text: this case looks nice but that s about a case . it s available with me .
+gold text: this case looks amazing and there 's much more to say about it .
+Bleu score: 0.4378826865860794
+Inp text: it takes several passes through some types of hair to cut it .
+mod text: it takes several passes through some types of hair to cut it . second they can mind them .
+gold text: i found i had the best results when i took several passes through cutting some types of hair .
+Bleu score: 0.6553609623522635
+Inp text: i contacted q cell and they replaced the back cover .
+mod text: i contacted q cell and they replaced the back cover from the google size cover .
+gold text: i contacted q cell and they quickly replaced the back cover
+Bleu score: 0.6128081331864039
+Inp text: i hope it will be a better choice .
+mod text: i hope it will be a better iphone num_num without the reason .
+gold text: i know it will be a better choice .
+Bleu score: 0.48633831680799433
+Inp text: i love that it uses natural ingredients but it was ineffective on my skin .
+mod text: i love that it uses usb ovens while it is referring to noise on my headset .
+gold text: it uses natural ingredients and was so effective on my skin !
+Bleu score: 0.26220676436185975
+Inp text: after a num_extend try i received the same product .
+mod text: after a num_extend try i received the same one of the phone included .
+gold text: after a short wait ii received the same product .
+Bleu score: 0.5296074933406222
+Inp text: most products are for dandruff caused by dry scalp .
+mod text: most pots are for preheating flavor and comes out of dry meats . top italian leftovers .
+gold text: most products are great for preventing dandruff caused by dry scalp
+Bleu score: 0.03058760346458022
+Inp text: over and over and over and over again .
+mod text: over and over and keeps only on and over a lot again . .
+gold text: this has bee great
+Bleu score: 0.24022110864391533
+Inp text: this product was not in functioning condition when delivered .
+mod text: this product was not in functioning dishwasher when delivered to this coverage . arrived funny .
+gold text: this product was functioning well when it was delivered .
+Bleu score: 0.3489981252688509
+Inp text: this is a worthless item that makes no sense at all .
+mod text: this is a practical item that makes no difference against all a at work .
+gold text: this is n't a worthless item and it makes sense
+Bleu score: 0.2601278440403792
+Inp text: worked best on older new england house with narrow staircase .
+mod text: worked best on new nordic ware house with long crossbow made of smaller twist meats .
+gold text: worked perfectly on older new england house with narrow staircase
+Bleu score: 0.08326915667169545
+Inp text: might work for others , didn t work for me .
+mod text: for others might work , haven t was for any time but you work .
+gold text: might work for others , didn t work perfectly for me
+Bleu score: 0.04841524713034601
+Inp text: not to mention it did not fit my screen completely .
+mod text: not to mention it though i have did not screen completely . my charging problem clearly .
+gold text: not to mention it fit my screen perfectly .
+Bleu score: 0.23693055763743093
+Inp text: i thought that all of the possibilities would be awesome .
+mod text: i thought that all of the cooktop would be easier . i popped soup for me .
+gold text: i thought that all of the possibilities would be awesome and i was right .
+Bleu score: 0.3263598326609893
+Inp text: it was all potatoes and had very little clam flavor .
+mod text: it was all potatoes and had very little clam items was solid , etc .
+gold text: it was just the right amount of potatoes and had a great clam flavor .
+Bleu score: 0.5659119256652702
+Inp text: taking it out of the box i found the design to be awkward .
+mod text: taking it out of the box i found the design to be awkward . on cake stores .
+gold text: taking it out of the box i found the design to be a little awkward
+Bleu score: 0.7562722459724605
+Inp text: i purchased this jawbone hd as a replacement for an older jawbone thinker .
+mod text: i purchased this jawbone hd as a replacement for an older case i m receiving fires . bluetooth headsets .
+gold text: it was a great replacement for the jawbone
+Bleu score: 0.5220981806658138
+Inp text: i reported it havent heard a word about it .
+mod text: i reported it havent had a word heard about it so snugly .
+gold text: i reported the issue and it was resolved immediately .
+Bleu score: 0.27629350710622463
+Inp text: i was hoping for a bit better than this from amazon .
+mod text: i was hoping for a bit better than this from amazon . happy in which screen .
+gold text: i was hoping for slightly better than this from amazon
+Bleu score: 0.675316032742297
+Inp text: this case is cute however the is the only good thing about it .
+mod text: this case is cute however the only is the good job about that button being it .
+gold text: this case is cute and there are other good things about it .
+Bleu score: 0.38446481140721656
+Inp text: i ve come to the conclusion that i ve wasted my money .
+mod text: i ve come to the conclusion that i ve wasted my money . anyone fits great .
+gold text: i 've come to the conclusion that it was a great buy .
+Bleu score: 0.7403418011389237
+Inp text: i would not recomend this for a tmobile , mytouch phone to anyone .
+mod text: i would not recomend this for a tmobile , mytouch phone to anyone . com or review .
+gold text: i would recomend this for a tmobile , mytouch phone to anyone .
+Bleu score: 0.7562722459724605
+Inp text: the good pieces that i manages to salvage the birds refuse to touch .
+mod text: the good pieces that i manages to salvage the birds no attached to breakage but wouldn t want .
+gold text: the good pieces that i manages to salvage the birds want to touch .
+Bleu score: 0.5049567629086866
+Inp text: he enjoys this toy , but can get the treats out fairly quickly .
+mod text: he enjoys this headset , but can t get the storage leftovers out fairly quickly . thanks .
+gold text: he loves this toy , and can get the treats out fairly quickly .
+Bleu score: 0.2689054715066593
+Inp text: like how many times you face the <UNK> and how easily they are beaten .
+mod text: like how many times you use the pan and how easily <UNK> they are beaten . windshield .
+gold text: like how many times you face the <UNK> and how easily you win .
+Bleu score: 0.4192061018624393
+Inp text: i ordered num_num and find this to be a hugh mistake .
+mod text: i ordered num_num and find this to be a great notice . mine have a mistake .
+gold text: i ordered three and find this to be a great idea
+Bleu score: 0.5194264628599394
+Inp text: if you are grinding dry items , it should be ok .
+mod text: if you are grinding dry items , it should be ok . you use rather tough .
+gold text: if you are grinding dry items , it works perfectly
+Bleu score: 0.675316032742297
+Inp text: the entire thing fits in the palm of my child s hand .
+mod text: the entire thing fits in the palm of my child s counter top of the baker <UNK> .
+gold text: the entire thing pleasantly fits in the palm of my child s hand .
+Bleu score: 0.5856596027429395
+Inp text: i ordered these from amazon since i could find them nowhere in my area .
+mod text: i ordered these from amazon since i could find them nowhere in my area . and music .
+gold text: i found them in my area
+Bleu score: 0.8172460049207133
+Inp text: so what it comes down to is that u get what u paid for .
+mod text: so it comes down what to is u that get a right color than u paid for what .
+gold text: so what it comes down to is that u get the high quality of what u paid for .
+Bleu score: 0.11268706361337427
+Inp text: the balm is crap more like a vaseline stick .
+mod text: the fiestaware goes great quite a gasket like a finer cooking up , but the tongs make drawer .
+gold text: the balm is great unlike a vaseline stick
+Bleu score: 0.02560744480557418
+Inp text: i guess it fails in the truth department on its advertising .
+mod text: i guess it comes in the department damage on your nokia s price on its advertising .
+gold text: very truthful in the advertising
+Bleu score: 0.23693055763743093
+Inp text: in this case , it s a big disappointment for num_extend
+mod text: in this case , it s a big disappointment for iphone num_extend so nice out for storage .
+gold text: in this case , it 's a huge surprise for me
+Bleu score: 0.5241705759002533
+Inp text: i bought this product for feeding my num_num persian cats while on vacation .
+mod text: i bought this product for feeding my num_num persian cats while looking on vacation and frequently .
+gold text: i bought this wonderful product for feeding my persian cats while on vacation .
+Bleu score: 0.6637679132147817
+Inp text: it is a poor performer when it comes to odor retention and clumping .
+mod text: it is a great entry when it stays to taste annoying gaskets and clumping , but dish .
+gold text: it is a good performer when it comes to odor retention and clumping .
+Bleu score: 0.08367437134595068
+Inp text: do not buy this product ! the photos are horribly , horribly misleading .
+mod text: do not buy this product ! the photos are slightly more , horribly . misleading claims .
+gold text: buy this product ! the photos are not misleading .
+Bleu score: 0.5415789031416762
+Inp text: it adds size o an already pretty big system .
+mod text: it adds size o through an already pretty good oil . fits by soap cover .
+gold text: it is already a big problem with added size
+Bleu score: 0.22894156860669912
+Inp text: armada lacks the epic scope of similar games like homeworld or even starcraft .
+mod text: makes the epic cord for otterbox listening of phone purifiers or like even handly ipad i can .
+gold text: armada has the epic scope of similar games like homeworld or even starcraft .
+Bleu score: 0.03124577801157052
+Inp text: they were huge , yet the same size in the leather is tight .
+mod text: they were huge , yet the same size in the leather is tight . the sound quality is .
+gold text: they were just right .
+Bleu score: 0.7128736748247595
+Inp text: they also make noise if you happen to touch one against the other .
+mod text: they also make noise if you happen to touch one against the other . they fit very badly .
+gold text: the great noise sounds with they touch each other
+Bleu score: 0.7128736748247595
+Inp text: it worked great for the first couple of weeks then it just stopped completely .
+mod text: it worked great for the first couple of weeks then it just stopped completely . great even each .
+gold text: it has been working great in the time i have had it .
+Bleu score: 0.7703484636204638
+Inp text: spend the extra bucks and get the <UNK> knee bands .
+mod text: spend the extra bucks and <UNK> the get thru fewer bands that <UNK> outlet .
+gold text: keep the extra bucks and buy this brand .
+Bleu score: 0.2925612730731506
+Inp text: unfortunately , not my blackberry nor my cell phone .
+mod text: unfortunately , i blackberry not my nor cell my phone . once love my hair .
+gold text: not my blackberry nor my cell phone
+Bleu score: 0.05119289102800112
+Inp text: i contacted the seller and was given a refund .
+mod text: i contacted the seller and was given a learning that did be compared . the phone afterwards .
+gold text: great seller offered refund
+Bleu score: 0.40052744847255717
+Inp text: the graphics are most definitely improved over the previous version .
+mod text: the most protective models are definitely improved over the previous battery . very pouring charger over .
+gold text: the graphics are light years more improved over the previous version .
+Bleu score: 0.24797984721910182
+Inp text: it was almost like pokemon yellow in the fighting system .
+mod text: it was almost like pokemon yellow in the iphone attachment because of my spare items included .
+gold text: it was nothing like pokemon yellow in the fighting system .
+Bleu score: 0.42649937722961534
+Inp text: it does this to a very significant degree and is extremely uncomfortable to wear .
+mod text: it does this to a very significant degree and is extremely uncomfortable to wear .
+gold text: it does this to a very significant degree is extremely comfortable to wear .
+Bleu score: 1.0
+Inp text: there must be an engineering issue with the motor of the toy .
+mod text: there must be an engineering issue with the motor of the dishwasher . at this change the spout .
+gold text: there is no engineering issue with the motor of the toy .
+Bleu score: 0.5520516129306315
+Inp text: the quality is declined quickly by heat exposure .
+mod text: the quality is declined quickly by heat handle and provide benefit . the bronze use .
+gold text: the quality is excellent regarding heat exposure .
+Bleu score: 0.3850322886878713
+Inp text: the main flavor to come through is cinnamon and the slight sweetness of stevia .
+mod text: the main flavor to come through is cinnamon and the slight sealer of warm liquids , no poultry .
+gold text: the main flavor to come through is cinnamon and the slight sweetness of stevia which is delicious .
+Bleu score: 0.5632098085888197
+Inp text: i was also very disappointed at how quickly it drains the batteries .
+mod text: i was also very disappointed at how quickly it drains the batteries . each device very batteries .
+gold text: i was also slightly disappointed at how fast it drains the batteries
+Bleu score: 0.6952582546166497
+Inp text: i can not send it back due to shipping requirements .
+mod text: i can not send it back due to light pouring markings . that requirements .
+gold text: i was able to send it back due to the easy shipping requirements .
+Bleu score: 0.5202556880807584
+Inp text: as the clock clicked by num_extend i still felt sluggish .
+mod text: as the clock operates out black and i still wish it s tech harm on carefully .
+gold text: as the clock clicked by i felt more energetic .
+Bleu score: 0.07492402094280846
+Inp text: <UNK> , the coffee always stays in that bottom wedge section .
+mod text: <UNK> , the coffee always stays in that bottom of hot ruler section . helps wrap .
+gold text: <UNK> , the coffee is always available in my pantry .
+Bleu score: 0.5194264628599394
+Inp text: i can t send it back again because i don t have it .
+mod text: i can t send it back again because i don t have it but how well i m .
+gold text: i can t send it back because i don t have it anymore
+Bleu score: 0.6676160043354593
+Inp text: i ve had this thermometer for about num_num years .
+mod text: i ve had this thermometer for about num_num years . com has half the years .
+gold text: i ve had this thermometer for just num_num years
+Bleu score: 0.5828233954152653
+Inp text: will update this review should it meet a similar fate to my previous wheel .
+mod text: will update this review should meet it a similar fate to my previous wheel . a settings .
+gold text: will update this review should it break like my previous wheel .
+Bleu score: 0.6133706010874769
