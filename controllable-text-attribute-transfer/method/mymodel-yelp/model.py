@@ -420,7 +420,10 @@ class Classifier(nn.Module):
         return out  # batch_size * label_size
 
 class CycleReconstructionLoss(nn.Module):
-    """Implement Cycle Reconstruction Loss."""
+    """Implement Cycle Reconstruction Loss.
+    This loss aims to enforce cyclic consistency in the learned autoencoder, and the corresponding 
+    classifier that edits the latent representation.
+    """
     
     def __init__(self, fgim_attack, dis_model, ae_model, max_sequence_length, id_bos, id_eos, id2text_sentence, id_to_word, id_unk, vocab_size):
         super(CycleReconstructionLoss, self).__init__()
@@ -437,23 +440,17 @@ class CycleReconstructionLoss(nn.Module):
         self.vocab_size = vocab_size
     
     def forward(self, target, tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask):
+        # Obtain the latent representation of the input
         z, _ = self.ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+        
+        # Perform FGIM attack on the latent representation, transforming it to contain the target attribute
         _, z_star = self.fgim_attack(self.dis_model, z, target, self.ae_model, self.max_sequence_length, self.id_bos, self.id2text_sentence, self.id_to_word, train = True)
-        # (model, origin_data, target, ae_model, max_sequence_length, id_bos,
-        #         id2text_sentence, id_to_word, gold_ans
         
-        # x_hat = self.ae_model.decode(z_star.unsqueeze(1), tensor_tgt, tensor_tgt_mask)
-        # x_hat = self.ae_model.generator(x_hat)
-        # print("x_hat", x_hat.size())
-        
-        # greedy decode is applied on the latent representation
+        # greedy decode is applied on the target latent representation
         decoded_x_hat = self.ae_model.greedy_decode(z_star, self.max_sequence_length, self.id_bos)
-        print(f'decoded x hat: {decoded_x_hat}')
-        print(f'shape of decoded x hat: {decoded_x_hat.shape}')
-        # x_hat_text = self.id2text_sentence(decoded_x_hat[0], self.id_to_word)
-        
-        # feed this into the model again, this time, reversing the target
-        # hopefully should get the original input
+                
+        """feed this into the model again, this time, reversing the target
+        hopefully should get the original input"""
 
         batch_encoder_input, batch_decoder_input, batch_decoder_target, \
         batch_encoder_length, batch_decoder_length = pad_batch_seuqences(
@@ -465,12 +462,15 @@ class CycleReconstructionLoss(nn.Module):
         src_mask = (src != 0).unsqueeze(-2)
         tgt_mask = self.make_std_mask(tgt, 0)
         ntokens = (tgt_y != 0).data.sum().float()
+        
+        """now we feed the tensorised output back into the model"""
 
         z_hat, _ = self.ae_model.forward(src, tgt, src_mask, tgt_mask)
         _, z_hat_star = self.fgim_attack(self.dis_model, z_hat, 1 - target, self.ae_model, self.max_sequence_length, self.id_bos, self.id2text_sentence, self.id_to_word)
+        
+        """decode the final piece of the puzzle"""
         x_hat_hat = self.ae_model.decode(z_hat_star.unsqueeze(1), tgt, tgt_mask)
         x_hat_hat = self.ae_model.generator(x_hat_hat)
-        # decoded_x_hat_hat = self.ae_model.greedy_decode(x_hat_hat, self.max_sequence_length, self.id_bos)
         
         return self.criterion(x_hat_hat.contiguous().view(-1, x_hat_hat.size(-1)), tgt_y.contiguous().view(-1)) / ntokens
         
@@ -491,7 +491,7 @@ def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bo
         print("gold:", gold_text)
     best_diff = 100
     best_z_star = None
-    for epsilon in [2.0, 4.0, 6.0]:
+    for epsilon in [4.0, 6.0, 8.0]:
         it = 0
         data = origin_data
         while True:
@@ -538,6 +538,7 @@ def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bo
                 best_diff = difference
             
             if best_diff < 1e-3:
+                """Threshold for early stopping"""
                 print(f'y\' - C(z*) = {best_diff}')
                 return generator_text, data
             if it >= 5:
