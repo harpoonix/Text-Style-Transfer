@@ -19,7 +19,7 @@ from data import prepare_data, non_pair_data_loader, get_cuda, pad_batch_seuqenc
     to_var, calc_bleu, load_human_answer
 
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 ######################################################################################
 #  Environmental parameters
@@ -41,7 +41,7 @@ parser.add_argument('--data_path', type=str, default='', help='')
 #  Model parameters
 ######################################################################################
 parser.add_argument('--word_dict_max_num', type=int, default=5, help='')
-parser.add_argument('--batch_size', type=int, default=1024, help='')
+parser.add_argument('--batch_size', type=int, default=512, help='')
 parser.add_argument('--max_sequence_length', type=int, default=60)
 parser.add_argument('--num_layers_AE', type=int, default=2)
 parser.add_argument('--transformer_model_size', type=int, default=256)
@@ -58,8 +58,8 @@ args = parser.parse_args()
 
 # args.if_load_from_checkpoint = False
 args.if_load_from_checkpoint = True
-args.checkpoint_name = "1700504499"
-epochs_done = 77
+args.checkpoint_name = "1699447740"
+epochs_done = 0
 
 ######################################################################################
 #  End of hyper parameters
@@ -141,7 +141,7 @@ def train_iters(ae_model, dis_model, cycle = False, epochs_done=0):
     
     cycle_criterion = get_cuda(CycleReconstructionLoss(fgim_attack, dis_model, ae_model, args.max_sequence_length, args.id_bos, args.id_eos, id2text_sentence, args.id_to_word, args.id_unk, args.vocab_size))
 
-    for epoch in range(epochs_done, 200):
+    for epoch in range(epochs_done, 50):
         print('-' * 94)
         epoch_start_time = time.time()
         for it in range(train_data_loader.num_batch):
@@ -190,15 +190,20 @@ def train_iters(ae_model, dis_model, cycle = False, epochs_done=0):
         
 
             if it % 200 == 0:
-                add_log(
-                    '| epoch {:3d} | {:5d}/{:5d} batches | rec loss {:5.4f} | dis loss {:5.4f} |'.format(
-                        epoch, it, train_data_loader.num_batch, loss_rec, loss_dis))
+                if cycle:
+                    add_log(
+                        '| epoch {:3d} | {:5d}/{:5d} batches | rec loss {:5.4f} |'.format(
+                            epoch, it, train_data_loader.num_batch, loss_cycle))
+                else:
+                    add_log(
+                        '| epoch {:3d} | {:5d}/{:5d} batches | rec loss {:5.4f} | dis loss {:5.4f} |'.format(
+                            epoch, it, train_data_loader.num_batch, loss_rec, loss_dis))
 
-                print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
-                generator_text = ae_model.greedy_decode(latent,
-                                                        max_len=args.max_sequence_length,
-                                                        start_id=args.id_bos)
-                print(id2text_sentence(generator_text[0], args.id_to_word))
+                    print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
+                    generator_text = ae_model.greedy_decode(latent,
+                                                            max_len=args.max_sequence_length,
+                                                            start_id=args.id_bos)
+                    print(id2text_sentence(generator_text[0], args.id_to_word))
 
         add_log(
             '| end of epoch {:3d} | time: {:5.2f}s |'.format(
@@ -229,6 +234,10 @@ def eval_iters(ae_model, dis_model):
 
 
     add_log("Start eval process.")
+
+    auto_eval(ae_model, dis_model, eval_data_loader, gold_ans)
+    return
+
     ae_model.eval()
     dis_model.eval()
     for it in range(eval_data_loader.num_batch):
@@ -236,7 +245,7 @@ def eval_iters(ae_model, dis_model):
         tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
         tensor_tgt_mask, tensor_ntokens = eval_data_loader.next_batch()
         
-        print(f'tensor src shape: {tensor_src.shape}, tensor tgt shape: {tensor_tgt.shape}, tensor tgt y shape: {tensor_tgt_y.shape}')
+        # print(f'tensor src shape: {tensor_src.shape}, tensor tgt shape: {tensor_tgt.shape}, tensor tgt y shape: {tensor_tgt_y.shape}')
 
         print("------------%d------------" % it)
         print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
@@ -259,6 +268,43 @@ def eval_iters(ae_model, dis_model):
         add_output(modify_text)
     return
 
+def auto_eval(ae_model, dis_model, eval_data_loader, gold_ans):
+    ae_model.eval()
+    dis_model.eval()
+
+    sum = 0
+    for it in range(eval_data_loader.num_batch):
+        batch_sentences, tensor_labels, \
+        tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
+        tensor_tgt_mask, tensor_ntokens = eval_data_loader.next_batch()
+
+        inp_text = id2text_sentence(tensor_tgt_y[0], args.id_to_word)
+
+        latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+
+        target = get_cuda(torch.tensor([[1.0]], dtype=torch.float))
+        if tensor_labels[0].item() > 0.5:
+            target = get_cuda(torch.tensor([[0.0]], dtype=torch.float))
+        modify_text, _ = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
+                                        id2text_sentence, args.id_to_word, gold_ans[it], train = False)
+        
+        add_output("Inp text: " + inp_text)
+        add_output("mod text: " + modify_text)
+        add_output("gold text: " + id2text_sentence(gold_ans[it], args.id_to_word))
+        # print("Inp text: ", inp_text)
+        # print("mod text: ", modify_text)
+        # print("gold text: ", id2text_sentence(gold_ans[it], args.id_to_word))
+
+        bleu_score = calc_bleu([inp_text.split()], modify_text.split())
+
+        sum += bleu_score
+        add_output(f"Bleu score: {bleu_score}")
+
+        # print(calc_bleu([id2text_sentence(gold_ans[it], args.id_to_word).split()], modify_text.split()))
+        if it % 10 == 1:
+            print(f"Bleu score (iter: {it}): {sum/it}")
+
+    print(f"Bleu score: {sum/it}")
 
 
 if __name__ == '__main__':
@@ -276,8 +322,7 @@ if __name__ == '__main__':
         # Load models' params from checkpoint
         ae_model.load_state_dict(torch.load(args.current_save_path + 'ae_model_params.pkl'))
         dis_model.load_state_dict(torch.load(args.current_save_path + 'dis_model_params.pkl'))
-        # train_iters(ae_model, dis_model, epochs_done)
-        train_iters(ae_model, dis_model, cycle = True)
+        # train_iters(ae_model, dis_model, cycle = True, epochs_done=epochs_done)
     else:
         train_iters(ae_model, dis_model)
 

@@ -448,8 +448,8 @@ class CycleReconstructionLoss(nn.Module):
         
         # greedy decode is applied on the latent representation
         decoded_x_hat = self.ae_model.greedy_decode(z_star, self.max_sequence_length, self.id_bos)
-        print(f'decoded x hat: {decoded_x_hat}')
-        print(f'shape of decoded x hat: {decoded_x_hat.shape}')
+        # print(f'decoded x hat: {decoded_x_hat}')
+        # print(f'shape of decoded x hat: {decoded_x_hat.shape}')
         # x_hat_text = self.id2text_sentence(decoded_x_hat[0], self.id_to_word)
         
         # feed this into the model again, this time, reversing the target
@@ -491,7 +491,7 @@ def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bo
         print("gold:", gold_text)
     best_diff = 100
     best_z_star = None
-    for epsilon in [2.0, 4.0, 6.0]:
+    for epsilon in [6.0, 8.0]:
         it = 0
         data = origin_data
         while True:
@@ -538,11 +538,11 @@ def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bo
                 best_diff = difference
             
             if best_diff < 1e-3:
-                print(f'y\' - C(z*) = {best_diff}')
+                # print(f'y\' - C(z*) = {best_diff}')
                 return generator_text, data
             if it >= 5:
                 break
-    print(f'y\' - C(z*) = {best_diff}')
+    # print(f'y\' - C(z*) = {best_diff}')
     return "", best_z_star
 
 
