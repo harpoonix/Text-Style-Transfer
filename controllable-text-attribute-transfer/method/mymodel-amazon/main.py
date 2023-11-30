@@ -15,12 +15,12 @@ from matplotlib import pyplot as plt
 
 
 # Import your model files.
-from model import make_model, Classifier, NoamOpt, LabelSmoothing, fgim_attack
-from data import prepare_data, non_pair_data_loader, get_cuda, pad_batch_seuqences, load_human_answer,\
-    id2text_sentence, to_var, calc_bleu
+from model import make_model, Classifier, NoamOpt, LabelSmoothing, fgim_attack, CycleReconstructionLoss
+from data import prepare_data, non_pair_data_loader, get_cuda, pad_batch_seuqences, id2text_sentence,\
+    to_var, calc_bleu, load_human_answer
 
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
-# os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 ######################################################################################
 #  Environmental parameters
@@ -42,7 +42,7 @@ parser.add_argument('--data_path', type=str, default='', help='')
 #  Model parameters
 ######################################################################################
 parser.add_argument('--word_dict_max_num', type=int, default=5, help='')
-parser.add_argument('--batch_size', type=int, default=128, help='')
+parser.add_argument('--batch_size', type=int, default=512, help='')
 parser.add_argument('--max_sequence_length', type=int, default=60)
 parser.add_argument('--num_layers_AE', type=int, default=2)
 parser.add_argument('--transformer_model_size', type=int, default=256)
@@ -54,12 +54,12 @@ parser.add_argument('--embedding_dropout', type=float, default=0.5)
 parser.add_argument('--learning_rate', type=float, default=0.001)
 parser.add_argument('--label_size', type=int, default=1)
 
-
 args = parser.parse_args()
-args.if_load_from_checkpoint = False
 
-# args.if_load_from_checkpoint = True
-# args.checkpoint_name = "1557668663"
+# args.if_load_from_checkpoint = False
+args.if_load_from_checkpoint = True
+args.checkpoint_name = "1700501011"
+epochs_done = 0
 
 ######################################################################################
 #  End of hyper parameters
@@ -78,7 +78,6 @@ def add_output(ss):
     with open(args.output_file, 'a') as f:
         f.write(str(ss) + '\n')
     return
-
 
 
 def preparation():
@@ -117,7 +116,8 @@ def preparation():
     return
 
 
-def train_iters(ae_model, dis_model):
+def train_iters(ae_model, dis_model, cycle = False, epochs_done=0):
+    torch.cuda.empty_cache()
     train_data_loader = non_pair_data_loader(
         batch_size=args.batch_size, id_bos=args.id_bos,
         id_eos=args.id_eos, id_unk=args.id_unk,
@@ -133,47 +133,77 @@ def train_iters(ae_model, dis_model):
     dis_optimizer = torch.optim.Adam(dis_model.parameters(), lr=0.0001)
 
     ae_criterion = get_cuda(LabelSmoothing(size=args.vocab_size, padding_idx=args.id_pad, smoothing=0.1))
-    dis_criterion = nn.BCELoss(size_average=True)
+    dis_criterion = nn.BCELoss(reduction='mean')
+    
+    #cycle reconstruction loss
+    cycle_optimiser = NoamOpt(ae_model.src_embed[0].d_model, 1, 2000,
+                              torch.optim.Adam(ae_model.parameters(), lr=0, betas=(0.9, 0.98), eps=1e-9))
+    
+    cycle_criterion = get_cuda(CycleReconstructionLoss(fgim_attack, dis_model, ae_model, args.max_sequence_length, args.id_bos, args.id_eos, id2text_sentence, args.id_to_word, args.id_unk, args.vocab_size))
 
-    for epoch in range(200):
+    for epoch in range(epochs_done, 50):
         print('-' * 94)
         epoch_start_time = time.time()
         for it in range(train_data_loader.num_batch):
             batch_sentences, tensor_labels, \
             tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
             tensor_tgt_mask, tensor_ntokens = train_data_loader.next_batch()
+            
+            # print(f'tensor src: {tensor_src}, tensor tgt: {tensor_tgt}, tensor tgt y: {tensor_tgt_y}')
+            # print(f'faaltu info masks, tensor src mask: {tensor_src_mask}, tensor tgt mask: {tensor_tgt_mask}, tensor ntokens: {tensor_ntokens}')
+            # print(f'tensor src shape: {tensor_src.shape}, tensor tgt shape: {tensor_tgt.shape}, tensor tgt y shape: {tensor_tgt_y.shape}')
+            # print(f'tensor labels shape: {tensor_labels.shape}')
+            # print(f'tensor labels: {tensor_labels}')
 
-            # Forward pass
-            latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+            if cycle:
+                # Cycle reconstruction loss
+                # target label
+                target = get_cuda(tensor_labels.clone())
+                
+                cycle_optimiser.optimizer.zero_grad()
+                loss_cycle = cycle_criterion(target, tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+                
+                loss_cycle.backward()
+                cycle_optimiser.step()
 
-            # Loss calculation
-            loss_rec = ae_criterion(out.contiguous().view(-1, out.size(-1)),
-                                    tensor_tgt_y.contiguous().view(-1)) / tensor_ntokens.data
+            else:
+                # Forward pass
+                latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
 
-            ae_optimizer.optimizer.zero_grad()
+                # Loss calculation
+                loss_rec = ae_criterion(out.contiguous().view(-1, out.size(-1)),
+                                        tensor_tgt_y.contiguous().view(-1)) / tensor_ntokens.data
 
-            loss_rec.backward()
-            ae_optimizer.step()
+                ae_optimizer.optimizer.zero_grad()
 
-            # Classifier
-            dis_lop = dis_model.forward(to_var(latent.clone()))
+                loss_rec.backward()
+                ae_optimizer.step()
 
-            loss_dis = dis_criterion(dis_lop, tensor_labels)
+                # Classifier
+                dis_lop = dis_model.forward(to_var(latent.clone()))
 
-            dis_optimizer.zero_grad()
-            loss_dis.backward()
-            dis_optimizer.step()
+                loss_dis = dis_criterion(dis_lop, tensor_labels)
+
+                dis_optimizer.zero_grad()
+                loss_dis.backward()
+                dis_optimizer.step()
+        
 
             if it % 200 == 0:
-                add_log(
-                    '| epoch {:3d} | {:5d}/{:5d} batches | rec loss {:5.4f} | dis loss {:5.4f} |'.format(
-                        epoch, it, train_data_loader.num_batch, loss_rec, loss_dis))
+                if cycle:
+                    add_log(
+                        '| epoch {:3d} | {:5d}/{:5d} batches | rec loss {:5.4f} |'.format(
+                            epoch, it, train_data_loader.num_batch, loss_cycle))
+                else:
+                    add_log(
+                        '| epoch {:3d} | {:5d}/{:5d} batches | rec loss {:5.4f} | dis loss {:5.4f} |'.format(
+                            epoch, it, train_data_loader.num_batch, loss_rec, loss_dis))
 
-                print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
-                generator_text = ae_model.greedy_decode(latent,
-                                                        max_len=args.max_sequence_length,
-                                                        start_id=args.id_bos)
-                print(id2text_sentence(generator_text[0], args.id_to_word))
+                    print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
+                    generator_text = ae_model.greedy_decode(latent,
+                                                            max_len=args.max_sequence_length,
+                                                            start_id=args.id_bos)
+                    print(id2text_sentence(generator_text[0], args.id_to_word))
 
         add_log(
             '| end of epoch {:3d} | time: {:5.2f}s |'.format(
@@ -182,6 +212,7 @@ def train_iters(ae_model, dis_model):
         torch.save(ae_model.state_dict(), args.current_save_path + 'ae_model_params.pkl')
         torch.save(dis_model.state_dict(), args.current_save_path + 'dis_model_params.pkl')
     return
+
 
 def eval_iters(ae_model, dis_model):
     eval_data_loader = non_pair_data_loader(
@@ -203,12 +234,18 @@ def eval_iters(ae_model, dis_model):
 
 
     add_log("Start eval process.")
+
+    auto_eval(ae_model, dis_model, eval_data_loader, gold_ans)
+    return
+
     ae_model.eval()
     dis_model.eval()
     for it in range(eval_data_loader.num_batch):
         batch_sentences, tensor_labels, \
         tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
         tensor_tgt_mask, tensor_ntokens = eval_data_loader.next_batch()
+        
+        # print(f'tensor src shape: {tensor_src.shape}, tensor tgt shape: {tensor_tgt.shape}, tensor tgt y shape: {tensor_tgt_y.shape}')
 
         print("------------%d------------" % it)
         print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
@@ -226,10 +263,49 @@ def eval_iters(ae_model, dis_model):
             target = get_cuda(torch.tensor([[0.0]], dtype=torch.float))
         print("target_labels", target)
 
-        modify_text = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
-                                        id2text_sentence, args.id_to_word, gold_ans[it])
+        modify_text, _ = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
+                                        id2text_sentence, args.id_to_word, gold_ans[it], train = False)
         add_output(modify_text)
     return
+
+def auto_eval(ae_model, dis_model, eval_data_loader, gold_ans):
+    ae_model.eval()
+    dis_model.eval()
+
+    sum = 0
+    for it in range(eval_data_loader.num_batch):
+        batch_sentences, tensor_labels, \
+        tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
+        tensor_tgt_mask, tensor_ntokens = eval_data_loader.next_batch()
+
+        inp_text = id2text_sentence(tensor_tgt_y[0], args.id_to_word)
+
+        latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+
+        target = get_cuda(torch.tensor([[1.0]], dtype=torch.float))
+        if tensor_labels[0].item() > 0.5:
+            target = get_cuda(torch.tensor([[0.0]], dtype=torch.float))
+        modify_text, _ = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
+                                        id2text_sentence, args.id_to_word, gold_ans[it], train = False)
+        
+        add_output("Inp text: " + inp_text)
+        add_output("mod text: " + modify_text)
+        add_output("gold text: " + id2text_sentence(gold_ans[it], args.id_to_word))
+        # print("Inp text: ", inp_text)
+        # print("mod text: ", modify_text)
+        # print("gold text: ", id2text_sentence(gold_ans[it], args.id_to_word))
+
+        bleu_score = calc_bleu([inp_text.split()], modify_text.split())
+
+        sum += bleu_score
+        add_output(f"Bleu score: {bleu_score}")
+
+        # print(calc_bleu([id2text_sentence(gold_ans[it], args.id_to_word).split()], modify_text.split()))
+        if it % 10 == 1:
+            print(f"Bleu score (iter: {it}): {sum/it}")
+
+    print(f"Bleu score: {sum/it}")
+
 
 if __name__ == '__main__':
     preparation()
@@ -246,10 +322,10 @@ if __name__ == '__main__':
         # Load models' params from checkpoint
         ae_model.load_state_dict(torch.load(args.current_save_path + 'ae_model_params.pkl'))
         dis_model.load_state_dict(torch.load(args.current_save_path + 'dis_model_params.pkl'))
+        # train_iters(ae_model, dis_model, cycle = True, epochs_done=epochs_done)
     else:
         train_iters(ae_model, dis_model)
 
     eval_iters(ae_model, dis_model)
 
     print("Done!")
-

@@ -7,7 +7,7 @@ class Config():
     log_dir = 'runs/exp'
     save_path = './save'
     pretrained_embed_path = './embedding/'
-    device = torch.device('cuda' if True and torch.cuda.is_available() else 'cpu', 0)
+    device = torch.device('cuda' if True and torch.cuda.is_available() else 'cpu')
     discriminator_method = 'Multi' # 'Multi' or 'Cond'
     load_pretrained_embed = False
     min_freq = 3
@@ -45,8 +45,8 @@ best_ckpt = 8850
 ckpt_folder = "save/Nov07025149"
 
 def main():
-    print(torch.__version__)
-    print(torch.cuda.is_available())
+    # print(torch.__version__)
+    # print(torch.cuda.is_available())
 
     config = Config()
     # train_iters, dev_iters, test_iters, vocab = load_dataset(config)
@@ -54,7 +54,7 @@ def main():
 
     vocab = torch.load('save/vocab_obj.pth')
 
-    print('Vocab size:', len(vocab))
+    # print('Vocab size:', len(vocab))
     model_F = StyleTransformer(config, vocab).to(config.device)
     model_D = Discriminator(config, vocab).to(config.device)
 
@@ -97,7 +97,7 @@ def main():
 
         rev_sentence =  tensor2text(vocab, raw_log_probs.argmax(-1).cpu())
 
-        print("Rev sentence: ", rev_sentence)
+        print("Rev sentence: ", rev_sentence[0])
     
 
 if __name__ == '__main__':
