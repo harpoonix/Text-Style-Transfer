@@ -26,3 +26,6 @@ A demo of the style transfer task using our best trained model can be found in [
 - Wang et. al model: trained on [amazon](./controllable-text-attribute-transfer/method/mymodel-amazon/save/1700501011/), [yelp](./controllable-text-attribute-transfer/method/mymodel-yelp/save/1699447740/)
 - Dai et. al model: [multi-class](./style-transformer/save/Nov07025149/ckpts/)
 
+
+## Report
+https://drive.google.com/file/d/1SYTfO6GON6mF3fRq9uBd8rnooW4l5CYs/view?usp=sharing
