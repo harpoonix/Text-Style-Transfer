@@ -23,5 +23,6 @@ A demo of the style transfer task using our best trained model can be found in [
 
 ## Our Saved weights
 
-- Wang et. al model: 
-- Dai et. al model: 
+- Wang et. al model: trained on [amazon](./controllable-text-attribute-transfer/method/mymodel-amazon/save/1700501011/), [yelp](./controllable-text-attribute-transfer/method/mymodel-yelp/save/1699447740/)
+- Dai et. al model: [multi-class](./style-transformer/save/Nov07025149/ckpts/)
+
