@@ -156,6 +156,9 @@ def train_iters(ae_model, dis_model, cycle = False, epochs_done=0):
             # print(f'tensor labels: {tensor_labels}')
 
             if cycle:
+                """
+                We train on the cycle reconstruction loss after training the autoencoder and classifier for 200 epochs
+                """
                 # Cycle reconstruction loss
                 # target label
                 target = get_cuda(tensor_labels.clone())
@@ -266,6 +269,11 @@ def eval_iters(ae_model, dis_model):
         modify_text, _ = fgim_attack(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
                                         id2text_sentence, args.id_to_word, gold_ans[it], train = False)
         add_output(modify_text)
+
+        """Calculate the BLEU scores between the original and modified text and the gold and modified text"""
+        
+        print(f'Bleu score between original and modified text: {calc_bleu(id2text_sentence(tensor_tgt_y[0], args.id_to_word), modify_text)}')
+        print(f'Bleu score between gold and modified text: {calc_bleu(gold_ans[it], modify_text)}') 
     return
 
 def auto_eval(ae_model, dis_model, eval_data_loader, gold_ans):

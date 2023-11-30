@@ -489,21 +489,84 @@ class Classifier(nn.Module):
         # out = F.log_softmax(out, dim=1)
         return out  # batch_size * label_size
 
+class CycleReconstructionLoss(nn.Module):
+    """Implement Cycle Reconstruction Loss."""
+    
+    def __init__(self, fgim_attack, dis_model, ae_model, max_sequence_length, id_bos, id_eos, id2text_sentence, id_to_word, id_unk, vocab_size):
+        super(CycleReconstructionLoss, self).__init__()
+        self.criterion = nn.CrossEntropyLoss()
+        self.fgim_attack = fgim_attack
+        self.dis_model = dis_model
+        self.ae_model = ae_model
+        self.max_sequence_length = max_sequence_length
+        self.id_bos = id_bos
+        self.id_eos = id_eos
+        self.id2text_sentence = id2text_sentence
+        self.id_to_word = id_to_word
+        self.id_unk = id_unk
+        self.vocab_size = vocab_size
+    
+    def forward(self, target, tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask):
+        z, _ = self.ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+        _, z_star = self.fgim_attack(self.dis_model, z, target, self.ae_model, self.max_sequence_length, self.id_bos, self.id2text_sentence, self.id_to_word, train = True)
+        # (model, origin_data, target, ae_model, max_sequence_length, id_bos,
+        #         id2text_sentence, id_to_word, gold_ans
+        
+        # x_hat = self.ae_model.decode(z_star.unsqueeze(1), tensor_tgt, tensor_tgt_mask)
+        # x_hat = self.ae_model.generator(x_hat)
+        # print("x_hat", x_hat.size())
+        
+        # greedy decode is applied on the latent representation
+        decoded_x_hat = self.ae_model.greedy_decode(z_star, self.max_sequence_length, self.id_bos)
+        print(f'decoded x hat: {decoded_x_hat}')
+        print(f'shape of decoded x hat: {decoded_x_hat.shape}')
+        # x_hat_text = self.id2text_sentence(decoded_x_hat[0], self.id_to_word)
+        
+        # feed this into the model again, this time, reversing the target
+        # hopefully should get the original input
+
+        batch_encoder_input, batch_decoder_input, batch_decoder_target, \
+        batch_encoder_length, batch_decoder_length = pad_batch_seuqences(
+                decoded_x_hat.tolist(), self.id_bos, self.id_eos, self.id_unk, self.max_sequence_length, self.vocab_size,)
+        src = get_cuda(torch.tensor(batch_encoder_input, dtype=torch.long))
+        tgt = get_cuda(torch.tensor(batch_decoder_input, dtype=torch.long))
+        tgt_y = get_cuda(torch.tensor(batch_decoder_target, dtype=torch.long))
+
+        src_mask = (src != 0).unsqueeze(-2)
+        tgt_mask = self.make_std_mask(tgt, 0)
+        ntokens = (tgt_y != 0).data.sum().float()
+
+        z_hat, _ = self.ae_model.forward(src, tgt, src_mask, tgt_mask)
+        _, z_hat_star = self.fgim_attack(self.dis_model, z_hat, 1 - target, self.ae_model, self.max_sequence_length, self.id_bos, self.id2text_sentence, self.id_to_word)
+        x_hat_hat = self.ae_model.decode(z_hat_star.unsqueeze(1), tgt, tgt_mask)
+        x_hat_hat = self.ae_model.generator(x_hat_hat)
+        # decoded_x_hat_hat = self.ae_model.greedy_decode(x_hat_hat, self.max_sequence_length, self.id_bos)
+        
+        return self.criterion(x_hat_hat.contiguous().view(-1, x_hat_hat.size(-1)), tgt_y.contiguous().view(-1)) / ntokens
+        
+    def make_std_mask(self, tgt, pad):
+        """Create a mask to hide padding and future words."""
+        tgt_mask = (tgt != pad).unsqueeze(-2)
+        tgt_mask = tgt_mask & Variable(
+            subsequent_mask(tgt.size(-1)).type_as(tgt_mask.data))
+        return tgt_mask
+
 
 def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bos,
-                id2text_sentence, id_to_word, gold_ans):
+                id2text_sentence, id_to_word, gold_ans = None, train = True):
     """Fast Gradient Iterative Methods"""
 
-    dis_criterion = nn.BCELoss(size_average=True)
-
-    gold_text = id2text_sentence(gold_ans, id_to_word)
-    print("gold:", gold_text)
-    # while True:
-    for epsilon in [2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0]:
+    dis_criterion = nn.BCELoss(reduction='mean')
+    if (gold_ans != None):
+        gold_text = id2text_sentence(gold_ans, id_to_word)
+        print("gold:", gold_text)
+    best_diff = 100
+    best_z_star = None
+    for epsilon in [2.0, 4.0, 6.0]:
         it = 0
         data = origin_data
         while True:
-            print("epsilon:", epsilon)
+            # print("epsilon:", epsilon)
 
             data = to_var(data.clone())  # (batch_size, seq_length, latent_size)
             # Set requires_grad attribute of tensor. Important for Attack
@@ -512,8 +575,10 @@ def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bo
             # Calculate gradients of model in backward pass
             # print("target", target[0].item())
             # print("output", output[0].item())
+            # print(f'shape of target: {target.shape}, output: {output.shape}')
             loss = dis_criterion(output, target)
             model.zero_grad()
+            # dis_optimizer.zero_grad()
             loss.backward()
             data_grad = data.grad.data
             # print("data_grad")
@@ -528,16 +593,28 @@ def fgim_attack(model, origin_data, target, ae_model, max_sequence_length, id_bo
             it += 1
             # data = perturbed_data
             epsilon = epsilon * 0.9
+            
+            generator_text = ''
 
-            generator_id = ae_model.greedy_decode(data,
+            if not train: 
+                generator_id = ae_model.greedy_decode(data,
                                                     max_len=max_sequence_length,
                                                     start_id=id_bos)
-            generator_text = id2text_sentence(generator_id[0], id_to_word)
-            print("| It {:2d} | dis model pred {:5.4f} |".format(it, output[0].item()))
-            print(generator_text)
+                generator_text = id2text_sentence(generator_id[0], id_to_word)
+                print("| It {:2d} | dis model pred {:5.4f} |".format(it, output[0].item()))
+                print(generator_text)
+            difference = torch.linalg.norm(target - model.forward(data))
+            if (difference < best_diff):
+                best_z_star = data
+                best_diff = difference
+            
+            if best_diff < 1e-3:
+                print(f'y\' - C(z*) = {best_diff}')
+                return generator_text, data
             if it >= 5:
                 break
-    return
+    print(f'y\' - C(z*) = {best_diff}')
+    return "", best_z_star
 
 
 
